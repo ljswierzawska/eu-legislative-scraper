@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+scrape_run_log.txt

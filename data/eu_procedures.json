@@ -1,0 +1,508 @@
+[
+  {
+    "content_hash": "a47e862f1c32110e06cd9467b959c0e9",
+    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0169(COD)",
+    "reference": "2026/0169(COD)",
+    "title": "Energy and tyre labelling: simplification and digitalisation",
+    "status": "Preparatory phase in Parliament",
+    "subjects": [
+      "3.20.05 Road transport: passengers and freight",
+      "3.40.03 Motor industry, cycle and motorcycle, commercial and agricultural vehicles",
+      "3.60.08 Energy efficiency",
+      "4.60.02 Consumer information, advertising, labelling"
+    ],
+    "technical_information": {
+      "Procedure reference": "2026/0169(COD)",
+      "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+      "Procedure subtype": "Legislation",
+      "Legislative instrument": "Regulation",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 114-p1",
+      "Mandatory consultation of other institutions": {
+        "text": "European Economic and Social Committee European Committee of the Regions",
+        "links": [
+          "http://www.eesc.europa.eu/",
+          "http://www.cor.europa.eu/"
+        ]
+      },
+      "Stage reached in procedure": "Preparatory phase in Parliament"
+    },
+    "key_players": [
+      {
+        "institution": "European Parliament",
+        "rows": [
+          {
+            "Committee responsible": "Pending final decision on the referral"
+          }
+        ]
+      },
+      {
+        "institution": "Council of the European Union",
+        "rows": []
+      },
+      {
+        "institution": "European Commission",
+        "rows": [
+          {
+            "Commission DG": "Energy",
+            "Commission DG_links": [
+              "https://commission.europa.eu/about/departments-and-executive-agencies/energy_en"
+            ],
+            "Commissioner": "J\u00d8RGENSEN Dan"
+          }
+        ]
+      },
+      {
+        "institution": "European Economic and Social Committee",
+        "rows": []
+      },
+      {
+        "institution": "European Committee of the Regions",
+        "rows": []
+      }
+    ],
+    "timeline": [
+      {
+        "Date": "24/06/2026",
+        "Event": "Legislative proposal published",
+        "Reference": "COM(2026)0565",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0565/COM_COM(2026)0565_EN.pdf",
+          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0565"
+        ],
+        "Summary": "Summary",
+        "Summary_links": [
+          "/oeil/en/document-summary?id=1906822"
+        ]
+      }
+    ],
+    "last_action": "24/06/2026 - Legislative proposal published",
+    "documents": [
+      {
+        "institution": "European Commission",
+        "rows": [
+          {
+            "Document type": "Legislative proposal",
+            "Reference": "COM(2026)0565",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0565/COM_COM(2026)0565_EN.pdf",
+              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0565"
+            ],
+            "Date": "24/06/2026",
+            "Summary": "Summary",
+            "Summary_links": [
+              "/oeil/en/document-summary?id=1906822"
+            ]
+          },
+          {
+            "Document type": "Document attached to the procedure",
+            "Reference": "SEC(2026)0565",
+            "Reference_links": [
+              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=SECfinal&an_doc=2026&nu_doc=0565"
+            ],
+            "Date": "25/06/2026",
+            "Summary": ""
+          },
+          {
+            "Document type": "Document attached to the procedure",
+            "Reference": "SWD(2026)0565",
+            "Reference_links": [
+              "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:0565:FIN:EN:PDF"
+            ],
+            "Date": "25/06/2026",
+            "Summary": ""
+          },
+          {
+            "Document type": "Document attached to the procedure",
+            "Reference": "SWD(2026)0566",
+            "Reference_links": [
+              "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:0566:FIN:EN:PDF"
+            ],
+            "Date": "25/06/2026",
+            "Summary": ""
+          }
+        ]
+      }
+    ],
+    "additional_information": [
+      {
+        "Source": "European Commission",
+        "Document": "EUR-Lex",
+        "Document_links": [
+          "https://eur-lex.europa.eu/search.html?LP_INTER_CODE_NUM=0169*&SUBDOM_INIT=LEGAL_PROCEDURE&DTS_SUBDOM=LEGAL_PROCEDURE&DTS_DOM=EU_LAW&lang=en&locale=en&type=advanced&LP_INTER_CODE_YEAR=2026"
+        ],
+        "Date": ""
+      }
+    ]
+  },
+  {
+    "content_hash": "dab8d93a74aee5dfefa63c199d156ad5",
+    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0172(COD)",
+    "reference": "2026/0172(COD)",
+    "title": "European Investigation Order in criminal matters and European Remote Participation Order (recast)",
+    "status": "Preparatory phase in Parliament",
+    "subjects": [
+      "7.40.04 Judicial cooperation in criminal matters"
+    ],
+    "technical_information": {
+      "Procedure reference": "2026/0172(COD)",
+      "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+      "Procedure subtype": "Recast",
+      "Legislative instrument": "Directive",
+      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 113 Treaty on the Functioning of the European Union TFEU 082-p1",
+      "Stage reached in procedure": "Preparatory phase in Parliament"
+    },
+    "key_players": [
+      {
+        "institution": "European Parliament",
+        "rows": [
+          {
+            "Committee responsible": "Pending final decision on the referral"
+          }
+        ]
+      },
+      {
+        "institution": "Council of the European Union",
+        "rows": []
+      },
+      {
+        "institution": "European Commission",
+        "rows": [
+          {
+            "Commission DG": "Justice and Consumers",
+            "Commission DG_links": [
+              "https://commission.europa.eu/about/departments-and-executive-agencies/justice-and-consumers_en"
+            ],
+            "Commissioner": "MCGRATH Michael"
+          }
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "Date": "23/06/2026",
+        "Event": "Legislative proposal published",
+        "Reference": "COM(2026)0313",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0313/COM_COM(2026)0313_EN.pdf",
+          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0313"
+        ],
+        "Summary": "Summary",
+        "Summary_links": [
+          "/oeil/en/document-summary?id=1906436"
+        ]
+      }
+    ],
+    "last_action": "23/06/2026 - Legislative proposal published",
+    "documents": [
+      {
+        "institution": "European Commission",
+        "rows": [
+          {
+            "Document type": "Legislative proposal",
+            "Reference": "COM(2026)0313",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0313/COM_COM(2026)0313_EN.pdf",
+              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0313"
+            ],
+            "Date": "23/06/2026",
+            "Summary": "Summary",
+            "Summary_links": [
+              "/oeil/en/document-summary?id=1906436"
+            ]
+          }
+        ]
+      }
+    ],
+    "additional_information": [
+      {
+        "Source": "European Commission",
+        "Document": "EUR-Lex",
+        "Document_links": [
+          "https://eur-lex.europa.eu/search.html?LP_INTER_CODE_NUM=0172*&SUBDOM_INIT=LEGAL_PROCEDURE&DTS_SUBDOM=LEGAL_PROCEDURE&DTS_DOM=EU_LAW&lang=en&locale=en&type=advanced&LP_INTER_CODE_YEAR=2026"
+        ],
+        "Date": ""
+      }
+    ]
+  },
+  {
+    "content_hash": "a984af782e4b434834c4dc85d1321674",
+    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0173(COD)",
+    "reference": "2026/0173(COD)",
+    "title": "Protection of individuals with regard to the processing of operational personal data by Union bodies, offices and agencies in the fields of judicial cooperation in criminal matters and police cooperation",
+    "status": "Preparatory phase in Parliament",
+    "subjects": [
+      "1.20.02 Social and economic rights",
+      "7.40.04 Judicial cooperation in criminal matters",
+      "8.40.08 Agencies and bodies of the EU"
+    ],
+    "technical_information": {
+      "Procedure reference": "2026/0173(COD)",
+      "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+      "Procedure subtype": "Legislation",
+      "Legislative instrument": "Regulation",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 016-p2",
+      "Stage reached in procedure": "Preparatory phase in Parliament"
+    },
+    "key_players": [
+      {
+        "institution": "European Parliament",
+        "rows": [
+          {
+            "Committee responsible": "Pending final decision on the referral"
+          }
+        ]
+      },
+      {
+        "institution": "Council of the European Union",
+        "rows": []
+      },
+      {
+        "institution": "European Commission",
+        "rows": [
+          {
+            "Commission DG": "Justice and Consumers",
+            "Commission DG_links": [
+              "https://commission.europa.eu/about/departments-and-executive-agencies/justice-and-consumers_en"
+            ],
+            "Commissioner": "MCGRATH Michael"
+          }
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "Date": "23/06/2026",
+        "Event": "Legislative proposal published",
+        "Reference": "COM(2026)0314",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0314/COM_COM(2026)0314_EN.pdf",
+          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0314"
+        ],
+        "Summary": "Summary",
+        "Summary_links": [
+          "/oeil/en/document-summary?id=1906431"
+        ]
+      }
+    ],
+    "last_action": "23/06/2026 - Legislative proposal published",
+    "documents": [
+      {
+        "institution": "European Commission",
+        "rows": [
+          {
+            "Document type": "Legislative proposal",
+            "Reference": "COM(2026)0314",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0314/COM_COM(2026)0314_EN.pdf",
+              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0314"
+            ],
+            "Date": "23/06/2026",
+            "Summary": "Summary",
+            "Summary_links": [
+              "/oeil/en/document-summary?id=1906431"
+            ]
+          }
+        ]
+      }
+    ],
+    "additional_information": [
+      {
+        "Source": "European Commission",
+        "Document": "EUR-Lex",
+        "Document_links": [
+          "https://eur-lex.europa.eu/search.html?LP_INTER_CODE_NUM=0173*&SUBDOM_INIT=LEGAL_PROCEDURE&DTS_SUBDOM=LEGAL_PROCEDURE&DTS_DOM=EU_LAW&lang=en&locale=en&type=advanced&LP_INTER_CODE_YEAR=2026"
+        ],
+        "Date": ""
+      }
+    ]
+  },
+  {
+    "content_hash": "d612c62a5addfc4eb8ce0cb77bea43c4",
+    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0181(COD)",
+    "reference": "2026/0181(COD)",
+    "title": "European citizens\u2019 initiative: Commission\u2019s power to adopt delegated acts",
+    "status": "Preparatory phase in Parliament",
+    "subjects": [
+      "8.40.03 European Commission",
+      "8.50 EU law"
+    ],
+    "technical_information": {
+      "Procedure reference": "2026/0181(COD)",
+      "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+      "Procedure subtype": "Legislation",
+      "Legislative instrument": "Regulation",
+      "Amendments and repeals": {
+        "text": "Amending Regulation 2019/788 2017/0220(COD)",
+        "links": [
+          "/oeil/en/procedure-file?reference=2017/0220(COD)"
+        ]
+      },
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 024-p1",
+      "Stage reached in procedure": "Preparatory phase in Parliament"
+    },
+    "key_players": [
+      {
+        "institution": "European Parliament",
+        "rows": [
+          {
+            "Committee responsible": "Pending final decision on the referral"
+          }
+        ]
+      },
+      {
+        "institution": "Council of the European Union",
+        "rows": []
+      },
+      {
+        "institution": "European Commission",
+        "rows": [
+          {
+            "Commission DG": "Secretariat-General",
+            "Commission DG_links": [
+              "https://commission.europa.eu/about/departments-and-executive-agencies/secretariat-general_en"
+            ],
+            "Commissioner": "\u0160EF\u010cOVI\u010c Maro\u0161"
+          }
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "Date": "03/07/2026",
+        "Event": "Legislative proposal published",
+        "Reference": "COM(2026)0339",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0339/COM_COM(2026)0339_EN.pdf",
+          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0339"
+        ],
+        "Summary": "Summary",
+        "Summary_links": [
+          "/oeil/en/document-summary?id=1907958"
+        ]
+      }
+    ],
+    "last_action": "03/07/2026 - Legislative proposal published",
+    "documents": [
+      {
+        "institution": "European Commission",
+        "rows": [
+          {
+            "Document type": "Legislative proposal",
+            "Reference": "COM(2026)0339",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0339/COM_COM(2026)0339_EN.pdf",
+              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0339"
+            ],
+            "Date": "03/07/2026",
+            "Summary": "Summary",
+            "Summary_links": [
+              "/oeil/en/document-summary?id=1907958"
+            ]
+          }
+        ]
+      }
+    ],
+    "additional_information": [
+      {
+        "Source": "European Commission",
+        "Document": "EUR-Lex",
+        "Document_links": [
+          "https://eur-lex.europa.eu/search.html?LP_INTER_CODE_NUM=0181*&SUBDOM_INIT=LEGAL_PROCEDURE&DTS_SUBDOM=LEGAL_PROCEDURE&DTS_DOM=EU_LAW&lang=en&locale=en&type=advanced&LP_INTER_CODE_YEAR=2026"
+        ],
+        "Date": ""
+      }
+    ]
+  },
+  {
+    "content_hash": "d56006c7e7b85d1cebd255808de8080b",
+    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0189(COD)",
+    "reference": "2026/0189(COD)",
+    "title": "Temporary trade-liberalisation measures applicable to Armenian products",
+    "status": "Preparatory phase in Parliament",
+    "subjects": [
+      "6.20.03 Bilateral economic and trade agreements and relations",
+      "6.40.15 European neighbourhood policy",
+      "8.20.01 Candidate countries"
+    ],
+    "technical_information": {
+      "Procedure reference": "2026/0189(COD)",
+      "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+      "Procedure subtype": "Legislation",
+      "Legislative instrument": "Regulation",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 207-p2",
+      "Stage reached in procedure": "Preparatory phase in Parliament"
+    },
+    "key_players": [
+      {
+        "institution": "European Parliament",
+        "rows": [
+          {
+            "Committee responsible": "Pending final decision on the referral"
+          }
+        ]
+      },
+      {
+        "institution": "Council of the European Union",
+        "rows": []
+      },
+      {
+        "institution": "European Commission",
+        "rows": [
+          {
+            "Commission DG": "Trade and Economic Security",
+            "Commission DG_links": [
+              "https://commission.europa.eu/about/departments-and-executive-agencies/trade-and-economic-security_en"
+            ],
+            "Commissioner": "\u0160EF\u010cOVI\u010c Maro\u0161"
+          }
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "Date": "02/07/2026",
+        "Event": "Legislative proposal published",
+        "Reference": "COM(2026)0348",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0348/COM_COM(2026)0348_EN.pdf",
+          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0348"
+        ],
+        "Summary": "Summary",
+        "Summary_links": [
+          "/oeil/en/document-summary?id=1907631"
+        ]
+      }
+    ],
+    "last_action": "02/07/2026 - Legislative proposal published",
+    "documents": [
+      {
+        "institution": "European Commission",
+        "rows": [
+          {
+            "Document type": "Legislative proposal",
+            "Reference": "COM(2026)0348",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0348/COM_COM(2026)0348_EN.pdf",
+              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0348"
+            ],
+            "Date": "02/07/2026",
+            "Summary": "Summary",
+            "Summary_links": [
+              "/oeil/en/document-summary?id=1907631"
+            ]
+          }
+        ]
+      }
+    ],
+    "additional_information": [
+      {
+        "Source": "European Commission",
+        "Document": "EUR-Lex",
+        "Document_links": [
+          "https://eur-lex.europa.eu/search.html?LP_INTER_CODE_NUM=0189*&SUBDOM_INIT=LEGAL_PROCEDURE&DTS_SUBDOM=LEGAL_PROCEDURE&DTS_DOM=EU_LAW&lang=en&locale=en&type=advanced&LP_INTER_CODE_YEAR=2026"
+        ],
+        "Date": ""
+      }
+    ]
+  }
+]
