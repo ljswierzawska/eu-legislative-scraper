@@ -1,0 +1,38 @@
+{
+  "date": "2026-07-25",
+  "errors": [
+    {
+      "reference": "2023/0053(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0053(COD)",
+      "error_type": "ConnectionError",
+      "message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/requests/adapters.py\", line 711, in send",
+        "    raise ConnectionError(err, request=request)",
+        "requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      ]
+    },
+    {
+      "reference": "2022/0278(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2022/0278(COD)",
+      "error_type": "ConnectionError",
+      "message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/requests/adapters.py\", line 711, in send",
+        "    raise ConnectionError(err, request=request)",
+        "requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      ]
+    },
+    {
+      "reference": "2018/0165(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2018/0165(COD)",
+      "error_type": "ConnectionError",
+      "message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/requests/adapters.py\", line 711, in send",
+        "    raise ConnectionError(err, request=request)",
+        "requests.exceptions.ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      ]
+    }
+  ]
+}
