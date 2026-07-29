@@ -1,0 +1,244 @@
+{
+  "date": "2026-07-29",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "reference": "2025/0400(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "530ee6a2af18453ffa82dc767e58fd01",
+          "to": "33824346a5ab32273eef5c7376ca56a3"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2025/0400(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Directive",
+            "Amendments and repeals": {
+              "text": "Amending Directive 2019/944 2016/0380(COD) Amending Directive 2018/2001 2016/0382(COD) Amending Directive 2024/1788 2021/0425(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2016/0380(COD)",
+                "/oeil/en/procedure-file?reference=2016/0382(COD)",
+                "/oeil/en/procedure-file?reference=2021/0425(COD)"
+              ]
+            },
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 294-p7-ac",
+            "Other legal basis": "Rules of Procedure EP 165",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting Parliament's position in 1st reading",
+            "Committee dossier": "ITRE/10/04763"
+          },
+          "to": {
+            "Procedure reference": "2025/0400(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Directive",
+            "Amendments and repeals": {
+              "text": "Amending Directive 2019/944 2016/0380(COD) Amending Directive 2018/2001 2016/0382(COD) Amending Directive 2024/1788 2021/0425(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2016/0380(COD)",
+                "/oeil/en/procedure-file?reference=2016/0382(COD)",
+                "/oeil/en/procedure-file?reference=2021/0425(COD)"
+              ]
+            },
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 194-p2",
+            "Other legal basis": "Rules of Procedure EP 165",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting Parliament's position in 1st reading",
+            "Committee dossier": "ITRE/10/04763"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2025/0239(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "2b41b969a41cfd9af0ce9619a4a6a777",
+          "to": "e16e0e44197abeb02950cda182e925c4"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2025/0239(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 164",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "EMPL/10/03686"
+          },
+          "to": {
+            "Procedure reference": "2025/0239(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 164 Treaty on the Functioning of the European Union TFEU 175-p3",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "EMPL/10/03686"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2022/0345(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "7f4f337bd8bd29a5c4fc44f302553d17",
+          "to": "26089f61e01f4f2904c628a274dd418f"
+        },
+        "timeline": {
+          "from": [],
+          "to": [
+            {
+              "Date": "26/10/2022",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2022)0541",
+              "Reference_links": [
+                "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2022/0541/COM_COM(2022)0541_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2022&nu_doc=0541"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1722263"
+              ]
+            },
+            {
+              "Date": "19/01/2023",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "20/09/2023",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "26/09/2023",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A9-0276/2023",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-9-2023-0276_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "05/10/2023",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T9-0355/2023",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0355_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1760849"
+              ]
+            },
+            {
+              "Date": "05/10/2023",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-9-2023-10-05-VOT_EN.html?item=9"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "05/10/2023",
+              "Event": "Debate in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/CRE-9-2023-10-05-TOC_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "05/10/2023",
+              "Event": "Matter referred back to the committee responsible for interinstitutional negotiations",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "11/03/2024",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "GEDA/A/(2024)133000",
+              "Summary": ""
+            },
+            {
+              "Date": "10/04/2024",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T9-0222/2024",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0222_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1784630"
+              ]
+            },
+            {
+              "Date": "10/04/2024",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-9-2024-04-10-VOT_EN.html?item=54"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "05/11/2024",
+              "Event": "Act adopted by Council after Parliament's 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "27/11/2024",
+              "Event": "Final act signed",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "12/12/2024",
+              "Event": "Final act published in Official Journal",
+              "Reference": "",
+              "Summary": ""
+            }
+          ]
+        },
+        "last_action": {
+          "from": "",
+          "to": "12/12/2024 - Final act published in Official Journal"
+        }
+      }
+    }
+  ]
+}
