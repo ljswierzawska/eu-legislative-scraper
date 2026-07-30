@@ -27118,7 +27118,7 @@
     ]
   },
   {
-    "content_hash": "bda20e335b10f0f37a8a06da27b22a95",
+    "content_hash": "b8ed21f76b9dfec3633171ab056a997a",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2018/0216(COD)",
     "reference": "2018/0216(COD)",
     "title": "Support for strategic plans to be drawn up by Member States under the common agricultural policy (CAP strategic plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) 2021\u20132027",
@@ -27134,12 +27134,13 @@
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
       "Amendments and repeals": {
-        "text": "Repealing Regulation (EU) No 1307/2013 2011/0280(COD) Repealing Regulation (EU) No 1305/2013 2011/0282(COD) Amended by 2022/0164(COD) Amended by 2024/0073(COD) Amended by 2025/0071(COD) Amended by 2025/0236(COD)",
+        "text": "Repealing Regulation (EU) No 1307/2013 2011/0280(COD) Repealing Regulation (EU) No 1305/2013 2011/0282(COD) Amended by 2022/0164(COD) Amended by 2024/0073(COD) Amended by 2024/0319(COD) Amended by 2025/0071(COD) Amended by 2025/0236(COD)",
         "links": [
           "/oeil/en/procedure-file?reference=2011/0280(COD)",
           "/oeil/en/procedure-file?reference=2011/0282(COD)",
           "/oeil/en/procedure-file?reference=2022/0164(COD)",
           "/oeil/en/procedure-file?reference=2024/0073(COD)",
+          "/oeil/en/procedure-file?reference=2024/0319(COD)",
           "/oeil/en/procedure-file?reference=2025/0071(COD)",
           "/oeil/en/procedure-file?reference=2025/0236(COD)"
         ]
@@ -27797,7 +27798,7 @@
     ]
   },
   {
-    "content_hash": "f5092154fd202cf4e6ed9f9346a3f6c8",
+    "content_hash": "e882cb8d6e2d7031f96f578903edaaa5",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2018/0217(COD)",
     "reference": "2018/0217(COD)",
     "title": "Common agricultural policy (CAP): financing, management and monitoring 2021\u20132027",
@@ -27812,10 +27813,11 @@
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
       "Amendments and repeals": {
-        "text": "Repealing Regulation (EU) No 1306/2013 2011/0288(COD) Amended by 2024/0073(COD) Amended by 2025/0236(COD)",
+        "text": "Repealing Regulation (EU) No 1306/2013 2011/0288(COD) Amended by 2024/0073(COD) Amended by 2024/0319(COD) Amended by 2025/0236(COD)",
         "links": [
           "/oeil/en/procedure-file?reference=2011/0288(COD)",
           "/oeil/en/procedure-file?reference=2024/0073(COD)",
+          "/oeil/en/procedure-file?reference=2024/0319(COD)",
           "/oeil/en/procedure-file?reference=2025/0236(COD)"
         ]
       },
@@ -71116,7 +71118,7 @@
     ]
   },
   {
-    "content_hash": "cb412b388c9ab225d580072fef63ab1d",
+    "content_hash": "8e132eee120c5f3e70d75071b248f73a",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2020/0259(COD)",
     "reference": "2020/0259(COD)",
     "title": "Use of technologies by number-independent interpersonal communications service providers for the processing of personal and other data for the purpose of combatting child sexual abuse online (temporary derogation from certain provisions of Directive 2002/58/EC)",
@@ -71133,10 +71135,11 @@
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
       "Amendments and repeals": {
-        "text": "See also Directive 2002/58 2000/0189(COD) Amended by 2023/0452(COD)",
+        "text": "See also Directive 2002/58 2000/0189(COD) Amended by 2023/0452(COD) Amended by 2025/0429(COD)",
         "links": [
           "/oeil/en/procedure-file?reference=2000/0189(COD)",
-          "/oeil/en/procedure-file?reference=2023/0452(COD)"
+          "/oeil/en/procedure-file?reference=2023/0452(COD)",
+          "/oeil/en/procedure-file?reference=2025/0429(COD)"
         ]
       },
       "Legal basis": "Treaty on the Functioning of the European Union TFEU 114-p1 Treaty on the Functioning of the European Union TFEU 016-p2",
@@ -79610,7 +79613,7 @@
     ]
   },
   {
-    "content_hash": "9ec70c039ba52bf9dec3ae66a745038c",
+    "content_hash": "d01d4809317de31ec23493d4193651cc",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2020/0345(COD)",
     "reference": "2020/0345(COD)",
     "title": "Computerised system for communication in cross-border civil and criminal proceedings (e-CODEX system)",
@@ -79690,118 +79693,8 @@
         ]
       }
     ],
-    "timeline": [
-      {
-        "Date": "02/12/2020",
-        "Event": "Legislative proposal published",
-        "Reference": "COM(2020)0712",
-        "Reference_links": [
-          "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2020/0712/COM_COM(2020)0712_EN.pdf",
-          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2020&nu_doc=0712"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1642217"
-        ]
-      },
-      {
-        "Date": "18/01/2021",
-        "Event": "Committee referral announced in Parliament, 1st reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "29/04/2021",
-        "Event": "Referral to joint committee announced in Parliament",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "14/10/2021",
-        "Event": "Vote in committee, 1st reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "14/10/2021",
-        "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "15/10/2021",
-        "Event": "Committee report tabled for plenary, 1st reading",
-        "Reference": "A9-0288/2021",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/A-9-2021-0288_EN.html"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1678552"
-        ]
-      },
-      {
-        "Date": "18/10/2021",
-        "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "20/10/2021",
-        "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "13/01/2022",
-        "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
-        "Reference": "GEDA/A/(2021)005983",
-        "Reference_links": [
-          "http://www.europarl.europa.eu/RegData/commissions/libe/lcag/2021/12-15/CJ03_LA(2021)005983_EN.pdf"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "24/03/2022",
-        "Event": "Decision by Parliament, 1st reading",
-        "Reference": "T9-0091/2022",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/TA-9-2022-0091_EN.html"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1698428"
-        ]
-      },
-      {
-        "Date": "24/03/2022",
-        "Event": "Results of vote in Parliament",
-        "Reference": "",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/PV-9-2022-03-24-VOT_EN.html?item=10"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "12/04/2022",
-        "Event": "Act adopted by Council after Parliament's 1st reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "30/05/2022",
-        "Event": "Final act signed",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "01/06/2022",
-        "Event": "Final act published in Official Journal",
-        "Reference": "",
-        "Summary": ""
-      }
-    ],
-    "last_action": "01/06/2022 - Final act published in Official Journal",
+    "timeline": [],
+    "last_action": "",
     "documents": [
       {
         "institution": "European Parliament",
@@ -194029,7 +193922,7 @@
     ]
   },
   {
-    "content_hash": "b5885325d957fd781bdac697bd23e02d",
+    "content_hash": "6fc19dd8cd27dad6532437dfff45ae2f",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0226(COD)",
     "reference": "2023/0226(COD)",
     "title": "Plants obtained by certain new genomic techniques and their food and feed",
@@ -194052,7 +193945,7 @@
           "/oeil/en/procedure-file?reference=2013/0140(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 57_o Treaty on the Functioning of the European Union TFEU 168-p4 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 043",
+      "Legal basis": "Rules of Procedure EP 57_o Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 043 Treaty on the Functioning of the European Union TFEU 168-p4",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -206266,7 +206159,7 @@
     ]
   },
   {
-    "content_hash": "08622022d72ceff4944f3b6d1db402f5",
+    "content_hash": "05e75ad27981451f7549c067da38895c",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0373(COD)",
     "reference": "2023/0373(COD)",
     "title": "Preventing plastic pellet losses to reduce microplastic pollution",
@@ -206388,169 +206281,8 @@
         "rows": []
       }
     ],
-    "timeline": [
-      {
-        "Date": "16/10/2023",
-        "Event": "Legislative proposal published",
-        "Reference": "COM(2023)0645",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2023/0645/COM_COM(2023)0645_EN.pdf",
-          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2023&nu_doc=0645"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1761908"
-        ]
-      },
-      {
-        "Date": "23/11/2023",
-        "Event": "Committee referral announced in Parliament, 1st reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "14/12/2023",
-        "Event": "Referral to associated committees announced in Parliament",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "19/03/2024",
-        "Event": "Vote in committee, 1st reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "22/03/2024",
-        "Event": "Committee report tabled for plenary, 1st reading",
-        "Reference": "A9-0148/2024",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/A-9-2024-0148_EN.html"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "22/04/2024",
-        "Event": "Debate in Parliament",
-        "Reference": "",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/CRE-9-2024-04-22-TOC_EN.html"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "23/04/2024",
-        "Event": "Decision by Parliament, 1st reading",
-        "Reference": "T9-0307/2024",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0307_EN.html"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1784168"
-        ]
-      },
-      {
-        "Date": "23/04/2024",
-        "Event": "Results of vote in Parliament",
-        "Reference": "",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/PV-9-2024-04-23-VOT_EN.html?item=24"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "13/11/2024",
-        "Event": "Resumption of business from the previous parliamentary term",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "16/01/2025",
-        "Event": "Committee decision to open interinstitutional negotiations after 1st reading in Parliament",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "20/01/2025",
-        "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 73)",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "13/05/2025",
-        "Event": "Approval in committee of the text agreed at early 2nd reading interinstitutional negotiations",
-        "Reference": "PE773.383",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/RegData/commissions/envi/lpag/2025/05-14/ENVI_LA(2025)773383_EN.pdf"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "02/10/2025",
-        "Event": "Council position published",
-        "Reference": "09047/1/2025",
-        "Reference_links": [
-          "https://www.consilium.europa.eu/EN/documents/public-register/public-register-search/?DocumentNumber=9047%2F25&DocumentTypes=LEGISLATIVE+ACTS+AND+OTHER+INSTRUMENTS"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "09/10/2025",
-        "Event": "Committee referral announced in Parliament, 2nd reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "20/10/2025",
-        "Event": "Vote in committee, 2nd reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "20/10/2025",
-        "Event": "Committee recommendation tabled for plenary, 2nd reading",
-        "Reference": "A10-0203/2025",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/A-10-2025-0203_EN.html"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "23/10/2025",
-        "Event": "Decision by Parliament, 2nd reading",
-        "Reference": "T10-0252/2025",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0252_EN.html"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1856533"
-        ]
-      },
-      {
-        "Date": "23/10/2025",
-        "Event": "Results of vote in Parliament",
-        "Reference": "",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/PV-10-2025-10-23-VOT_EN.html?item=5"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "12/11/2025",
-        "Event": "Final act signed",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "26/11/2025",
-        "Event": "Final act published in Official Journal",
-        "Reference": "",
-        "Summary": ""
-      }
-    ],
-    "last_action": "26/11/2025 - Final act published in Official Journal",
+    "timeline": [],
+    "last_action": "",
     "documents": [
       {
         "institution": "European Parliament",
@@ -226754,11 +226486,11 @@
     ]
   },
   {
-    "content_hash": "258e41142671cd2ddb3381869fab052c",
+    "content_hash": "323d78d6d47a9615caf94cdf6fe47568",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/0319(COD)",
     "reference": "2024/0319(COD)",
     "title": "Strengthening of the position of farmers in the food supply chain",
-    "status": "Procedure completed, awaiting publication in Official Journal",
+    "status": "Procedure completed",
     "subjects": [
       "3.10 Agricultural policy and economies",
       "3.10.01 Agricultural structures and holdings, farmers",
@@ -226785,7 +226517,7 @@
           "http://www.eesc.europa.eu/"
         ]
       },
-      "Stage reached in procedure": "Procedure completed, awaiting publication in Official Journal",
+      "Stage reached in procedure": "Procedure completed",
       "Committee dossier": "AGRI/10/01665"
     },
     "key_players": [
@@ -226949,9 +226681,15 @@
         "Event": "Final act signed",
         "Reference": "",
         "Summary": ""
+      },
+      {
+        "Date": "29/07/2026",
+        "Event": "Final act published in Official Journal",
+        "Reference": "",
+        "Summary": ""
       }
     ],
-    "last_action": "08/07/2026 - Final act signed",
+    "last_action": "29/07/2026 - Final act published in Official Journal",
     "documents": [
       {
         "institution": "European Parliament",
@@ -244123,7 +243861,7 @@
     ]
   },
   {
-    "content_hash": "e16e0e44197abeb02950cda182e925c4",
+    "content_hash": "2b41b969a41cfd9af0ce9619a4a6a777",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0239(COD)",
     "reference": "2025/0239(COD)",
     "title": "European Social Fund 2028\u20132034",
@@ -244136,7 +243874,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 164 Treaty on the Functioning of the European Union TFEU 175-p3",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 164",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -249745,7 +249483,7 @@
     ]
   },
   {
-    "content_hash": "01c90ef49dbc2b76139a95029fd56177",
+    "content_hash": "5fe214e1b69c9d0dc90958c9dacc32f9",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0360(COD)",
     "reference": "2025/0360(COD)",
     "title": "Simplification of the digital legislative framework \u2013 Digital Omnibus (Omnibus VII)",
@@ -249780,7 +249518,7 @@
           "/oeil/en/procedure-file?reference=2022/0047(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 016-p2 Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 114",
+      "Legal basis": "Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 016-p2",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee",
         "links": [
@@ -249893,6 +249631,16 @@
               "https://www.europarl.europa.eu/doceo/document/CJ72-PR-786818_EN.html"
             ],
             "Date": "22/06/2026",
+            "Summary": ""
+          },
+          {
+            "Document type": "Amendments tabled in committee",
+            "Committee": "",
+            "Reference": "PE791.883",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/doceo/document/CJ72-AM-791883_EN.html"
+            ],
+            "Date": "27/07/2026",
             "Summary": ""
           }
         ]
@@ -250513,7 +250261,7 @@
     ]
   },
   {
-    "content_hash": "b47d59effdd71c0171fd53999b321296",
+    "content_hash": "0d2abccd57d25cfc19bb21680c18513b",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0363(COD)",
     "reference": "2025/0363(COD)",
     "title": "Pan-European Personal Pension Product (PEPP)",
@@ -250535,7 +250283,7 @@
           "/oeil/en/procedure-file?reference=2017/0143(COD)"
         ]
       },
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 294-p7-ac",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 114",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee",
         "links": [
@@ -250616,6 +250364,21 @@
     ],
     "last_action": "12/02/2026 - Committee referral announced in Parliament, 1st reading",
     "documents": [
+      {
+        "institution": "European Parliament",
+        "rows": [
+          {
+            "Document type": "Committee draft report",
+            "Committee": "",
+            "Reference": "PE790.827",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/doceo/document/ECON-PR-790827_EN.html"
+            ],
+            "Date": "23/07/2026",
+            "Summary": ""
+          }
+        ]
+      },
       {
         "institution": "European Commission",
         "rows": [
@@ -254034,7 +253797,7 @@
     ]
   },
   {
-    "content_hash": "33824346a5ab32273eef5c7376ca56a3",
+    "content_hash": "530ee6a2af18453ffa82dc767e58fd01",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0400(COD)",
     "reference": "2025/0400(COD)",
     "title": "Acceleration of permit-granting procedures",
@@ -254057,7 +253820,7 @@
           "/oeil/en/procedure-file?reference=2021/0425(COD)"
         ]
       },
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 194-p2",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 294-p7-ac",
       "Other legal basis": "Rules of Procedure EP 165",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
@@ -258424,11 +258187,11 @@
     ]
   },
   {
-    "content_hash": "e4139db39ac7a19b2a0fab7b4469f7ff",
+    "content_hash": "2308e7c3bedbaa4361a0d272de785670",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0429(COD)",
     "reference": "2025/0429(COD)",
     "title": "Temporary derogation from certain provisions of the ePrivacy Directive to combat online child sexual abuse",
-    "status": "Procedure completed, awaiting publication in Official Journal",
+    "status": "Procedure completed",
     "subjects": [
       "1.20.09 Protection of privacy and data protection",
       "3.30.05 Electronic and mobile communications, personal communications",
@@ -258452,7 +258215,7 @@
           "http://www.eesc.europa.eu/"
         ]
       },
-      "Stage reached in procedure": "Procedure completed, awaiting publication in Official Journal",
+      "Stage reached in procedure": "Procedure completed",
       "Committee dossier": "LIBE/10/06314"
     },
     "key_players": [
@@ -258633,9 +258396,15 @@
         "Event": "Final act signed",
         "Reference": "",
         "Summary": ""
+      },
+      {
+        "Date": "28/07/2026",
+        "Event": "Final act published in Official Journal",
+        "Reference": "",
+        "Summary": ""
       }
     ],
-    "last_action": "24/07/2026 - Final act signed",
+    "last_action": "28/07/2026 - Final act published in Official Journal",
     "documents": [
       {
         "institution": "European Parliament",
@@ -261168,7 +260937,7 @@
     ]
   },
   {
-    "content_hash": "d9478c86aa10883a7e0789074ac10b75",
+    "content_hash": "9c86822e2721b6c79672569f998f2b9e",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0550(COD)",
     "reference": "2025/0550(COD)",
     "title": "'AgoraEU' programme 2028\u20132034",
@@ -261191,7 +260960,7 @@
           "/oeil/en/procedure-file?reference=2018/0207(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 024-p1 Treaty on the Functioning of the European Union TFEU 167-p5 Treaty on the Functioning of the European Union TFEU 168-p5 Treaty on the Functioning of the European Union TFEU 021-p2 Treaty on the Functioning of the European Union TFEU 019-p2",
+      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 168-p5 Treaty on the Functioning of the European Union TFEU 024-p1 Treaty on the Functioning of the European Union TFEU 167-p5 Treaty on the Functioning of the European Union TFEU 021-p2 Treaty on the Functioning of the European Union TFEU 019-p2 Treaty on the Functioning of the European Union TFEU 173-p3",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -261230,7 +260999,7 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur BELLAMY Fran\u00e7ois-Xavier (EPP) VERHEYEN Sabine (EPP) \u015aMISZEK Krzysztof (S&D) GRISET Catherine (PfE) L\u00c1SZL\u00d3 Andr\u00e1s (PfE) CIRIANI Alessandro (ECR) VALCHEV Ivaylo (ECR) CIFROV\u00c1 OSTRIHO\u0147OV\u00c1 Veronika (Renew) VAN DEN BERG Brigitte (Renew) RIBA I GINER Diana (Greens/EFA) FURORE Mario (The Left) BARRENA ARZA Pernando (The Left) BORVEND\u00c9G Zsuzsanna (ESN)",
+            "Rapporteur": "Shadow rapporteur BELLAMY Fran\u00e7ois-Xavier (EPP) VERHEYEN Sabine (EPP) \u015aMISZEK Krzysztof (S&D) GRISET Catherine (PfE) L\u00c1SZL\u00d3 Andr\u00e1s (PfE) CIRIANI Alessandro (ECR) VALCHEV Ivaylo (ECR) CIFROV\u00c1 OSTRIHO\u0147OV\u00c1 Veronika (Renew) VAN DEN BERG Brigitte (Renew) RIBA I GINER Diana (Greens/EFA) BARRENA ARZA Pernando (The Left) FURORE Mario (The Left) BORVEND\u00c9G Zsuzsanna (ESN)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/197534",
               "https://www.europarl.europa.eu/meps/en/96756",
@@ -261242,8 +261011,8 @@
               "https://www.europarl.europa.eu/meps/en/257014",
               "https://www.europarl.europa.eu/meps/en/256976",
               "https://www.europarl.europa.eu/meps/en/197832",
-              "https://www.europarl.europa.eu/meps/en/197795",
               "https://www.europarl.europa.eu/meps/en/197684",
+              "https://www.europarl.europa.eu/meps/en/197795",
               "https://www.europarl.europa.eu/meps/en/257457"
             ],
             "Appointed": ""
@@ -261550,7 +261319,7 @@
     ]
   },
   {
-    "content_hash": "5684d310d236d59faf24a908b1dd84c2",
+    "content_hash": "2513e8ad6a5ce48129f4a6a356ea6a48",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0555(COD)",
     "reference": "2025/0555(COD)",
     "title": "European Competitiveness Fund",
@@ -261579,7 +261348,7 @@
           "/oeil/en/procedure-file?reference=2022/0039(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 189 Treaty on the Functioning of the European Union TFEU 182-p4 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 168-p5 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 183 Treaty on the Functioning of the European Union TFEU 212 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 172 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 194-p2",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 183 Treaty on the Functioning of the European Union TFEU 212 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 172 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 182-p4 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 168-p5 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 189",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -261674,404 +261443,7 @@
       }
     ],
     "last_action": "23/10/2025 - Committee referral announced in Parliament, 1st reading",
-    "documents": [
-      {
-        "institution": "European Parliament",
-        "rows": [
-          {
-            "Document type": "Committee opinion",
-            "Committee": "SEDE",
-            "Reference": "PE782.450",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/SEDE-AD-782450_EN.html"
-            ],
-            "Date": "17/04/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Committee draft report",
-            "Committee": "",
-            "Reference": "PE784.506",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-PR-784506_EN.html"
-            ],
-            "Date": "20/04/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Committee opinion",
-            "Committee": "CONT",
-            "Reference": "PE784.350",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/CONT-AD-784350_EN.html"
-            ],
-            "Date": "24/04/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Committee opinion",
-            "Committee": "AGRI",
-            "Reference": "PE782.312",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/AGRI-AD-782312_EN.html"
-            ],
-            "Date": "05/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Committee opinion",
-            "Committee": "ENVI",
-            "Reference": "PE784.252",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ENVI-AD-784252_EN.html"
-            ],
-            "Date": "05/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Committee opinion",
-            "Committee": "ECON",
-            "Reference": "PE784.470",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ECON-AD-784470_EN.html"
-            ],
-            "Date": "05/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Committee opinion",
-            "Committee": "REGI",
-            "Reference": "PE782.321",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/REGI-AD-782321_EN.html"
-            ],
-            "Date": "07/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Committee opinion",
-            "Committee": "IMCO",
-            "Reference": "PE782.506",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/IMCO-AD-782506_EN.html"
-            ],
-            "Date": "12/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.849",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788849_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.891",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788891_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.892",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788892_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.893",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788893_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.894",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788894_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.895",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788895_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.896",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788896_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.897",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788897_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.899",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788899_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.900",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788900_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.902",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788902_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.903",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788903_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.904",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788904_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.905",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788905_EN.html"
-            ],
-            "Date": "18/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Committee opinion",
-            "Committee": "SANT",
-            "Reference": "PE784.244",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/SANT-AD-784244_EN.html"
-            ],
-            "Date": "27/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Committee opinion",
-            "Committee": "EMPL",
-            "Reference": "PE785.132",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/EMPL-AD-785132_EN.html"
-            ],
-            "Date": "28/05/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Amendments tabled in committee",
-            "Committee": "",
-            "Reference": "PE788.898",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/ITRE-AM-788898_EN.html"
-            ],
-            "Date": "05/06/2026",
-            "Summary": ""
-          },
-          {
-            "Document type": "Committee opinion",
-            "Committee": "BUDG",
-            "Reference": "PE787.644",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/BUDG-AD-787644_EN.html"
-            ],
-            "Date": "13/07/2026",
-            "Summary": ""
-          }
-        ]
-      },
-      {
-        "institution": "European Commission",
-        "rows": [
-          {
-            "Document type": "Legislative proposal",
-            "Reference": "COM(2025)0555",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0555/COM_COM(2025)0555_EN.pdf"
-            ],
-            "Date": "16/07/2025",
-            "Summary": "Summary",
-            "Summary_links": [
-              "/oeil/en/document-summary?id=1830560"
-            ]
-          },
-          {
-            "Document type": "Document attached to the procedure",
-            "Reference": "SEC(2025)0555",
-            "Reference_links": [
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=SECfinal&an_doc=2025&nu_doc=0555"
-            ],
-            "Date": "16/07/2025",
-            "Summary": ""
-          },
-          {
-            "Document type": "Document attached to the procedure",
-            "Reference": "SWD(2025)0555",
-            "Date": "16/07/2025",
-            "Summary": ""
-          },
-          {
-            "Document type": "Document attached to the procedure",
-            "Reference": "SWD(2025)0556",
-            "Reference_links": [
-              "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2025:0556:FIN:EN:PDF"
-            ],
-            "Date": "16/07/2025",
-            "Summary": ""
-          }
-        ]
-      },
-      {
-        "institution": "National parliaments",
-        "rows": [
-          {
-            "Document type": "Contribution",
-            "Parliament/Chamber": "ES_PARLIAMENT",
-            "Reference": "COM(2025)0555",
-            "Reference_links": [
-              "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0555"
-            ],
-            "Date": "31/10/2025",
-            "Summary": ""
-          },
-          {
-            "Document type": "Contribution",
-            "Parliament/Chamber": "RO_SENATE",
-            "Reference": "COM(2025)0555",
-            "Reference_links": [
-              "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0555"
-            ],
-            "Date": "11/11/2025",
-            "Summary": ""
-          },
-          {
-            "Document type": "Contribution",
-            "Parliament/Chamber": "CZ_SENATE",
-            "Reference": "COM(2025)0555",
-            "Reference_links": [
-              "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0555"
-            ],
-            "Date": "09/12/2025",
-            "Summary": ""
-          },
-          {
-            "Document type": "Contribution",
-            "Parliament/Chamber": "DE_BUNDESRAT",
-            "Reference": "COM(2025)0555",
-            "Reference_links": [
-              "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0555"
-            ],
-            "Date": "10/12/2025",
-            "Summary": ""
-          },
-          {
-            "Document type": "Contribution",
-            "Parliament/Chamber": "IE_HOUSES-OF-OIREACHTAS",
-            "Reference": "COM(2025)0555",
-            "Reference_links": [
-              "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0555"
-            ],
-            "Date": "23/03/2026",
-            "Summary": ""
-          }
-        ]
-      },
-      {
-        "institution": "Other institutions and bodies",
-        "rows": [
-          {
-            "Institution/body": "EESC",
-            "Document type": "Economic and Social Committee: opinion, report",
-            "Reference": "CES2576/2025",
-            "Reference_links": [
-              "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:2576)(documentyear:2025)(documentlanguage:EN)"
-            ],
-            "Date": "03/12/2025",
-            "Summary": ""
-          },
-          {
-            "Institution/body": "CofA",
-            "Document type": "Court of Auditors: opinion, report",
-            "Reference": "52026AA0001 OJ OJ C 13.01.2026",
-            "Reference_links": [
-              "https://eur-lex.europa.eu/oj/daily-view/C-series/default.html?&ojDate=13012026"
-            ],
-            "Date": "11/12/2025",
-            "Summary": ""
-          },
-          {
-            "Institution/body": "CofR",
-            "Document type": "Committee of the Regions: opinion",
-            "Reference": "CDR3194/2025",
-            "Reference_links": [
-              "https://dmsearch.cor.europa.eu/search/public?k=(documenttype:AC)(documentnumber:3194)(documentyear:2025)(documentlanguage:EN)"
-            ],
-            "Date": "04/03/2026",
-            "Summary": ""
-          }
-        ]
-      }
-    ],
+    "documents": [],
     "additional_information": [
       {
         "Source": "EP Research Service",
@@ -268905,10 +268277,10 @@
     ]
   },
   {
-    "content_hash": "ff333eea2a218018fd667adc05d67625",
+    "content_hash": "b805aefcdb2a39fbbf36566442f33c60",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0215(COD)",
     "reference": "2026/0215(COD)",
-    "title": "Ro-ro passenger ships: specific stability requirements",
+    "title": "Specific stability requirements for ro-ro passenger ships (codification)",
     "status": "Preparatory phase in Parliament",
     "subjects": [
       "3.20.03 Maritime transport: passengers and freight",
@@ -268919,6 +268291,12 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Codification",
       "Legislative instrument": "Directive",
+      "Amendments and repeals": {
+        "text": "Codifying Directive 2003/25/EC 2002/0074(COD)",
+        "links": [
+          "/oeil/en/procedure-file?reference=2002/0074(COD)"
+        ]
+      },
       "Legal basis": "Treaty on the Functioning of the European Union TFEU 100-p2",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
