@@ -115039,7 +115039,7 @@
     ]
   },
   {
-    "content_hash": "aea9cca0a058c7409ba4fe095f16945c",
+    "content_hash": "6b1b06892b17b1c35551cb41307e4e9f",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0377(COD)",
     "reference": "2021/0377(COD)",
     "title": "Amendments to the European Long-Term Investment Funds (ELTIFs) Regulation",
@@ -115135,122 +115135,8 @@
         "rows": []
       }
     ],
-    "timeline": [
-      {
-        "Date": "25/11/2021",
-        "Event": "Legislative proposal published",
-        "Reference": "COM(2021)0722",
-        "Reference_links": [
-          "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2021/0722/COM_COM(2021)0722_EN.pdf",
-          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2021&nu_doc=0722"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1683835"
-        ]
-      },
-      {
-        "Date": "14/02/2022",
-        "Event": "Committee referral announced in Parliament, 1st reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "20/06/2022",
-        "Event": "Vote in committee, 1st reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "20/06/2022",
-        "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "29/06/2022",
-        "Event": "Committee report tabled for plenary, 1st reading",
-        "Reference": "A9-0196/2022",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/A-9-2022-0196_EN.html"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1709323"
-        ]
-      },
-      {
-        "Date": "04/07/2022",
-        "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "06/07/2022",
-        "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "12/01/2023",
-        "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
-        "Reference": "GEDA/A/(2022)007428 PE740.521",
-        "Reference_links": [
-          "http://www.europarl.europa.eu/RegData/commissions/econ/lcag/2022/12-09/ECON_LA(2022)007428_EN.pdf",
-          "http://www.europarl.europa.eu/RegData/commissions/econ/inag/2022/12-21/ECON_AG(2022)740521_EN.pdf"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "14/02/2023",
-        "Event": "Debate in Parliament",
-        "Reference": "",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/CRE-9-2023-02-14-TOC_EN.html"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "15/02/2023",
-        "Event": "Decision by Parliament, 1st reading",
-        "Reference": "T9-0040/2023",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0040_EN.html"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1734444"
-        ]
-      },
-      {
-        "Date": "15/02/2023",
-        "Event": "Results of vote in Parliament",
-        "Reference": "",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/PV-9-2023-02-15-VOT_EN.html?item=1"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "07/03/2023",
-        "Event": "Act adopted by Council after Parliament's 1st reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "15/03/2023",
-        "Event": "Final act signed",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "20/03/2023",
-        "Event": "Final act published in Official Journal",
-        "Reference": "",
-        "Summary": ""
-      }
-    ],
-    "last_action": "20/03/2023 - Final act published in Official Journal",
+    "timeline": [],
+    "last_action": "",
     "documents": [
       {
         "institution": "European Parliament",
@@ -205963,7 +205849,7 @@
     ]
   },
   {
-    "content_hash": "c9fe176b3e5b6c28b7ebec21c97f0f16",
+    "content_hash": "1ea24d1c8509b672d3f03908958a5297",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0363(COD)",
     "reference": "2023/0363(COD)",
     "title": "Amending certain financial services and investment support Regulations as regards certain reporting requirements",
@@ -206102,8 +205988,175 @@
         "rows": []
       }
     ],
-    "timeline": [],
-    "last_action": "",
+    "timeline": [
+      {
+        "Date": "17/10/2023",
+        "Event": "Legislative proposal published",
+        "Reference": "COM(2023)0593",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2023/0593/COM_COM(2023)0593_EN.pdf",
+          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2023&nu_doc=0593"
+        ],
+        "Summary": "Summary",
+        "Summary_links": [
+          "/oeil/en/document-summary?id=1762235"
+        ]
+      },
+      {
+        "Date": "20/11/2023",
+        "Event": "Committee referral announced in Parliament, 1st reading",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "29/01/2024",
+        "Event": "Vote in committee, 1st reading",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "29/01/2024",
+        "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "02/02/2024",
+        "Event": "Committee report tabled for plenary, 1st reading",
+        "Reference": "A9-0026/2024",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/A-9-2024-0026_EN.html"
+        ],
+        "Summary": "Summary",
+        "Summary_links": [
+          "/oeil/en/document-summary?id=1774313"
+        ]
+      },
+      {
+        "Date": "05/02/2024",
+        "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "07/02/2024",
+        "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "12/03/2024",
+        "Event": "Decision by Parliament, 1st reading",
+        "Reference": "T9-0128/2024",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/TA-9-2024-0128_EN.html"
+        ],
+        "Summary": "Summary",
+        "Summary_links": [
+          "/oeil/en/document-summary?id=1780110"
+        ]
+      },
+      {
+        "Date": "12/03/2024",
+        "Event": "Results of vote in Parliament",
+        "Reference": "",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/PV-9-2024-03-12-VOT_EN.html?item=9"
+        ],
+        "Summary": ""
+      },
+      {
+        "Date": "21/10/2024",
+        "Event": "Committee decision to open interinstitutional negotiations after 1st reading in Parliament",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "13/11/2024",
+        "Event": "Resumption of business from the previous parliamentary term",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "13/11/2024",
+        "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 73)",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "19/03/2025",
+        "Event": "Approval in committee of the text agreed at early 2nd reading interinstitutional negotiations",
+        "Reference": "PE770.259",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/RegData/commissions/econ/inag/2025/03-19/ECON_AG(2025)770259_EN.pdf"
+        ],
+        "Summary": ""
+      },
+      {
+        "Date": "03/09/2025",
+        "Event": "Council position published",
+        "Reference": "07377/1/2025",
+        "Reference_links": [
+          "https://www.consilium.europa.eu/EN/documents/public-register/public-register-search/?DocumentNumber=7377%2F25&DocumentTypes=LEGISLATIVE+ACTS+AND+OTHER+INSTRUMENTS"
+        ],
+        "Summary": ""
+      },
+      {
+        "Date": "11/09/2025",
+        "Event": "Committee referral announced in Parliament, 2nd reading",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "24/09/2025",
+        "Event": "Vote in committee, 2nd reading",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "26/09/2025",
+        "Event": "Committee recommendation tabled for plenary, 2nd reading",
+        "Reference": "A10-0166/2025",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/A-10-2025-0166_EN.html"
+        ],
+        "Summary": ""
+      },
+      {
+        "Date": "07/10/2025",
+        "Event": "Decision by Parliament, 2nd reading",
+        "Reference": "T10-0208/2025",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0208_EN.html"
+        ],
+        "Summary": "Summary",
+        "Summary_links": [
+          "/oeil/en/document-summary?id=1850725"
+        ]
+      },
+      {
+        "Date": "07/10/2025",
+        "Event": "Results of vote in Parliament",
+        "Reference": "",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/PV-10-2025-10-07-VOT_EN.html?item=8"
+        ],
+        "Summary": ""
+      },
+      {
+        "Date": "08/10/2025",
+        "Event": "Final act signed",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "21/10/2025",
+        "Event": "Final act published in Official Journal",
+        "Reference": "",
+        "Summary": ""
+      }
+    ],
+    "last_action": "21/10/2025 - Final act published in Official Journal",
     "documents": [
       {
         "institution": "European Parliament",
@@ -257418,7 +257471,7 @@
     ]
   },
   {
-    "content_hash": "031576b76e14f4a55e830147cd231ae8",
+    "content_hash": "6bc9db5beace9a38ce39845264cf853c",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0410(COD)",
     "reference": "2025/0410(COD)",
     "title": "Amending certain Regulations as regards the simplification and strengthening of food and feed safety requirements (Omnibus X)",
@@ -257453,7 +257506,7 @@
           "/oeil/en/procedure-file?reference=2013/0140(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 168-p4 Treaty on the Functioning of the European Union TFEU 114",
+      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 168-p4 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 192-p1",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
