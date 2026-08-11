@@ -115039,7 +115039,7 @@
     ]
   },
   {
-    "content_hash": "6b1b06892b17b1c35551cb41307e4e9f",
+    "content_hash": "aea9cca0a058c7409ba4fe095f16945c",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2021/0377(COD)",
     "reference": "2021/0377(COD)",
     "title": "Amendments to the European Long-Term Investment Funds (ELTIFs) Regulation",
@@ -115135,8 +115135,122 @@
         "rows": []
       }
     ],
-    "timeline": [],
-    "last_action": "",
+    "timeline": [
+      {
+        "Date": "25/11/2021",
+        "Event": "Legislative proposal published",
+        "Reference": "COM(2021)0722",
+        "Reference_links": [
+          "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2021/0722/COM_COM(2021)0722_EN.pdf",
+          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2021&nu_doc=0722"
+        ],
+        "Summary": "Summary",
+        "Summary_links": [
+          "/oeil/en/document-summary?id=1683835"
+        ]
+      },
+      {
+        "Date": "14/02/2022",
+        "Event": "Committee referral announced in Parliament, 1st reading",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "20/06/2022",
+        "Event": "Vote in committee, 1st reading",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "20/06/2022",
+        "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "29/06/2022",
+        "Event": "Committee report tabled for plenary, 1st reading",
+        "Reference": "A9-0196/2022",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/A-9-2022-0196_EN.html"
+        ],
+        "Summary": "Summary",
+        "Summary_links": [
+          "/oeil/en/document-summary?id=1709323"
+        ]
+      },
+      {
+        "Date": "04/07/2022",
+        "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "06/07/2022",
+        "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "12/01/2023",
+        "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+        "Reference": "GEDA/A/(2022)007428 PE740.521",
+        "Reference_links": [
+          "http://www.europarl.europa.eu/RegData/commissions/econ/lcag/2022/12-09/ECON_LA(2022)007428_EN.pdf",
+          "http://www.europarl.europa.eu/RegData/commissions/econ/inag/2022/12-21/ECON_AG(2022)740521_EN.pdf"
+        ],
+        "Summary": ""
+      },
+      {
+        "Date": "14/02/2023",
+        "Event": "Debate in Parliament",
+        "Reference": "",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/CRE-9-2023-02-14-TOC_EN.html"
+        ],
+        "Summary": ""
+      },
+      {
+        "Date": "15/02/2023",
+        "Event": "Decision by Parliament, 1st reading",
+        "Reference": "T9-0040/2023",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/TA-9-2023-0040_EN.html"
+        ],
+        "Summary": "Summary",
+        "Summary_links": [
+          "/oeil/en/document-summary?id=1734444"
+        ]
+      },
+      {
+        "Date": "15/02/2023",
+        "Event": "Results of vote in Parliament",
+        "Reference": "",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/PV-9-2023-02-15-VOT_EN.html?item=1"
+        ],
+        "Summary": ""
+      },
+      {
+        "Date": "07/03/2023",
+        "Event": "Act adopted by Council after Parliament's 1st reading",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "15/03/2023",
+        "Event": "Final act signed",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "20/03/2023",
+        "Event": "Final act published in Official Journal",
+        "Reference": "",
+        "Summary": ""
+      }
+    ],
+    "last_action": "20/03/2023 - Final act published in Official Journal",
     "documents": [
       {
         "institution": "European Parliament",
@@ -243619,7 +243733,7 @@
     ]
   },
   {
-    "content_hash": "f723cff7f0c34d24207ed67aa8348cac",
+    "content_hash": "e9ef4ccfc4d8628bd1a7a4a1223b0d73",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0227(COD)",
     "reference": "2025/0227(COD)",
     "title": "Global Europe",
@@ -243634,7 +243748,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 209-p2 Treaty on the Functioning of the European Union TFEU 209-p1 Treaty on the Functioning of the European Union TFEU 212",
+      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 209-p1 Treaty on the Functioning of the European Union TFEU 209-p2 Treaty on the Functioning of the European Union TFEU 212",
       "Mandatory consultation of other institutions": {
         "text": "European Court of Auditors",
         "links": [
@@ -243672,7 +243786,7 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur BENTELE Hildegard (EPP) SCHIEDER Andreas (S&D) H\u00d6LV\u00c9NYI Gy\u00f6rgy (PfE) MART\u00cdN FR\u00cdAS Jorge (PfE) KOLS Rihards (ECR) KAMI\u0143SKI Mariusz (ECR) GOERENS Charles (Renew) BARNA Dan (Renew) STRIK Tineke (Greens/EFA) SATOURI Mounir (Greens/EFA) DEMIREL \u00d6zlem (The Left) SERRA S\u00c1NCHEZ Isabel (The Left) SELL Alexander (ESN) JONGEN Marc (ESN)",
+            "Rapporteur": "Shadow rapporteur BENTELE Hildegard (EPP) SCHIEDER Andreas (S&D) H\u00d6LV\u00c9NYI Gy\u00f6rgy (PfE) MART\u00cdN FR\u00cdAS Jorge (PfE) KOLS Rihards (ECR) KAMI\u0143SKI Mariusz (ECR) GOERENS Charles (Renew) BARNA Dan (Renew) STRIK Tineke (Greens/EFA) SATOURI Mounir (Greens/EFA) SERRA S\u00c1NCHEZ Isabel (The Left) DEMIREL \u00d6zlem (The Left) JONGEN Marc (ESN) SELL Alexander (ESN)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/197408",
               "https://www.europarl.europa.eu/meps/en/197670",
@@ -243684,10 +243798,10 @@
               "https://www.europarl.europa.eu/meps/en/257110",
               "https://www.europarl.europa.eu/meps/en/197772",
               "https://www.europarl.europa.eu/meps/en/197500",
-              "https://www.europarl.europa.eu/meps/en/197468",
               "https://www.europarl.europa.eu/meps/en/257009",
-              "https://www.europarl.europa.eu/meps/en/256959",
-              "https://www.europarl.europa.eu/meps/en/256942"
+              "https://www.europarl.europa.eu/meps/en/197468",
+              "https://www.europarl.europa.eu/meps/en/256942",
+              "https://www.europarl.europa.eu/meps/en/256959"
             ],
             "Appointed": ""
           }
@@ -245239,7 +245353,7 @@
     ]
   },
   {
-    "content_hash": "8c20bf3992f5fb9bf68e9db9d490c1a4",
+    "content_hash": "741a88bb569200a1dd52cb4b9249781b",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0238(COD)",
     "reference": "2025/0238(COD)",
     "title": "European Fund for Regional Development and Cohesion Fund 2028\u20132034",
@@ -245253,7 +245367,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 177-p1 Treaty on the Functioning of the European Union TFEU 178-p1 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 177-p2",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 177-p2 Treaty on the Functioning of the European Union TFEU 178-p1 Treaty on the Functioning of the European Union TFEU 177-p1",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
