@@ -193930,7 +193930,7 @@
     ]
   },
   {
-    "content_hash": "0a21444a462b882dbf64d6c4459a8823",
+    "content_hash": "16cba15e7cd7d7e8e27612a404b31fd8",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0209(COD)",
     "reference": "2023/0209(COD)",
     "title": "Payment services and electronic money services in the Internal Market",
@@ -193954,7 +193954,7 @@
           "/oeil/en/procedure-file?reference=1996/0126(COD)"
         ]
       },
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 053-p1 Treaty on the Functioning of the European Union TFEU 114",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 053-p1",
       "Other legal basis": "Rules of Procedure EP 165",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee",
@@ -214778,11 +214778,11 @@
     ]
   },
   {
-    "content_hash": "6a34143fef3e518dad077aa18eb6aec5",
+    "content_hash": "c24006231fffdb606270c65cb26eec6a",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0447(COD)",
     "reference": "2023/0447(COD)",
     "title": "Welfare of dogs and cats and their traceability",
-    "status": "Procedure completed, awaiting publication in Official Journal",
+    "status": "Procedure completed",
     "subjects": [
       "3.10.04.02 Animal protection"
     ],
@@ -214799,7 +214799,7 @@
           "http://www.eesc.europa.eu/"
         ]
       },
-      "Stage reached in procedure": "Procedure completed, awaiting publication in Official Journal",
+      "Stage reached in procedure": "Procedure completed",
       "Committee dossier": "AGRI/10/00301"
     },
     "key_players": [
@@ -214991,9 +214991,15 @@
         "Event": "Final act signed",
         "Reference": "",
         "Summary": ""
+      },
+      {
+        "Date": "10/08/2026",
+        "Event": "Final act published in Official Journal",
+        "Reference": "",
+        "Summary": ""
       }
     ],
-    "last_action": "17/06/2026 - Final act signed",
+    "last_action": "10/08/2026 - Final act published in Official Journal",
     "documents": [
       {
         "institution": "European Parliament",
@@ -228209,7 +228215,7 @@
     ]
   },
   {
-    "content_hash": "323d78d6d47a9615caf94cdf6fe47568",
+    "content_hash": "59193370f1c23631275059e63f2e5d08",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/0319(COD)",
     "reference": "2024/0319(COD)",
     "title": "Strengthening of the position of farmers in the food supply chain",
@@ -228233,7 +228239,7 @@
           "/oeil/en/procedure-file?reference=2018/0217(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 043-p2",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 042-p1",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee",
         "links": [
@@ -243733,7 +243739,7 @@
     ]
   },
   {
-    "content_hash": "e9ef4ccfc4d8628bd1a7a4a1223b0d73",
+    "content_hash": "f723cff7f0c34d24207ed67aa8348cac",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0227(COD)",
     "reference": "2025/0227(COD)",
     "title": "Global Europe",
@@ -243748,7 +243754,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 209-p1 Treaty on the Functioning of the European Union TFEU 209-p2 Treaty on the Functioning of the European Union TFEU 212",
+      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 209-p2 Treaty on the Functioning of the European Union TFEU 209-p1 Treaty on the Functioning of the European Union TFEU 212",
       "Mandatory consultation of other institutions": {
         "text": "European Court of Auditors",
         "links": [
@@ -245353,7 +245359,7 @@
     ]
   },
   {
-    "content_hash": "741a88bb569200a1dd52cb4b9249781b",
+    "content_hash": "8c20bf3992f5fb9bf68e9db9d490c1a4",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0238(COD)",
     "reference": "2025/0238(COD)",
     "title": "European Fund for Regional Development and Cohesion Fund 2028\u20132034",
@@ -245367,7 +245373,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 177-p2 Treaty on the Functioning of the European Union TFEU 178-p1 Treaty on the Functioning of the European Union TFEU 177-p1",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 177-p1 Treaty on the Functioning of the European Union TFEU 178-p1 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 177-p2",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [

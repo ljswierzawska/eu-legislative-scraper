@@ -1,0 +1,488 @@
+{
+  "date": "2026-08-12",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "reference": "2025/0238(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "741a88bb569200a1dd52cb4b9249781b",
+          "to": "8c20bf3992f5fb9bf68e9db9d490c1a4"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2025/0238(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 177-p2 Treaty on the Functioning of the European Union TFEU 178-p1 Treaty on the Functioning of the European Union TFEU 177-p1",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "REGI/10/03681"
+          },
+          "to": {
+            "Procedure reference": "2025/0238(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 177-p1 Treaty on the Functioning of the European Union TFEU 178-p1 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 177-p2",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "REGI/10/03681"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2025/0227(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "e9ef4ccfc4d8628bd1a7a4a1223b0d73",
+          "to": "f723cff7f0c34d24207ed67aa8348cac"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2025/0227(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 209-p1 Treaty on the Functioning of the European Union TFEU 209-p2 Treaty on the Functioning of the European Union TFEU 212",
+            "Mandatory consultation of other institutions": {
+              "text": "European Court of Auditors",
+              "links": [
+                "http://eca.europa.eu"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "CJ19/10/03697"
+          },
+          "to": {
+            "Procedure reference": "2025/0227(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 209-p2 Treaty on the Functioning of the European Union TFEU 209-p1 Treaty on the Functioning of the European Union TFEU 212",
+            "Mandatory consultation of other institutions": {
+              "text": "European Court of Auditors",
+              "links": [
+                "http://eca.europa.eu"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "CJ19/10/03697"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2024/0319(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "323d78d6d47a9615caf94cdf6fe47568",
+          "to": "59193370f1c23631275059e63f2e5d08"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2024/0319(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Amending Regulation 2013/1308 2011/0281(COD) Amending Regulation 2021/2115 2018/0216(COD) Amending Regulation 2021/2116 2018/0217(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2011/0281(COD)",
+                "/oeil/en/procedure-file?reference=2018/0216(COD)",
+                "/oeil/en/procedure-file?reference=2018/0217(COD)"
+              ]
+            },
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 043-p2",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee",
+              "links": [
+                "http://www.eesc.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Procedure completed",
+            "Committee dossier": "AGRI/10/01665"
+          },
+          "to": {
+            "Procedure reference": "2024/0319(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Amending Regulation 2013/1308 2011/0281(COD) Amending Regulation 2021/2115 2018/0216(COD) Amending Regulation 2021/2116 2018/0217(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2011/0281(COD)",
+                "/oeil/en/procedure-file?reference=2018/0216(COD)",
+                "/oeil/en/procedure-file?reference=2018/0217(COD)"
+              ]
+            },
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 042-p1",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee",
+              "links": [
+                "http://www.eesc.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Procedure completed",
+            "Committee dossier": "AGRI/10/01665"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2023/0447(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "6a34143fef3e518dad077aa18eb6aec5",
+          "to": "c24006231fffdb606270c65cb26eec6a"
+        },
+        "status": {
+          "from": "Procedure completed, awaiting publication in Official Journal",
+          "to": "Procedure completed"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2023/0447(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 114",
+            "Other legal basis": "Rules of Procedure EP 165",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee",
+              "links": [
+                "http://www.eesc.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Procedure completed, awaiting publication in Official Journal",
+            "Committee dossier": "AGRI/10/00301"
+          },
+          "to": {
+            "Procedure reference": "2023/0447(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 114",
+            "Other legal basis": "Rules of Procedure EP 165",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee",
+              "links": [
+                "http://www.eesc.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Procedure completed",
+            "Committee dossier": "AGRI/10/00301"
+          }
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "07/12/2023",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2023)0769",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2023/0769/COM_COM(2023)0769_EN.docx",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2023&nu_doc=0769"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1768883"
+              ]
+            },
+            {
+              "Date": "25/01/2024",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "13/11/2024",
+              "Event": "Resumption of business from the previous parliamentary term",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "03/06/2025",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "10/06/2025",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0104/2025",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2025-0104_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "19/06/2025",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0135/2025",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0135_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1823262"
+              ]
+            },
+            {
+              "Date": "19/06/2025",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2025-06-19-VOT_EN.html?item=4"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "19/06/2025",
+              "Event": "Matter referred back to the committee responsible for interinstitutional negotiations",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "12/01/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "GEDA/A/(2025)005958",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/agri/lcag/2025/12-10/AGRI_LA(2025)005958_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "28/04/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0115/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0115_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1899832"
+              ]
+            },
+            {
+              "Date": "28/04/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-04-28-VOT_EN.html?item=13"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "22/05/2026",
+              "Event": "Act adopted by Council after Parliament's 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "17/06/2026",
+              "Event": "Final act signed",
+              "Reference": "",
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "07/12/2023",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2023)0769",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2023/0769/COM_COM(2023)0769_EN.docx",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2023&nu_doc=0769"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1768883"
+              ]
+            },
+            {
+              "Date": "25/01/2024",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "13/11/2024",
+              "Event": "Resumption of business from the previous parliamentary term",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "03/06/2025",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "10/06/2025",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0104/2025",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2025-0104_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "19/06/2025",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0135/2025",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2025-0135_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1823262"
+              ]
+            },
+            {
+              "Date": "19/06/2025",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2025-06-19-VOT_EN.html?item=4"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "19/06/2025",
+              "Event": "Matter referred back to the committee responsible for interinstitutional negotiations",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "12/01/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "GEDA/A/(2025)005958",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/agri/lcag/2025/12-10/AGRI_LA(2025)005958_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "28/04/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0115/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0115_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1899832"
+              ]
+            },
+            {
+              "Date": "28/04/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-04-28-VOT_EN.html?item=13"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "22/05/2026",
+              "Event": "Act adopted by Council after Parliament's 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "17/06/2026",
+              "Event": "Final act signed",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "10/08/2026",
+              "Event": "Final act published in Official Journal",
+              "Reference": "",
+              "Summary": ""
+            }
+          ]
+        },
+        "last_action": {
+          "from": "17/06/2026 - Final act signed",
+          "to": "10/08/2026 - Final act published in Official Journal"
+        }
+      }
+    },
+    {
+      "reference": "2023/0209(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "0a21444a462b882dbf64d6c4459a8823",
+          "to": "16cba15e7cd7d7e8e27612a404b31fd8"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2023/0209(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Directive",
+            "Amendments and repeals": {
+              "text": "Repealing Directive 2009/110 2008/0190(COD) Repealing Directive 2015/2366 2013/0264(COD) Amending Directive 1998/26 1996/0126(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2008/0190(COD)",
+                "/oeil/en/procedure-file?reference=2013/0264(COD)",
+                "/oeil/en/procedure-file?reference=1996/0126(COD)"
+              ]
+            },
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 053-p1 Treaty on the Functioning of the European Union TFEU 114",
+            "Other legal basis": "Rules of Procedure EP 165",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee",
+              "links": [
+                "http://www.eesc.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting Council's 1st reading position",
+            "Committee dossier": "ECON/9/12434"
+          },
+          "to": {
+            "Procedure reference": "2023/0209(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Directive",
+            "Amendments and repeals": {
+              "text": "Repealing Directive 2009/110 2008/0190(COD) Repealing Directive 2015/2366 2013/0264(COD) Amending Directive 1998/26 1996/0126(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2008/0190(COD)",
+                "/oeil/en/procedure-file?reference=2013/0264(COD)",
+                "/oeil/en/procedure-file?reference=1996/0126(COD)"
+              ]
+            },
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 053-p1",
+            "Other legal basis": "Rules of Procedure EP 165",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee",
+              "links": [
+                "http://www.eesc.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting Council's 1st reading position",
+            "Committee dossier": "ECON/9/12434"
+          }
+        }
+      }
+    }
+  ]
+}
