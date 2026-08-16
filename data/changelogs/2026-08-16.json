@@ -1,0 +1,435 @@
+{
+  "date": "2026-08-16",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "reference": "2026/0165(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "e5994eaf8d929274a61651922be83f53",
+          "to": "4b723d08e88f9031d8704dae83e32902"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2026/0165(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 088-p2-a1 Treaty on the Functioning of the European Union TFEU 087-p2",
+            "Stage reached in procedure": "Preparatory phase in Parliament"
+          },
+          "to": {
+            "Procedure reference": "2026/0165(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 087-p2 Treaty on the Functioning of the European Union TFEU 088-p2-a1",
+            "Stage reached in procedure": "Preparatory phase in Parliament"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2025/0422(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "7039e9b5fe70ac5fe0552c1ff3b14c91",
+          "to": "a6de2ae848f6857389699d4ec04b796f"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2025/0422(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Repealing Regulation 2014/0540 2011/0409(COD) Amending Regulation 2006/0561 2001/0241(COD) Amending Regulation 2018/858 2016/0014(COD) Amending Regulation 2019/2144 2018/0145(COD) Amending Regulation 2024/1257 2022/0365(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2011/0409(COD)",
+                "/oeil/en/procedure-file?reference=2001/0241(COD)",
+                "/oeil/en/procedure-file?reference=2016/0014(COD)",
+                "/oeil/en/procedure-file?reference=2018/0145(COD)",
+                "/oeil/en/procedure-file?reference=2022/0365(COD)"
+              ]
+            },
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 091 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 294-p7-ac",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "CJ76/10/04864"
+          },
+          "to": {
+            "Procedure reference": "2025/0422(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Repealing Regulation 2014/0540 2011/0409(COD) Amending Regulation 2006/0561 2001/0241(COD) Amending Regulation 2018/858 2016/0014(COD) Amending Regulation 2019/2144 2018/0145(COD) Amending Regulation 2024/1257 2022/0365(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2011/0409(COD)",
+                "/oeil/en/procedure-file?reference=2001/0241(COD)",
+                "/oeil/en/procedure-file?reference=2016/0014(COD)",
+                "/oeil/en/procedure-file?reference=2018/0145(COD)",
+                "/oeil/en/procedure-file?reference=2022/0365(COD)"
+              ]
+            },
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 091 Treaty on the Functioning of the European Union TFEU 114",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "CJ76/10/04864"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2025/0406(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "c75871baea924807caad7e50823995da",
+          "to": "2397dccda7c834b9879f99001a00c668"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2025/0406(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Amending Regulation 2002/178 2000/0286(COD) Amending Regulation 2007/1394 2005/0227(COD) Amending Regulation 2014/536 2012/0192(COD) Amending Regulation 2019/6 2014/0257(COD) Amending Regulation 2024/1938 2022/0216(COD) Amending Regulation 2024/795 2023/0199(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2000/0286(COD)",
+                "/oeil/en/procedure-file?reference=2005/0227(COD)",
+                "/oeil/en/procedure-file?reference=2012/0192(COD)",
+                "/oeil/en/procedure-file?reference=2014/0257(COD)",
+                "/oeil/en/procedure-file?reference=2022/0216(COD)",
+                "/oeil/en/procedure-file?reference=2023/0199(COD)"
+              ]
+            },
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 168-p4 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 114",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "CJ53/10/04842"
+          },
+          "to": {
+            "Procedure reference": "2025/0406(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Amending Regulation 2002/178 2000/0286(COD) Amending Regulation 2007/1394 2005/0227(COD) Amending Regulation 2014/536 2012/0192(COD) Amending Regulation 2019/6 2014/0257(COD) Amending Regulation 2024/1938 2022/0216(COD) Amending Regulation 2024/795 2023/0199(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2000/0286(COD)",
+                "/oeil/en/procedure-file?reference=2005/0227(COD)",
+                "/oeil/en/procedure-file?reference=2012/0192(COD)",
+                "/oeil/en/procedure-file?reference=2014/0257(COD)",
+                "/oeil/en/procedure-file?reference=2022/0216(COD)",
+                "/oeil/en/procedure-file?reference=2023/0199(COD)"
+              ]
+            },
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 168-p4 Treaty on the Functioning of the European Union TFEU 173-p3",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "CJ53/10/04842"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2025/0400(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "33824346a5ab32273eef5c7376ca56a3",
+          "to": "3cf2a75eef7db40c7bdfb890eca0f262"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2025/0400(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Directive",
+            "Amendments and repeals": {
+              "text": "Amending Directive 2019/944 2016/0380(COD) Amending Directive 2018/2001 2016/0382(COD) Amending Directive 2024/1788 2021/0425(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2016/0380(COD)",
+                "/oeil/en/procedure-file?reference=2016/0382(COD)",
+                "/oeil/en/procedure-file?reference=2021/0425(COD)"
+              ]
+            },
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 194-p2",
+            "Other legal basis": "Rules of Procedure EP 165",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting Parliament's position in 1st reading",
+            "Committee dossier": "ITRE/10/04763"
+          },
+          "to": {
+            "Procedure reference": "2025/0400(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Directive",
+            "Amendments and repeals": {
+              "text": "Amending Directive 2019/944 2016/0380(COD) Amending Directive 2018/2001 2016/0382(COD) Amending Directive 2024/1788 2021/0425(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2016/0380(COD)",
+                "/oeil/en/procedure-file?reference=2016/0382(COD)",
+                "/oeil/en/procedure-file?reference=2021/0425(COD)"
+              ]
+            },
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 192-p1",
+            "Other legal basis": "Rules of Procedure EP 165",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting Parliament's position in 1st reading",
+            "Committee dossier": "ITRE/10/04763"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2025/0550(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "9c86822e2721b6c79672569f998f2b9e",
+          "to": "7d6c38fcf6c6cb62c01b95e76ddbf73c"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2025/0550(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Repealing Regulation 2021/818 2018/0190(COD) Repealing Regulation  2021/692 2018/0207(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2018/0190(COD)",
+                "/oeil/en/procedure-file?reference=2018/0207(COD)"
+              ]
+            },
+            "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 168-p5 Treaty on the Functioning of the European Union TFEU 024-p1 Treaty on the Functioning of the European Union TFEU 167-p5 Treaty on the Functioning of the European Union TFEU 021-p2 Treaty on the Functioning of the European Union TFEU 019-p2 Treaty on the Functioning of the European Union TFEU 173-p3",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "CJ65/10/03702"
+          },
+          "to": {
+            "Procedure reference": "2025/0550(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Repealing Regulation 2021/818 2018/0190(COD) Repealing Regulation  2021/692 2018/0207(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2018/0190(COD)",
+                "/oeil/en/procedure-file?reference=2018/0207(COD)"
+              ]
+            },
+            "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 019-p2 Treaty on the Functioning of the European Union TFEU 168-p5 Treaty on the Functioning of the European Union TFEU 167-p5 Treaty on the Functioning of the European Union TFEU 024-p1 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 021-p2",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "CJ65/10/03702"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2025/0235(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "e0d1770d7c46ed167124f0f50fc299b5",
+          "to": "de9c2db5345546565babad221d85ea34"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2025/0235(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 188 -a1 Treaty on the Functioning of the European Union TFEU 091-p1 Treaty on the Functioning of the European Union TFEU 195-p2 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 100-p2",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "PECH/10/03683"
+          },
+          "to": {
+            "Procedure reference": "2025/0235(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 188 -a1 Treaty on the Functioning of the European Union TFEU 091-p1 Treaty on the Functioning of the European Union TFEU 100-p2 Treaty on the Functioning of the European Union TFEU 195-p2 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 188-p2",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "PECH/10/03683"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2025/0222(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "9633e6a705b243161c58728994a9b904",
+          "to": "72669a2da3a1a9d5868c595ba1b0c063"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2025/0222(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Repealing Regulation 2021/817 2018/0191(COD) Repealing Regulation 2021/888 2018/0230(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2018/0191(COD)",
+                "/oeil/en/procedure-file?reference=2018/0230(COD)"
+              ]
+            },
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 166-p4 Treaty on the Functioning of the European Union TFEU 214-p5 Treaty on the Functioning of the European Union TFEU 165-p4",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "CULT/10/03658"
+          },
+          "to": {
+            "Procedure reference": "2025/0222(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Repealing Regulation 2021/817 2018/0191(COD) Repealing Regulation 2021/888 2018/0230(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2018/0191(COD)",
+                "/oeil/en/procedure-file?reference=2018/0230(COD)"
+              ]
+            },
+            "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 214-p5 Treaty on the Functioning of the European Union TFEU 165-p4 Treaty on the Functioning of the European Union TFEU 166-p4",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "CULT/10/03658"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2023/0226(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "941ecdff326a6ef95ce6d6000d1d9822",
+          "to": "b5885325d957fd781bdac697bd23e02d"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2023/0226(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Amending Regulation 2017/625 2013/0140(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2013/0140(COD)"
+              ]
+            },
+            "Legal basis": "Rules of Procedure EP 57_o Treaty on the Functioning of the European Union TFEU 043 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 168-p4",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Procedure completed",
+            "Committee dossier": "ENVI/10/02111"
+          },
+          "to": {
+            "Procedure reference": "2023/0226(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Amending Regulation 2017/625 2013/0140(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2013/0140(COD)"
+              ]
+            },
+            "Legal basis": "Rules of Procedure EP 57_o Treaty on the Functioning of the European Union TFEU 168-p4 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 043",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Procedure completed",
+            "Committee dossier": "ENVI/10/02111"
+          }
+        }
+      }
+    }
+  ]
+}
