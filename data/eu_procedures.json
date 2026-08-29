@@ -239382,7 +239382,7 @@
     ]
   },
   {
-    "content_hash": "2043e1741060b1c79ff9882417deb08f",
+    "content_hash": "2948421cf44e3ccb29490642fef93618",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0131(COD)",
     "reference": "2025/0131(COD)",
     "title": "Amending certain Directives as regards the extension of certain mitigating measures available for small and medium sized enterprises to small mid-cap enterprises and further simplifying measures (Omnibus IV)",
@@ -239403,7 +239403,7 @@
           "/oeil/en/procedure-file?reference=2020/0365(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 053-p1",
+      "Legal basis": "Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 053-p1 Treaty on the Functioning of the European Union TFEU 114",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee",
         "links": [
@@ -239441,16 +239441,16 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur MANDL Lukas (EPP) BENJUMEA BENJUMEA Isabel (EPP) BAJADA Thomas (S&D) BORR\u00c1S PAB\u00d3N Mireia (PfE) LEGGERI Fabrice (PfE) TYNKKYNEN Sebastian (ECR) \u00d3DOR \u013dudov\u00edt (Renew) VASCONCELOS Ana (Renew) RIBA I GINER Diana (Greens/EFA) BARRENA ARZA Pernando (The Left) SARAMO Jussi (The Left)",
+            "Rapporteur": "Shadow rapporteur MANDL Lukas (EPP) BENJUMEA BENJUMEA Isabel (EPP) BAJADA Thomas (S&D) LEGGERI Fabrice (PfE) BORR\u00c1S PAB\u00d3N Mireia (PfE) TYNKKYNEN Sebastian (ECR) VASCONCELOS Ana (Renew) \u00d3DOR \u013dudov\u00edt (Renew) RIBA I GINER Diana (Greens/EFA) BARRENA ARZA Pernando (The Left) SARAMO Jussi (The Left)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/190713",
               "https://www.europarl.europa.eu/meps/en/197679",
               "https://www.europarl.europa.eu/meps/en/256936",
-              "https://www.europarl.europa.eu/meps/en/257024",
               "https://www.europarl.europa.eu/meps/en/256872",
+              "https://www.europarl.europa.eu/meps/en/257024",
               "https://www.europarl.europa.eu/meps/en/256806",
-              "https://www.europarl.europa.eu/meps/en/257010",
               "https://www.europarl.europa.eu/meps/en/257061",
+              "https://www.europarl.europa.eu/meps/en/257010",
               "https://www.europarl.europa.eu/meps/en/197832",
               "https://www.europarl.europa.eu/meps/en/197684",
               "https://www.europarl.europa.eu/meps/en/127766"
@@ -244186,7 +244186,7 @@
     ]
   },
   {
-    "content_hash": "77257bfb4456abe2075c5bb57d7ff0e6",
+    "content_hash": "fbd2c8aee805269baa62ef6207c808fc",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0232(COD)",
     "reference": "2025/0232(COD)",
     "title": "Protection of workers from the risks related to exposure to carcinogens or mutagens at work",
@@ -244205,7 +244205,7 @@
           "/oeil/en/procedure-file?reference=1999/0085(COD)"
         ]
       },
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 153-p1 Treaty on the Functioning of the European Union TFEU 153-p2",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 153-p2 Treaty on the Functioning of the European Union TFEU 153-p1",
       "Other legal basis": "Rules of Procedure EP 165",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
@@ -252341,7 +252341,7 @@
     ]
   },
   {
-    "content_hash": "6a360d6277fb7b35b2422a16aa2800a5",
+    "content_hash": "85d768f695622d43507ea93bd0033674",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0380(COD)",
     "reference": "2025/0380(COD)",
     "title": "Market stability reserve for the buildings, road transport and additional sectors",
@@ -252498,7 +252498,10 @@
       {
         "Date": "06/07/2026",
         "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
-        "Reference": "GEDA/A/(2026)004065",
+        "Reference": "PE791.078 GEDA/A/(2026)004065",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/RegData/commissions/envi/inag/2026/06-24/ENVI_AG(2026)791078_EN.pdf"
+        ],
         "Summary": ""
       }
     ],
@@ -252552,6 +252555,16 @@
             "Summary_links": [
               "/oeil/en/document-summary?id=1900130"
             ]
+          },
+          {
+            "Document type": "Text agreed during interinstitutional negotiations",
+            "Committee": "",
+            "Reference": "PE791.078",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/RegData/commissions/envi/inag/2026/06-24/ENVI_AG(2026)791078_EN.pdf"
+            ],
+            "Date": "24/06/2026",
+            "Summary": ""
           }
         ]
       },
@@ -256589,7 +256602,7 @@
     ]
   },
   {
-    "content_hash": "acfdedb36c9d508f758e5573ca481ad7",
+    "content_hash": "2397dccda7c834b9879f99001a00c668",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0406(COD)",
     "reference": "2025/0406(COD)",
     "title": "European Biotech Act",
@@ -256614,7 +256627,7 @@
           "/oeil/en/procedure-file?reference=2023/0199(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 168-p4",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 168-p4 Treaty on the Functioning of the European Union TFEU 173-p3",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
