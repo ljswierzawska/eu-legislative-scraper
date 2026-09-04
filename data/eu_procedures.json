@@ -241030,7 +241030,7 @@
     ]
   },
   {
-    "content_hash": "c80430fec43f750c2b52452114eac97d",
+    "content_hash": "60873cad45f71fb7428cd6155dd7b88a",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0176(COD)",
     "reference": "2025/0176(COD)",
     "title": "Defence readiness and facilitating defence investments and conditions for the defence industry (Omnibus V)",
@@ -241054,7 +241054,7 @@
           "/oeil/en/procedure-file?reference=2018/0254(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 183 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 182-p4 Treaty on the Functioning of the European Union TFEU 114",
+      "Legal basis": "Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 182-p4 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 183",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -244233,7 +244233,7 @@
     ]
   },
   {
-    "content_hash": "77257bfb4456abe2075c5bb57d7ff0e6",
+    "content_hash": "fc7999206918e14de6ceb7bb7ae755d9",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0232(COD)",
     "reference": "2025/0232(COD)",
     "title": "Protection of workers from the risks related to exposure to carcinogens or mutagens at work",
@@ -244374,9 +244374,19 @@
         "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
         "Reference": "",
         "Summary": ""
+      },
+      {
+        "Date": "02/09/2026",
+        "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+        "Reference": "GEDA/A/(2026)004807 PE791.897",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/RegData/commissions/empl/lcag/2026/07-22/EMPL_LA(2026)004807_EN.pdf",
+          "https://www.europarl.europa.eu/RegData/commissions/empl/inag/2026/07-22/EMPL_AG(2026)791897_EN.pdf"
+        ],
+        "Summary": ""
       }
     ],
-    "last_action": "29/04/2026 - Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+    "last_action": "02/09/2026 - Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
     "documents": [
       {
         "institution": "European Parliament",
@@ -244413,6 +244423,16 @@
             "Summary_links": [
               "/oeil/en/document-summary?id=1898011"
             ]
+          },
+          {
+            "Document type": "Text agreed during interinstitutional negotiations",
+            "Committee": "",
+            "Reference": "PE791.897",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/RegData/commissions/empl/inag/2026/07-22/EMPL_AG(2026)791897_EN.pdf"
+            ],
+            "Date": "22/07/2026",
+            "Summary": ""
           }
         ]
       },
@@ -244422,6 +244442,9 @@
           {
             "Document type": "Coreper letter confirming interinstitutional agreement",
             "Reference": "GEDA/A/(2026)004807",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/RegData/commissions/empl/lcag/2026/07-22/EMPL_LA(2026)004807_EN.pdf"
+            ],
             "Date": "22/07/2026",
             "Summary": ""
           }
@@ -247687,7 +247710,7 @@
     ]
   },
   {
-    "content_hash": "79737900c4c0ec40e8ec73664d40c84a",
+    "content_hash": "12149edf7b12ff7a35b38fef55f58690",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0255(COD)",
     "reference": "2025/0255(COD)",
     "title": "Justice programme 2028-2034",
@@ -247707,7 +247730,7 @@
           "/oeil/en/procedure-file?reference=2018/0208(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 081-p1 Treaty on the Functioning of the European Union TFEU 082-p1 Treaty on the Functioning of the European Union TFEU 081-p2",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 082-p1 Treaty on the Functioning of the European Union TFEU 081-p2 Treaty on the Functioning of the European Union TFEU 081-p1",
       "Stage reached in procedure": "Awaiting committee decision",
       "Committee dossier": "CJ03/10/03804"
     },
@@ -271007,7 +271030,7 @@
     ]
   },
   {
-    "content_hash": "d56006c7e7b85d1cebd255808de8080b",
+    "content_hash": "514dea87494a26b3e961f2448821b798",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0189(COD)",
     "reference": "2026/0189(COD)",
     "title": "Temporary trade-liberalisation measures applicable to Armenian products",
@@ -271022,6 +271045,7 @@
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
       "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 207-p2",
+      "Other legal basis": "Rules of Procedure EP 165",
       "Stage reached in procedure": "Preparatory phase in Parliament"
     },
     "key_players": [
@@ -271063,10 +271087,31 @@
         "Summary_links": [
           "/oeil/en/document-summary?id=1907631"
         ]
+      },
+      {
+        "Date": "03/09/2026",
+        "Event": "Vote in committee, 1st reading",
+        "Reference": "",
+        "Summary": ""
       }
     ],
-    "last_action": "02/07/2026 - Legislative proposal published",
+    "last_action": "03/09/2026 - Vote in committee, 1st reading",
     "documents": [
+      {
+        "institution": "European Parliament",
+        "rows": [
+          {
+            "Document type": "Specific opinion",
+            "Committee": "AGRI",
+            "Reference": "PE791.893",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/doceo/document/AGRI-AL-791893_EN.html"
+            ],
+            "Date": "02/09/2026",
+            "Summary": ""
+          }
+        ]
+      },
       {
         "institution": "European Commission",
         "rows": [
