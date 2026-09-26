@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-26",
+  "errors": [
+    {
+      "reference": "2024/0148(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/0148(COD)",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Max retries exceeded with url: /oeil/en/procedure-file?reference=2024/0148(COD) (Caused by ConnectTimeoutError(<HTTPSConnection(host='oeil.europarl.europa.eu', port=443) at 0x7fb8fcff59d0>, 'Connection to oeil.europarl.europa.eu timed out. (connect timeout=60)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Max retries exceeded with url: /oeil/en/procedure-file?reference=2024/0148(COD) (Caused by ConnectTimeoutError(<HTTPSConnection(host='oeil.europarl.europa.eu', port=443) at 0x7fb8fcff59d0>, 'Connection to oeil.europarl.europa.eu timed out. (connect timeout=60)'))"
+      ]
+    },
+    {
+      "reference": "2024/0071(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/0071(COD)",
+      "error_type": "ReadTimeout",
+      "message": "HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Read timed out. (read timeout=60)",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/requests/adapters.py\", line 742, in send",
+        "    raise ReadTimeout(e, request=request)",
+        "requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Read timed out. (read timeout=60)"
+      ]
+    },
+    {
+      "reference": "2024/0061(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/0061(COD)",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Max retries exceeded with url: /oeil/en/procedure-file?reference=2024/0061(COD) (Caused by NameResolutionError(\"HTTPSConnection(host='oeil.europarl.europa.eu', port=443): Failed to resolve 'oeil.europarl.europa.eu' ([Errno -3] Temporary failure in name resolution)\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Max retries exceeded with url: /oeil/en/procedure-file?reference=2024/0061(COD) (Caused by NameResolutionError(\"HTTPSConnection(host='oeil.europarl.europa.eu', port=443): Failed to resolve 'oeil.europarl.europa.eu' ([Errno -3] Temporary failure in name resolution)\"))"
+      ]
+    },
+    {
+      "reference": "2024/0060(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/0060(COD)",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Max retries exceeded with url: /oeil/en/procedure-file?reference=2024/0060(COD) (Caused by ConnectTimeoutError(<HTTPSConnection(host='oeil.europarl.europa.eu', port=443) at 0x7fb8fe6f2750>, 'Connection to oeil.europarl.europa.eu timed out. (connect timeout=60)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Max retries exceeded with url: /oeil/en/procedure-file?reference=2024/0060(COD) (Caused by ConnectTimeoutError(<HTTPSConnection(host='oeil.europarl.europa.eu', port=443) at 0x7fb8fe6f2750>, 'Connection to oeil.europarl.europa.eu timed out. (connect timeout=60)'))"
+      ]
+    },
+    {
+      "reference": "2024/0059(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/0059(COD)",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Max retries exceeded with url: /oeil/en/procedure-file?reference=2024/0059(COD) (Caused by NewConnectionError(\"HTTPSConnection(host='oeil.europarl.europa.eu', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Max retries exceeded with url: /oeil/en/procedure-file?reference=2024/0059(COD) (Caused by NewConnectionError(\"HTTPSConnection(host='oeil.europarl.europa.eu', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+      ]
+    },
+    {
+      "reference": "2023/0077B(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0077B(COD)",
+      "error_type": "ReadTimeout",
+      "message": "HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Read timed out. (read timeout=60)",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/requests/adapters.py\", line 742, in send",
+        "    raise ReadTimeout(e, request=request)",
+        "requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Read timed out. (read timeout=60)"
+      ]
+    },
+    {
+      "reference": "2023/0368(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0368(COD)",
+      "error_type": "ConnectionError",
+      "message": "HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Max retries exceeded with url: /oeil/en/procedure-file?reference=2023/0368(COD) (Caused by NewConnectionError(\"HTTPSConnection(host='oeil.europarl.europa.eu', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/requests/adapters.py\", line 729, in send",
+        "    raise ConnectionError(e, request=request)",
+        "requests.exceptions.ConnectionError: HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Max retries exceeded with url: /oeil/en/procedure-file?reference=2023/0368(COD) (Caused by NewConnectionError(\"HTTPSConnection(host='oeil.europarl.europa.eu', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))"
+      ]
+    },
+    {
+      "reference": "2023/0361(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0361(COD)",
+      "error_type": "ConnectTimeout",
+      "message": "HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Max retries exceeded with url: /oeil/en/procedure-file?reference=2023/0361(COD) (Caused by ConnectTimeoutError(<HTTPSConnection(host='oeil.europarl.europa.eu', port=443) at 0x7fb8fe9ff810>, 'Connection to oeil.europarl.europa.eu timed out. (connect timeout=60)'))",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.11.16/x64/lib/python3.11/site-packages/requests/adapters.py\", line 717, in send",
+        "    raise ConnectTimeout(e, request=request)",
+        "requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Max retries exceeded with url: /oeil/en/procedure-file?reference=2023/0361(COD) (Caused by ConnectTimeoutError(<HTTPSConnection(host='oeil.europarl.europa.eu', port=443) at 0x7fb8fe9ff810>, 'Connection to oeil.europarl.europa.eu timed out. (connect timeout=60)'))"
+      ]
+    }
+  ]
+}
