@@ -245092,7 +245092,7 @@
     ]
   },
   {
-    "content_hash": "1aedc5307c02e010cfb30db05069c621",
+    "content_hash": "d5d0e46200005493398674cd7e6f4749",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0312(COD)",
     "reference": "2025/0312(COD)",
     "title": "Economic and budgetary surveillance of Member States in the euro area experiencing or threatened with serious difficulties with respect to their financial stability",
@@ -245105,7 +245105,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 121-p6 Treaty on the Functioning of the European Union TFEU 136",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 136 Treaty on the Functioning of the European Union TFEU 121-p6",
       "Mandatory consultation of other institutions": {
         "text": "European Central Bank",
         "links": [
@@ -258646,7 +258646,7 @@
     ]
   },
   {
-    "content_hash": "89a187ea4a5fc70ed55da7e1b3ad611e",
+    "content_hash": "4d58e6d834e76c96d7cafce01ce04ed5",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0542(COD)",
     "reference": "2025/0542(COD)",
     "title": "Union support for internal security 2028\u20132034",
@@ -258660,7 +258660,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 084 Treaty on the Functioning of the European Union TFEU 087-p2 Treaty on the Functioning of the European Union TFEU 082-p1",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 084 Treaty on the Functioning of the European Union TFEU 082-p1 Treaty on the Functioning of the European Union TFEU 087-p2",
       "Stage reached in procedure": "Awaiting committee decision",
       "Committee dossier": "LIBE/10/03656"
     },
@@ -258844,13 +258844,23 @@
             ],
             "Date": "19/02/2026",
             "Summary": ""
+          },
+          {
+            "Institution/body": "CofR",
+            "Document type": "Committee of the Regions: opinion",
+            "Reference": "CDR3372/2025",
+            "Reference_links": [
+              "https://dmsearch.cor.europa.eu/search/public?k=(documenttype:AC)(documentnumber:3372)(documentyear:2025)(documentlanguage:EN)"
+            ],
+            "Date": "01/07/2026",
+            "Summary": ""
           }
         ]
       }
     ],
     "additional_information": [
       {
-        "Source": "EP Research Service",
+        "Source": "European Parliament",
         "Document": "Briefing",
         "Document_links": [
           "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2025)779266"
@@ -266072,7 +266082,7 @@
     ]
   },
   {
-    "content_hash": "dfcaca2745a1e894a7dcbce97d7b630e",
+    "content_hash": "47552db4222a029ef0ff9d786f4dfba0",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0138(COD)",
     "reference": "2026/0138(COD)",
     "title": "Cloud and AI Development Act",
@@ -266086,7 +266096,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 59 Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 173-p3",
+      "Legal basis": "Rules of Procedure EP 59 Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 114",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee",
         "links": [
@@ -266124,10 +266134,14 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur ZINGARETTI Nicola (S&D) DIBRANI Adnan (S&D) GEESE Alexandra (Greens/EFA)",
+            "Rapporteur": "Shadow rapporteur DEL CASTILLO VERA Pilar (EPP) ZINGARETTI Nicola (S&D) DIBRANI Adnan (S&D) NIKOLIC Aleksandar (PfE) CAVEDAGNA Stefano (ECR) COTRIM DE FIGUEIREDO Jo\u00e3o (Renew) GEESE Alexandra (Greens/EFA)",
             "Rapporteur_links": [
+              "https://www.europarl.europa.eu/meps/en/28390",
               "https://www.europarl.europa.eu/meps/en/28419",
               "https://www.europarl.europa.eu/meps/en/257087",
+              "https://www.europarl.europa.eu/meps/en/256883",
+              "https://www.europarl.europa.eu/meps/en/257096",
+              "https://www.europarl.europa.eu/meps/en/257057",
               "https://www.europarl.europa.eu/meps/en/183916"
             ],
             "Appointed": ""
