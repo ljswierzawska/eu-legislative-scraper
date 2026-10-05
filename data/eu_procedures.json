@@ -175997,7 +175997,7 @@
     ]
   },
   {
-    "content_hash": "b9c531da767844f58dbb6011d28bd774",
+    "content_hash": "291b5e99973903debcebc2d3b657afc1",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0131(COD)",
     "reference": "2023/0131(COD)",
     "title": "Authorisation and supervision of medicinal products for human use and governing rules for the European Medicines Agency",
@@ -176023,7 +176023,7 @@
           "/oeil/en/procedure-file?reference=2012/0192(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 57_o Treaty on the Functioning of the European Union TFEU 168-p4 Treaty on the Functioning of the European Union TFEU 114",
+      "Legal basis": "Rules of Procedure EP 57_o Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 168-p4",
       "Other legal basis": "Rules of Procedure EP 165",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
@@ -236668,7 +236668,7 @@
     ]
   },
   {
-    "content_hash": "bbf6abc31e3b530e4ec75ba915c038fd",
+    "content_hash": "4cf4750d757818e8b5a546e11c630308",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0222(COD)",
     "reference": "2025/0222(COD)",
     "title": "Erasmus+ programme 2028\u20132034",
@@ -236782,9 +236782,18 @@
         "Event": "Vote in committee, 1st reading",
         "Reference": "",
         "Summary": ""
+      },
+      {
+        "Date": "02/10/2026",
+        "Event": "Committee report tabled for plenary, 1st reading",
+        "Reference": "A10-0257/2026",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/A-10-2026-0257_EN.html"
+        ],
+        "Summary": ""
       }
     ],
-    "last_action": "29/09/2026 - Vote in committee, 1st reading",
+    "last_action": "02/10/2026 - Committee report tabled for plenary, 1st reading",
     "documents": [
       {
         "institution": "European Parliament",
@@ -236867,6 +236876,16 @@
               "https://www.europarl.europa.eu/doceo/document/BUDG-AD-784147_EN.html"
             ],
             "Date": "23/06/2026",
+            "Summary": ""
+          },
+          {
+            "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+            "Committee": "",
+            "Reference": "A10-0257/2026",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/doceo/document/A-10-2026-0257_EN.html"
+            ],
+            "Date": "02/10/2026",
             "Summary": ""
           }
         ]
@@ -238084,7 +238103,7 @@
     ]
   },
   {
-    "content_hash": "de9c2db5345546565babad221d85ea34",
+    "content_hash": "e0d1770d7c46ed167124f0f50fc299b5",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0235(COD)",
     "reference": "2025/0235(COD)",
     "title": "Common Fisheries Policy 2028\u20132034",
@@ -238100,7 +238119,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 188 -a1 Treaty on the Functioning of the European Union TFEU 091-p1 Treaty on the Functioning of the European Union TFEU 100-p2 Treaty on the Functioning of the European Union TFEU 195-p2 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 188-p2",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 188 -a1 Treaty on the Functioning of the European Union TFEU 091-p1 Treaty on the Functioning of the European Union TFEU 195-p2 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 100-p2",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -239753,7 +239772,7 @@
     ]
   },
   {
-    "content_hash": "830141e37ca15788e664bbdc006288a2",
+    "content_hash": "8cb0bc590a965752efa6f0ee1b9d65a0",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0240(COD)",
     "reference": "2025/0240(COD)",
     "title": "European Fund for economic, social and territorial cohesion, agriculture and rural, fisheries and maritime, prosperity and security\u00a02028\u20132034",
@@ -239778,7 +239797,7 @@
           "/oeil/en/procedure-file?reference=2022/0162(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 59 Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 178-p1 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 212 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 164 Treaty on the Functioning of the European Union TFEU 091-p1-ae Treaty on the Functioning of the European Union TFEU 046 Treaty on the Functioning of the European Union TFEU 153-p2-a1 Treaty on the Functioning of the European Union TFEU 209-p1 Treaty on the Functioning of the European Union TFEU 043-p3 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 177-p1 Treaty on the Functioning of the European Union TFEU 149 Treaty on the Functioning of the European Union TFEU 175-p3",
+      "Legal basis": "Rules of Procedure EP 59 Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 177-p1 Treaty on the Functioning of the European Union TFEU 178-p1 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 212 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 164 Treaty on the Functioning of the European Union TFEU 091-p1-ae Treaty on the Functioning of the European Union TFEU 046 Treaty on the Functioning of the European Union TFEU 153-p2-a1 Treaty on the Functioning of the European Union TFEU 209-p1 Treaty on the Functioning of the European Union TFEU 043-p3 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 149",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -239828,28 +239847,28 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur LINS Norbert (EPP) MAESTRE Cristina (S&D) REPP Sabrina (S&D) GERMAIN Jean-Marc (S&D) DEUTSCH Tam\u00e1s (PfE) DOSTALOVA Klara (PfE) RAZZA Ruggero (ECR) RUISSEN Bert-Jan (ECR) VENTOLA Francesco (ECR) KARVA\u0160OV\u00c1 \u013dubica (Renew) YAR Lucia (Renew) BOSANAC Gordan (Greens/EFA) CORMAND David (Greens/EFA) BOESELAGER Damian (Greens/EFA) OLIVEIRA Jo\u00e3o (The Left) FLANAGAN Luke Ming (The Left) PALMISANO Valentina (The Left) BOSSDORF Irmhild (ESN) JUNGBLUTH Alexander (ESN) BAUSEMER Arno (ESN)",
+            "Rapporteur": "Shadow rapporteur LINS Norbert (EPP) MAESTRE Cristina (S&D) GERMAIN Jean-Marc (S&D) REPP Sabrina (S&D) DEUTSCH Tam\u00e1s (PfE) DOSTALOVA Klara (PfE) RUISSEN Bert-Jan (ECR) RAZZA Ruggero (ECR) VENTOLA Francesco (ECR) YAR Lucia (Renew) KARVA\u0160OV\u00c1 \u013dubica (Renew) BOESELAGER Damian (Greens/EFA) CORMAND David (Greens/EFA) BOSANAC Gordan (Greens/EFA) FLANAGAN Luke Ming (The Left) PALMISANO Valentina (The Left) OLIVEIRA Jo\u00e3o (The Left) BOSSDORF Irmhild (ESN) BAUSEMER Arno (ESN) JUNGBLUTH Alexander (ESN)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/124808",
               "https://www.europarl.europa.eu/meps/en/197719",
-              "https://www.europarl.europa.eu/meps/en/256935",
               "https://www.europarl.europa.eu/meps/en/256901",
+              "https://www.europarl.europa.eu/meps/en/256935",
               "https://www.europarl.europa.eu/meps/en/96826",
               "https://www.europarl.europa.eu/meps/en/256853",
-              "https://www.europarl.europa.eu/meps/en/257104",
               "https://www.europarl.europa.eu/meps/en/197773",
+              "https://www.europarl.europa.eu/meps/en/257104",
               "https://www.europarl.europa.eu/meps/en/257099",
-              "https://www.europarl.europa.eu/meps/en/257013",
               "https://www.europarl.europa.eu/meps/en/257011",
-              "https://www.europarl.europa.eu/meps/en/256995",
-              "https://www.europarl.europa.eu/meps/en/197503",
+              "https://www.europarl.europa.eu/meps/en/257013",
               "https://www.europarl.europa.eu/meps/en/197439",
-              "https://www.europarl.europa.eu/meps/en/257083",
+              "https://www.europarl.europa.eu/meps/en/197503",
+              "https://www.europarl.europa.eu/meps/en/256995",
               "https://www.europarl.europa.eu/meps/en/124985",
               "https://www.europarl.europa.eu/meps/en/257135",
+              "https://www.europarl.europa.eu/meps/en/257083",
               "https://www.europarl.europa.eu/meps/en/256945",
-              "https://www.europarl.europa.eu/meps/en/256941",
-              "https://www.europarl.europa.eu/meps/en/256948"
+              "https://www.europarl.europa.eu/meps/en/256948",
+              "https://www.europarl.europa.eu/meps/en/256941"
             ],
             "Appointed": ""
           }
@@ -248210,7 +248229,7 @@
     ]
   },
   {
-    "content_hash": "75368953d0ef52151412cbade4487742",
+    "content_hash": "07ba424c144c6b1071f1126d5a24408c",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0385(COD)",
     "reference": "2025/0385(COD)",
     "title": "Amendments to the Critical Raw Materials Act",
@@ -248242,7 +248261,7 @@
         ]
       },
       "Stage reached in procedure": "Awaiting committee decision",
-      "Committee dossier": "ITRE/10/06748 ITRE/10/04676"
+      "Committee dossier": "ITRE/10/04676 ITRE/10/06748"
     },
     "key_players": [
       {
@@ -248253,7 +248272,24 @@
             "Committee responsible_links": [
               "http://www.europarl.europa.eu/committees/EN/itre/home.html"
             ],
-            "Rapporteur": "",
+            "Rapporteur": "CHAHIM Mohammed (S&D)",
+            "Rapporteur_links": [
+              "https://www.europarl.europa.eu/meps/en/197782"
+            ],
+            "Appointed": "10/02/2026"
+          },
+          {
+            "Committee responsible": "",
+            "Rapporteur": "Shadow rapporteur SOL\u00cdS P\u00c9REZ Susana (EPP) GY\u00dcRK Andr\u00e1s (PfE) VIVALDINI Mariateresa (ECR) VAN DEN BERG Brigitte (Renew) MATTHIEU Sara (Greens/EFA) CLAUSEN Per (The Left) SYPNIEWSKI Marcin (ESN)",
+            "Rapporteur_links": [
+              "https://www.europarl.europa.eu/meps/en/197784",
+              "https://www.europarl.europa.eu/meps/en/23816",
+              "https://www.europarl.europa.eu/meps/en/257143",
+              "https://www.europarl.europa.eu/meps/en/256976",
+              "https://www.europarl.europa.eu/meps/en/208722",
+              "https://www.europarl.europa.eu/meps/en/257023",
+              "https://www.europarl.europa.eu/meps/en/257070"
+            ],
             "Appointed": ""
           }
         ]
@@ -248577,6 +248613,16 @@
               "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0946"
             ],
             "Date": "09/04/2026",
+            "Summary": ""
+          },
+          {
+            "Document type": "Contribution",
+            "Parliament/Chamber": "RO_CHAMBER",
+            "Reference": "COM(2025)0945",
+            "Reference_links": [
+              "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0945"
+            ],
+            "Date": "23/09/2026",
             "Summary": ""
           }
         ]
@@ -257833,7 +257879,7 @@
     ]
   },
   {
-    "content_hash": "9c86822e2721b6c79672569f998f2b9e",
+    "content_hash": "4311de384aefd891246a7bcbd53cec88",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0550(COD)",
     "reference": "2025/0550(COD)",
     "title": "'AgoraEU' programme 2028\u20132034",
@@ -257856,7 +257902,7 @@
           "/oeil/en/procedure-file?reference=2018/0207(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 168-p5 Treaty on the Functioning of the European Union TFEU 024-p1 Treaty on the Functioning of the European Union TFEU 167-p5 Treaty on the Functioning of the European Union TFEU 021-p2 Treaty on the Functioning of the European Union TFEU 019-p2 Treaty on the Functioning of the European Union TFEU 173-p3",
+      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 024-p1 Treaty on the Functioning of the European Union TFEU 021-p2 Treaty on the Functioning of the European Union TFEU 167-p5 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 168-p5 Treaty on the Functioning of the European Union TFEU 019-p2",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -267453,7 +267499,7 @@
     ]
   },
   {
-    "content_hash": "d612de43c53269e4d0d706bf03e86a24",
+    "content_hash": "3bb8bb89e20d09a2b0e175084925354b",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0272(COD)",
     "reference": "2026/0272(COD)",
     "title": "Revision of the European Labour Authority\u2019s mandate",
@@ -267478,7 +267524,7 @@
           "/oeil/en/procedure-file?reference=2018/0064(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 046 Treaty on the Functioning of the European Union TFEU 048 Treaty on the Functioning of the European Union TFEU 294-p7-ac",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 048 Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 046",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
