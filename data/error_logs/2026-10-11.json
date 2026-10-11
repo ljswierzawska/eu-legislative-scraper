@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-11",
+  "errors": [
+    {
+      "reference": "2025/0358(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0358(COD)",
+      "error_type": "ReadTimeout",
+      "message": "HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Read timed out. (read timeout=60)",
+      "traceback": [
+        "  File \"/opt/hostedtoolcache/Python/3.11.17/x64/lib/python3.11/site-packages/requests/adapters.py\", line 742, in send",
+        "    raise ReadTimeout(e, request=request)",
+        "requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='oeil.europarl.europa.eu', port=443): Read timed out. (read timeout=60)"
+      ]
+    }
+  ]
+}
