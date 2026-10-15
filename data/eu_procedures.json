@@ -207371,7 +207371,7 @@
     ]
   },
   {
-    "content_hash": "c24006231fffdb606270c65cb26eec6a",
+    "content_hash": "d50abdb695fdec00260d27aef8f820f2",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0447(COD)",
     "reference": "2023/0447(COD)",
     "title": "Welfare of dogs and cats and their traceability",
@@ -207384,7 +207384,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 114",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 043-p2",
       "Other legal basis": "Rules of Procedure EP 165",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee",
@@ -207713,6 +207713,15 @@
             "Summary_links": [
               "/oeil/en/document-summary?id=1768883"
             ]
+          },
+          {
+            "Document type": "Commission response to text adopted in plenary",
+            "Reference": "SP(2026)06-15",
+            "Reference_links": [
+              "https://data.europarl.europa.eu/distribution/doc/SP-2026-06-15-TA-10-2026-0115_en.docx"
+            ],
+            "Date": "15/06/2026",
+            "Summary": ""
           }
         ]
       },
@@ -256041,7 +256050,7 @@
     ]
   },
   {
-    "content_hash": "c6e159ed84b5f62ef322523557acfafc",
+    "content_hash": "972f3d48ac2cd5583710b88520ebc889",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0540(COD)",
     "reference": "2025/0540(COD)",
     "title": "Union support for asylum, migration and integration 2028\u20132034",
@@ -256056,7 +256065,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 079-p4 Treaty on the Functioning of the European Union TFEU 079-p2 Treaty on the Functioning of the European Union TFEU 078-p2",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 078-p2 Treaty on the Functioning of the European Union TFEU 079-p4 Treaty on the Functioning of the European Union TFEU 079-p2",
       "Stage reached in procedure": "Awaiting committee decision",
       "Committee dossier": "LIBE/10/03652"
     },
@@ -256749,7 +256758,7 @@
     ]
   },
   {
-    "content_hash": "872784cf1ec11bb672b4d10cb8227ee2",
+    "content_hash": "8a4177d644e0ac164556d9a5c97d05b5",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0543(COD)",
     "reference": "2025/0543(COD)",
     "title": "Horizon Europe\u00a0framework programme for research and innovation 2028\u20132034",
@@ -256769,7 +256778,7 @@
           "/oeil/en/procedure-file?reference=2018/0224(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 182-p1 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 182-p5",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 182-p5 Treaty on the Functioning of the European Union TFEU 182-p1",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee",
         "links": [
@@ -262380,11 +262389,11 @@
     ]
   },
   {
-    "content_hash": "6f37bc063781076073c52871460c2ede",
+    "content_hash": "df906f18caf0878525c256690e88582f",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0078(COD)",
     "reference": "2026/0078(COD)",
     "title": "Programme for agile and rapid defence innovation (AGILE)",
-    "status": "Awaiting Council's 1st reading position",
+    "status": "Awaiting signature of act",
     "subjects": [
       "3.40.09 Defence and arms industry",
       "3.45.02 Small and medium-sized enterprises (SME), craft industries",
@@ -262403,7 +262412,7 @@
           "http://www.eesc.europa.eu/"
         ]
       },
-      "Stage reached in procedure": "Awaiting Council's 1st reading position",
+      "Stage reached in procedure": "Awaiting signature of act",
       "Committee dossier": "CJ55/10/05509"
     },
     "key_players": [
@@ -262434,13 +262443,13 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur LAKOS Eszter (EPP) FARSK\u00dd Jan (EPP) GORI Giorgio (S&D) RECHAGNEUX Julie (PfE) THIONNET Pierre-Romain (PfE) DONAZZAN Elena (ECR) DWORCZYK Micha\u0142 (ECR) EROGLU Engin (Renew) LAGODINSKY Sergey (Greens/EFA) VAN LANSCHOT Reinier (Greens/EFA) BOTENGA Marc (The Left)",
+            "Rapporteur": "Shadow rapporteur LAKOS Eszter (EPP) FARSK\u00dd Jan (EPP) GORI Giorgio (S&D) THIONNET Pierre-Romain (PfE) RECHAGNEUX Julie (PfE) DONAZZAN Elena (ECR) DWORCZYK Micha\u0142 (ECR) EROGLU Engin (Renew) LAGODINSKY Sergey (Greens/EFA) VAN LANSCHOT Reinier (Greens/EFA) BOTENGA Marc (The Left)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/256865",
               "https://www.europarl.europa.eu/meps/en/256840",
               "https://www.europarl.europa.eu/meps/en/257102",
-              "https://www.europarl.europa.eu/meps/en/256882",
               "https://www.europarl.europa.eu/meps/en/200345",
+              "https://www.europarl.europa.eu/meps/en/256882",
               "https://www.europarl.europa.eu/meps/en/257095",
               "https://www.europarl.europa.eu/meps/en/257076",
               "https://www.europarl.europa.eu/meps/en/197430",
@@ -262556,9 +262565,15 @@
           "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-06-VOT_EN.html?item=2"
         ],
         "Summary": ""
+      },
+      {
+        "Date": "12/10/2026",
+        "Event": "Act adopted by Council after Parliament's 1st reading",
+        "Reference": "",
+        "Summary": ""
       }
     ],
-    "last_action": "06/10/2026 - Results of vote in Parliament",
+    "last_action": "12/10/2026 - Act adopted by Council after Parliament's 1st reading",
     "documents": [
       {
         "institution": "European Parliament",
