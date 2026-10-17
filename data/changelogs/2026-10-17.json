@@ -1,0 +1,4794 @@
+{
+  "date": "2026-10-17",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "reference": "2026/0307(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "92290f13f817e4e4c59dfc972fb2e80e",
+          "to": "8374bdd08b392f3451e99ab238ca14db"
+        },
+        "title": {
+          "from": "European standardisation",
+          "to": "Standardisation Regulation"
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "06/10/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)0780",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0780/COM_COM(2026)0780_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0780"
+              ],
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "06/10/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)0780",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0780/COM_COM(2026)0780_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0780"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1918504"
+              ]
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)0780",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0780/COM_COM(2026)0780_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0780"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SEC(2026)0780",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=SECfinal&an_doc=2026&nu_doc=0780"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)0785",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:0785:FIN:EN:PDF"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)0786",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:0786:FIN:EN:PDF"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)0787",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:0787:FIN:EN:PDF"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)0780",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0780/COM_COM(2026)0780_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0780"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1918504"
+                  ]
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SEC(2026)0780",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=SECfinal&an_doc=2026&nu_doc=0780"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)0785",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:0785:FIN:EN:PDF"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)0786",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:0786:FIN:EN:PDF"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)0787",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:0787:FIN:EN:PDF"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2026/0302(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "9fd19adcf7ec8d9eb5934b4b073dcb76",
+          "to": "2b98beeeb322b15f3ac0c7c424c212ad"
+        },
+        "key_players": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Committee responsible": "Pending final decision on the referral"
+                }
+              ]
+            },
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Committee responsible": "Pending final decision on the referral"
+                }
+              ]
+            },
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Commission DG": "Maritime Affairs and Fisheries",
+                  "Commission DG_links": [
+                    "https://commission.europa.eu/about/departments-and-executive-agencies/maritime-affairs-and-fisheries_en"
+                  ],
+                  "Commissioner": "KADIS Costas"
+                }
+              ]
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            }
+          ]
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "02/10/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)0531",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0531/COM_COM(2026)0531_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0531"
+              ],
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "02/10/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)0531",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0531/COM_COM(2026)0531_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0531"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1918028"
+              ]
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)0531",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0531/COM_COM(2026)0531_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0531"
+                  ],
+                  "Date": "02/10/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)0531",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0531/COM_COM(2026)0531_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0531"
+                  ],
+                  "Date": "02/10/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1918028"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2026/0308(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "c9c3dfae098733341b4831fffd1d4a5e",
+          "to": "1cd227ed92362e4f036d0bf408feb7f6"
+        },
+        "subjects": {
+          "from": [
+            "4.30 Civil protection",
+            "6.50 Emergency, food, humanitarian aid, aid to refugees, Emergency Aid Reserve",
+            "7.30 Police, judicial and customs cooperation in general",
+            "8.50 EU law"
+          ],
+          "to": [
+            "4.30 Civil protection"
+          ]
+        },
+        "key_players": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Committee responsible": "Pending final decision on the referral"
+                }
+              ]
+            },
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            },
+            {
+              "institution": "European Committee of the Regions",
+              "rows": []
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Committee responsible": "Pending final decision on the referral"
+                }
+              ]
+            },
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Commission DG": "Migration and Home Affairs",
+                  "Commission DG_links": [
+                    "https://commission.europa.eu/about/departments-and-executive-agencies/migration-and-home-affairs_en"
+                  ],
+                  "Commissioner": "BRUNNER Magnus"
+                }
+              ]
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            },
+            {
+              "institution": "European Committee of the Regions",
+              "rows": []
+            }
+          ]
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "30/09/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)1020",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/1020/COM_COM(2026)1020_EN.pdf"
+              ],
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "30/09/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)1020",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/1020/COM_COM(2026)1020_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=1020"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1917851"
+              ]
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)1020",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/1020/COM_COM(2026)1020_EN.pdf"
+                  ],
+                  "Date": "30/09/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)1020",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/1020/COM_COM(2026)1020_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=1020"
+                  ],
+                  "Date": "30/09/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1917851"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2026/0301(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "19c76c23c4f5ad9d1e356289cae84d34",
+          "to": "db480a814eb1105b11af3569ed480c52"
+        },
+        "key_players": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Committee responsible": "Pending final decision on the referral"
+                }
+              ]
+            },
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            },
+            {
+              "institution": "European Committee of the Regions",
+              "rows": []
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Committee responsible": "Pending final decision on the referral"
+                }
+              ]
+            },
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Commission DG": "Migration and Home Affairs",
+                  "Commission DG_links": [
+                    "https://commission.europa.eu/about/departments-and-executive-agencies/migration-and-home-affairs_en"
+                  ],
+                  "Commissioner": "BRUNNER Magnus"
+                }
+              ]
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            },
+            {
+              "institution": "European Committee of the Regions",
+              "rows": []
+            }
+          ]
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "30/09/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)1010",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/1010/COM_COM(2026)1010_EN.pdf"
+              ],
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "30/09/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)1010",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/1010/COM_COM(2026)1010_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=1010"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1917819"
+              ]
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)1010",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/1010/COM_COM(2026)1010_EN.pdf"
+                  ],
+                  "Date": "30/09/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SEC(2026)1010",
+                  "Date": "01/10/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)1010",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:1010:FIN:EN:PDF"
+                  ],
+                  "Date": "01/10/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)1011",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:1011:FIN:EN:PDF"
+                  ],
+                  "Date": "01/10/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)1010",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/1010/COM_COM(2026)1010_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=1010"
+                  ],
+                  "Date": "30/09/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1917819"
+                  ]
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SEC(2026)1010",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=SECfinal&an_doc=2026&nu_doc=1010"
+                  ],
+                  "Date": "01/10/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)1010",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:1010:FIN:EN:PDF"
+                  ],
+                  "Date": "01/10/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)1011",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:1011:FIN:EN:PDF"
+                  ],
+                  "Date": "01/10/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2026/0294(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "f2458aede352a5b6710190417aaae532",
+          "to": "4b01c4b15f8a79df3637415af29aff3c"
+        },
+        "key_players": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Committee responsible": "Pending final decision on the referral"
+                }
+              ]
+            },
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Committee responsible": "Pending final decision on the referral"
+                }
+              ]
+            },
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Commission DG": "Internal Market, Industry, Entrepreneurship and SMEs",
+                  "Commission DG_links": [
+                    "https://commission.europa.eu/about/departments-and-executive-agencies/internal-market-industry-entrepreneurship-and-smes_en"
+                  ],
+                  "Commissioner": "S\u00c9JOURN\u00c9 St\u00e9phane"
+                }
+              ]
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            }
+          ]
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "01/10/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)0523",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0523/COM_COM(2026)0523_EN.pdf"
+              ],
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "01/10/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)0523",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0523/COM_COM(2026)0523_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0523"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1917837"
+              ]
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)0523",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0523/COM_COM(2026)0523_EN.pdf"
+                  ],
+                  "Date": "01/10/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)0288",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:0288:FIN:EN:PDF"
+                  ],
+                  "Date": "01/10/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)0523",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0523/COM_COM(2026)0523_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0523"
+                  ],
+                  "Date": "01/10/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1917837"
+                  ]
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)0288",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:0288:FIN:EN:PDF"
+                  ],
+                  "Date": "01/10/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2026/0290(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "a5c52ed231ebdcf509012932354d97ca",
+          "to": "cdb8bd9d1b96243d542f4fb45ccfa37d"
+        },
+        "key_players": {
+          "from": [
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Committee responsible": "PECH Fisheries",
+                  "Committee responsible_links": [
+                    "http://www.europarl.europa.eu/committees/EN/pech/home.html"
+                  ],
+                  "Rapporteur": "",
+                  "Appointed": ""
+                }
+              ]
+            },
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Commission DG": "Maritime Affairs and Fisheries",
+                  "Commission DG_links": [
+                    "https://commission.europa.eu/about/departments-and-executive-agencies/maritime-affairs-and-fisheries_en"
+                  ],
+                  "Commissioner": "KADIS Costas"
+                }
+              ]
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            }
+          ]
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "28/09/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)0507",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0507/COM_COM(2026)0507_EN.pdf"
+              ],
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "28/09/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)0507",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0507/COM_COM(2026)0507_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0507"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1917006"
+              ]
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)0507",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0507/COM_COM(2026)0507_EN.pdf"
+                  ],
+                  "Date": "28/09/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)0507",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0507/COM_COM(2026)0507_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0507"
+                  ],
+                  "Date": "28/09/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1917006"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2026/0289(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "29ffaee0d6e33f0ccc9358aeb76bdd84",
+          "to": "53e3183e22433f45dba99745511db846"
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "21/09/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)0498",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0498/COM_COM(2026)0498_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0498"
+              ],
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "21/09/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)0498",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0498/COM_COM(2026)0498_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0498"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1916358"
+              ]
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)0498",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0498/COM_COM(2026)0498_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0498"
+                  ],
+                  "Date": "21/09/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)0282",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:0282:FIN:EN:PDF"
+                  ],
+                  "Date": "21/09/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)0498",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0498/COM_COM(2026)0498_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0498"
+                  ],
+                  "Date": "21/09/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1916358"
+                  ]
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2026)0282",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2026:0282:FIN:EN:PDF"
+                  ],
+                  "Date": "21/09/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2026/0078(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "df906f18caf0878525c256690e88582f",
+          "to": "c295d517cd33018aa99f6c643fa1a867"
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "25/03/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)0135",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0135/COM_COM(2026)0135_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0135"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1893718"
+              ]
+            },
+            {
+              "Date": "27/04/2026",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "25/06/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "25/06/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "29/06/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0188/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0188_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1907114"
+              ]
+            },
+            {
+              "Date": "06/07/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "08/07/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "02/09/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "PE791.888 PE791.889",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/itre/lpag/2026/07-22/CJ55_LA(2026)791888_EN.pdf",
+                "https://www.europarl.europa.eu/RegData/commissions/itre/inag/2026/07-22/CJ55_AG(2026)791889_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0320/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0320_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-06-VOT_EN.html?item=2"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "12/10/2026",
+              "Event": "Act adopted by Council after Parliament's 1st reading",
+              "Reference": "",
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "25/03/2026",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2026)0135",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0135/COM_COM(2026)0135_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0135"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1893718"
+              ]
+            },
+            {
+              "Date": "27/04/2026",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "25/06/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "25/06/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "29/06/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0188/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0188_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1907114"
+              ]
+            },
+            {
+              "Date": "06/07/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "08/07/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "02/09/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "PE791.888 PE791.889",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/itre/lpag/2026/07-22/CJ55_LA(2026)791888_EN.pdf",
+                "https://www.europarl.europa.eu/RegData/commissions/itre/inag/2026/07-22/CJ55_AG(2026)791889_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0320/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0320_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1918662"
+              ]
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-06-VOT_EN.html?item=2"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "12/10/2026",
+              "Event": "Act adopted by Council after Parliament's 1st reading",
+              "Reference": "",
+              "Summary": ""
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE788.873",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/CJ55-AM-788873_EN.html"
+                  ],
+                  "Date": "13/05/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0188/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0188_EN.html"
+                  ],
+                  "Date": "29/06/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1907114"
+                  ]
+                },
+                {
+                  "Document type": "Committee letter confirming interinstitutional agreement",
+                  "Committee": "",
+                  "Reference": "PE791.888",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/itre/lpag/2026/07-22/CJ55_LA(2026)791888_EN.pdf"
+                  ],
+                  "Date": "22/07/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Text agreed during interinstitutional negotiations",
+                  "Committee": "",
+                  "Reference": "PE791.889",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/itre/inag/2026/07-22/CJ55_AG(2026)791889_EN.pdf"
+                  ],
+                  "Date": "22/07/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0320/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0320_EN.html"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)0135",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0135/COM_COM(2026)0135_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0135"
+                  ],
+                  "Date": "25/03/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1893718"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "CZ_SENATE",
+                  "Reference": "COM(2026)0135",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2026)0135"
+                  ],
+                  "Date": "28/05/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "PT_PARLIAMENT",
+                  "Reference": "COM(2026)0135",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2026)0135"
+                  ],
+                  "Date": "19/06/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "RO_SENATE",
+                  "Reference": "COM(2026)0135",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2026)0135"
+                  ],
+                  "Date": "01/07/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Other institutions and bodies",
+              "rows": [
+                {
+                  "Institution/body": "EESC",
+                  "Document type": "Economic and Social Committee: opinion, report",
+                  "Reference": "CES1126/2026",
+                  "Reference_links": [
+                    "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:1126)(documentyear:2026)(documentlanguage:EN)"
+                  ],
+                  "Date": "29/04/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE788.873",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/CJ55-AM-788873_EN.html"
+                  ],
+                  "Date": "13/05/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0188/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0188_EN.html"
+                  ],
+                  "Date": "29/06/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1907114"
+                  ]
+                },
+                {
+                  "Document type": "Committee letter confirming interinstitutional agreement",
+                  "Committee": "",
+                  "Reference": "PE791.888",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/itre/lpag/2026/07-22/CJ55_LA(2026)791888_EN.pdf"
+                  ],
+                  "Date": "22/07/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Text agreed during interinstitutional negotiations",
+                  "Committee": "",
+                  "Reference": "PE791.889",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/itre/inag/2026/07-22/CJ55_AG(2026)791889_EN.pdf"
+                  ],
+                  "Date": "22/07/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0320/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0320_EN.html"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1918662"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "Council of the EU",
+              "rows": [
+                {
+                  "Document type": "Draft final act",
+                  "Reference": "00060/2026/LEX",
+                  "Reference_links": [
+                    "https://www.consilium.europa.eu/EN/documents/public-register/public-register-search/?DocumentNumber=60%2F26&DocumentTypes=LEGISLATIVE+ACTS+AND+OTHER+INSTRUMENTS"
+                  ],
+                  "Date": "16/10/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2026)0135",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0135/COM_COM(2026)0135_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0135"
+                  ],
+                  "Date": "25/03/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1893718"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "CZ_SENATE",
+                  "Reference": "COM(2026)0135",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2026)0135"
+                  ],
+                  "Date": "28/05/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "PT_PARLIAMENT",
+                  "Reference": "COM(2026)0135",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2026)0135"
+                  ],
+                  "Date": "19/06/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "RO_SENATE",
+                  "Reference": "COM(2026)0135",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2026)0135"
+                  ],
+                  "Date": "01/07/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Other institutions and bodies",
+              "rows": [
+                {
+                  "Institution/body": "EESC",
+                  "Document type": "Economic and Social Committee: opinion, report",
+                  "Reference": "CES1126/2026",
+                  "Reference_links": [
+                    "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:1126)(documentyear:2026)(documentlanguage:EN)"
+                  ],
+                  "Date": "29/04/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2025/0397(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "21fcede537f414827e247d5b5d80aee4",
+          "to": "ccbf9a565b1bf6d6fcfc1c2ae5a72fc9"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2025/0397(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Amending Regulation 2023/1542 2020/0353(COD) Amending Regulation 2024/1244 2022/0105(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2020/0353(COD)",
+                "/oeil/en/procedure-file?reference=2022/0105(COD)"
+              ]
+            },
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 294-p7-ac",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "ENVI/10/04778"
+          },
+          "to": {
+            "Procedure reference": "2025/0397(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Amending Regulation 2023/1542 2020/0353(COD) Amending Regulation 2024/1244 2022/0105(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2020/0353(COD)",
+                "/oeil/en/procedure-file?reference=2022/0105(COD)"
+              ]
+            },
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 192-p1",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Awaiting committee decision",
+            "Committee dossier": "ENVI/10/04778"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2025/0393(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "f79e8c35b8e2b13ac02515afe39f0561",
+          "to": "c0e256cd50177cb59b9a2b89c49ec4e7"
+        },
+        "key_players": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Committee responsible": "ENVI Environment, Climate and Food Safety",
+                  "Committee responsible_links": [
+                    "http://www.europarl.europa.eu/committees/EN/envi/home.html"
+                  ],
+                  "Rapporteur": "WIESNER Emma (Renew)",
+                  "Rapporteur_links": [
+                    "https://www.europarl.europa.eu/meps/en/214839"
+                  ],
+                  "Appointed": "16/03/2026"
+                },
+                {
+                  "Committee responsible": "",
+                  "Rapporteur": "Shadow rapporteur KANEV Radan (EPP) CORRADO Annalisa (S&D) ANDROU\u00cbT Mathilde (PfE) TIMGREN Beatrice (ECR) PAULUS Jutta (Greens/EFA) PALMISANO Valentina (The Left) ARNDT Anja (ESN)",
+                  "Rapporteur_links": [
+                    "https://www.europarl.europa.eu/meps/en/197839",
+                    "https://www.europarl.europa.eu/meps/en/257169",
+                    "https://www.europarl.europa.eu/meps/en/197691",
+                    "https://www.europarl.europa.eu/meps/en/257090",
+                    "https://www.europarl.europa.eu/meps/en/197466",
+                    "https://www.europarl.europa.eu/meps/en/257135",
+                    "https://www.europarl.europa.eu/meps/en/256951"
+                  ],
+                  "Appointed": ""
+                }
+              ]
+            },
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Commission DG": "Environment",
+                  "Commission DG_links": [
+                    "https://commission.europa.eu/about/departments-and-executive-agencies/environment_en"
+                  ],
+                  "Commissioner": "ROSWALL Jessika"
+                }
+              ]
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            },
+            {
+              "institution": "European Committee of the Regions",
+              "rows": []
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Committee responsible": "ENVI Environment, Climate and Food Safety",
+                  "Committee responsible_links": [
+                    "http://www.europarl.europa.eu/committees/EN/envi/home.html"
+                  ],
+                  "Rapporteur": "YTTERELL Emma (Renew)",
+                  "Rapporteur_links": [
+                    "https://www.europarl.europa.eu/meps/en/214839"
+                  ],
+                  "Appointed": "16/03/2026"
+                },
+                {
+                  "Committee responsible": "",
+                  "Rapporteur": "Shadow rapporteur KANEV Radan (EPP) CORRADO Annalisa (S&D) ANDROU\u00cbT Mathilde (PfE) TIMGREN Beatrice (ECR) PAULUS Jutta (Greens/EFA) PALMISANO Valentina (The Left) ARNDT Anja (ESN)",
+                  "Rapporteur_links": [
+                    "https://www.europarl.europa.eu/meps/en/197839",
+                    "https://www.europarl.europa.eu/meps/en/257169",
+                    "https://www.europarl.europa.eu/meps/en/197691",
+                    "https://www.europarl.europa.eu/meps/en/257090",
+                    "https://www.europarl.europa.eu/meps/en/197466",
+                    "https://www.europarl.europa.eu/meps/en/257135",
+                    "https://www.europarl.europa.eu/meps/en/256951"
+                  ],
+                  "Appointed": ""
+                }
+              ]
+            },
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Commission DG": "Environment",
+                  "Commission DG_links": [
+                    "https://commission.europa.eu/about/departments-and-executive-agencies/environment_en"
+                  ],
+                  "Commissioner": "ROSWALL Jessika"
+                }
+              ]
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            },
+            {
+              "institution": "European Committee of the Regions",
+              "rows": []
+            }
+          ]
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "10/12/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0985",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0985/COM_COM(2025)0985_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0985"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1878164"
+              ]
+            },
+            {
+              "Date": "09/02/2026",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "10/09/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/09/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0233/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0233_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0325/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0325_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-06-VOT_EN.html?item=7"
+              ],
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "10/12/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0985",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0985/COM_COM(2025)0985_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0985"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1878164"
+              ]
+            },
+            {
+              "Date": "09/02/2026",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "10/09/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/09/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0233/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0233_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0325/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0325_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1918700"
+              ]
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-06-VOT_EN.html?item=7"
+              ],
+              "Summary": ""
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Committee draft report",
+                  "Committee": "",
+                  "Reference": "PE787.833",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ENVI-PR-787833_EN.html"
+                  ],
+                  "Date": "05/05/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE789.937",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ENVI-AM-789937_EN.html"
+                  ],
+                  "Date": "11/06/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0233/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0233_EN.html"
+                  ],
+                  "Date": "15/09/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0325/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0325_EN.html"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0985",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0985/COM_COM(2025)0985_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0985"
+                  ],
+                  "Date": "10/12/2025",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1878164"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Reasoned opinion",
+                  "Parliament/Chamber": "FR_SENATE",
+                  "Reference": "PE786.858",
+                  "Date": "08/04/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Reasoned opinion",
+                  "Parliament/Chamber": "IT_CHAMBER",
+                  "Reference": "PE786.913",
+                  "Date": "08/04/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Other institutions and bodies",
+              "rows": [
+                {
+                  "Institution/body": "EESC",
+                  "Document type": "Economic and Social Committee: opinion, report",
+                  "Reference": "CES4350/2025",
+                  "Reference_links": [
+                    "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:4350)(documentyear:2025)(documentlanguage:EN)"
+                  ],
+                  "Date": "18/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Institution/body": "CofR",
+                  "Document type": "Committee of the Regions: opinion",
+                  "Reference": "CDR0953/2026",
+                  "Reference_links": [
+                    "https://dmsearch.cor.europa.eu/search/public?k=(documenttype:AC)(documentnumber:0953)(documentyear:2026)(documentlanguage:EN)"
+                  ],
+                  "Date": "07/05/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Committee draft report",
+                  "Committee": "",
+                  "Reference": "PE787.833",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ENVI-PR-787833_EN.html"
+                  ],
+                  "Date": "05/05/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE789.937",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ENVI-AM-789937_EN.html"
+                  ],
+                  "Date": "11/06/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0233/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0233_EN.html"
+                  ],
+                  "Date": "15/09/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0325/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0325_EN.html"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1918700"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0985",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0985/COM_COM(2025)0985_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0985"
+                  ],
+                  "Date": "10/12/2025",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1878164"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Reasoned opinion",
+                  "Parliament/Chamber": "FR_SENATE",
+                  "Reference": "PE786.858",
+                  "Date": "08/04/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Reasoned opinion",
+                  "Parliament/Chamber": "IT_CHAMBER",
+                  "Reference": "PE786.913",
+                  "Date": "08/04/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Other institutions and bodies",
+              "rows": [
+                {
+                  "Institution/body": "EESC",
+                  "Document type": "Economic and Social Committee: opinion, report",
+                  "Reference": "CES4350/2025",
+                  "Reference_links": [
+                    "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:4350)(documentyear:2025)(documentlanguage:EN)"
+                  ],
+                  "Date": "18/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Institution/body": "CofR",
+                  "Document type": "Committee of the Regions: opinion",
+                  "Reference": "CDR0953/2026",
+                  "Reference_links": [
+                    "https://dmsearch.cor.europa.eu/search/public?k=(documenttype:AC)(documentnumber:0953)(documentyear:2026)(documentlanguage:EN)"
+                  ],
+                  "Date": "07/05/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2025/0358(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "6aff34493bf2b3841eca1956738f5a7f",
+          "to": "d088c9c91ec4e844afcd79ee066be095"
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "19/11/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0838",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0838/COM_COM(2025)0838_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0838"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1866804"
+              ]
+            },
+            {
+              "Date": "19/01/2026",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "10/09/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "10/09/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "23/09/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0240/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0240_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "05/10/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "07/10/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "19/11/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0838",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0838/COM_COM(2025)0838_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0838"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1866804"
+              ]
+            },
+            {
+              "Date": "19/01/2026",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "10/09/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "10/09/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "23/09/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0240/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0240_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1916665"
+              ]
+            },
+            {
+              "Date": "05/10/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "07/10/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Committee draft report",
+                  "Committee": "",
+                  "Reference": "PE785.244",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ITRE-PR-785244_EN.html"
+                  ],
+                  "Date": "01/04/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE787.816",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ITRE-AM-787816_EN.html"
+                  ],
+                  "Date": "23/04/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE787.818",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ITRE-AM-787818_EN.html"
+                  ],
+                  "Date": "23/04/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee opinion",
+                  "Committee": "IMCO",
+                  "Reference": "PE786.736",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/IMCO-AD-786736_EN.html"
+                  ],
+                  "Date": "04/06/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee opinion",
+                  "Committee": "JURI",
+                  "Reference": "PE786.718",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/JURI-AD-786718_EN.html"
+                  ],
+                  "Date": "08/06/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0240/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0240_EN.html"
+                  ],
+                  "Date": "23/09/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0838",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0838/COM_COM(2025)0838_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0838"
+                  ],
+                  "Date": "19/11/2025",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1866804"
+                  ]
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2025)0837",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2025:0837:FIN:EN:PDF"
+                  ],
+                  "Date": "19/11/2025",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "IT_CHAMBER",
+                  "Reference": "COM(2025)0838",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0838"
+                  ],
+                  "Date": "03/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "PT_PARLIAMENT",
+                  "Reference": "COM(2025)0838",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0838"
+                  ],
+                  "Date": "06/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "NL_SENATE",
+                  "Reference": "COM(2025)0838",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0838"
+                  ],
+                  "Date": "10/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "CZ_CHAMBER",
+                  "Reference": "COM(2025)0838",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0838"
+                  ],
+                  "Date": "23/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "RO_SENATE",
+                  "Reference": "COM(2025)0838",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0838"
+                  ],
+                  "Date": "31/03/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Other institutions and bodies",
+              "rows": [
+                {
+                  "Institution/body": "EESC",
+                  "Document type": "Economic and Social Committee: opinion, report",
+                  "Reference": "CES3899/2025",
+                  "Reference_links": [
+                    "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:3899)(documentyear:2025)(documentlanguage:EN)"
+                  ],
+                  "Date": "18/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Institution/body": "CofR",
+                  "Document type": "Committee of the Regions: opinion",
+                  "Reference": "CDR4359/2025",
+                  "Reference_links": [
+                    "https://dmsearch.cor.europa.eu/search/public?k=(documenttype:AC)(documentnumber:4359)(documentyear:2025)(documentlanguage:EN)"
+                  ],
+                  "Date": "01/07/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Committee draft report",
+                  "Committee": "",
+                  "Reference": "PE785.244",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ITRE-PR-785244_EN.html"
+                  ],
+                  "Date": "01/04/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE787.816",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ITRE-AM-787816_EN.html"
+                  ],
+                  "Date": "23/04/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE787.818",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ITRE-AM-787818_EN.html"
+                  ],
+                  "Date": "23/04/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee opinion",
+                  "Committee": "IMCO",
+                  "Reference": "PE786.736",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/IMCO-AD-786736_EN.html"
+                  ],
+                  "Date": "04/06/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee opinion",
+                  "Committee": "JURI",
+                  "Reference": "PE786.718",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/JURI-AD-786718_EN.html"
+                  ],
+                  "Date": "08/06/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0240/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0240_EN.html"
+                  ],
+                  "Date": "23/09/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1916665"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0838",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0838/COM_COM(2025)0838_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0838"
+                  ],
+                  "Date": "19/11/2025",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1866804"
+                  ]
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2025)0837",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2025:0837:FIN:EN:PDF"
+                  ],
+                  "Date": "19/11/2025",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "IT_CHAMBER",
+                  "Reference": "COM(2025)0838",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0838"
+                  ],
+                  "Date": "03/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "PT_PARLIAMENT",
+                  "Reference": "COM(2025)0838",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0838"
+                  ],
+                  "Date": "06/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "NL_SENATE",
+                  "Reference": "COM(2025)0838",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0838"
+                  ],
+                  "Date": "10/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "CZ_CHAMBER",
+                  "Reference": "COM(2025)0838",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0838"
+                  ],
+                  "Date": "23/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "RO_SENATE",
+                  "Reference": "COM(2025)0838",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0838"
+                  ],
+                  "Date": "31/03/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Other institutions and bodies",
+              "rows": [
+                {
+                  "Institution/body": "EESC",
+                  "Document type": "Economic and Social Committee: opinion, report",
+                  "Reference": "CES3899/2025",
+                  "Reference_links": [
+                    "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:3899)(documentyear:2025)(documentlanguage:EN)"
+                  ],
+                  "Date": "18/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Institution/body": "CofR",
+                  "Document type": "Committee of the Regions: opinion",
+                  "Reference": "CDR4359/2025",
+                  "Reference_links": [
+                    "https://dmsearch.cor.europa.eu/search/public?k=(documenttype:AC)(documentnumber:4359)(documentyear:2025)(documentlanguage:EN)"
+                  ],
+                  "Date": "01/07/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2025/0349(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "4185fa3daf351123700b341c70019fb9",
+          "to": "2d34b5824fdaa6356a8b28f6b6d00d23"
+        },
+        "key_players": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Joint committee responsible": "ENVI Environment, Climate and Food Safety",
+                  "Joint committee responsible_links": [
+                    "http://www.europarl.europa.eu/committees/EN/envi/home.html"
+                  ],
+                  "Rapporteur": "MARAN Pierfrancesco (S&D)",
+                  "Rapporteur_links": [
+                    "https://www.europarl.europa.eu/meps/en/257727"
+                  ],
+                  "Appointed": "11/02/2026"
+                },
+                {
+                  "Joint committee responsible": "PECH Fisheries",
+                  "Joint committee responsible_links": [
+                    "http://www.europarl.europa.eu/committees/EN/pech/home.html"
+                  ],
+                  "Rapporteur": "CAMARA M\u00e9lissa (Greens/EFA)",
+                  "Rapporteur_links": [
+                    "https://www.europarl.europa.eu/meps/en/256915"
+                  ],
+                  "Appointed": "11/02/2026"
+                },
+                {
+                  "Joint committee responsible": "",
+                  "Rapporteur": "Shadow rapporteur KEMP Martine (EPP) LE CALLENNEC Isabelle (EPP) FRANQUEIRA RODRIGUES Andr\u00e9 (S&D) WERBROUCK S\u00e9verine (PfE) DELOGE Val\u00e9rie (PfE) JUNCO GARC\u00cdA Nora (ECR) CANFIN Pascal (Renew) YON-COURTIN St\u00e9phanie (Renew) TOUSSAINT Marie (Greens/EFA) EVERDING Sebastian (The Left)",
+                  "Rapporteur_links": [
+                    "https://www.europarl.europa.eu/meps/en/249603",
+                    "https://www.europarl.europa.eu/meps/en/256920",
+                    "https://www.europarl.europa.eu/meps/en/257066",
+                    "https://www.europarl.europa.eu/meps/en/261796",
+                    "https://www.europarl.europa.eu/meps/en/256886",
+                    "https://www.europarl.europa.eu/meps/en/257022",
+                    "https://www.europarl.europa.eu/meps/en/96711",
+                    "https://www.europarl.europa.eu/meps/en/197581",
+                    "https://www.europarl.europa.eu/meps/en/97236",
+                    "https://www.europarl.europa.eu/meps/en/256961"
+                  ],
+                  "Appointed": ""
+                }
+              ]
+            },
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Commission DG": "Maritime Affairs and Fisheries",
+                  "Commission DG_links": [
+                    "https://commission.europa.eu/about/departments-and-executive-agencies/maritime-affairs-and-fisheries_en"
+                  ],
+                  "Commissioner": "KADIS Costas"
+                }
+              ]
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Joint committee responsible": "ENVI Environment, Climate and Food Safety",
+                  "Joint committee responsible_links": [
+                    "http://www.europarl.europa.eu/committees/EN/envi/home.html"
+                  ],
+                  "Rapporteur": "MARAN Pierfrancesco (S&D)",
+                  "Rapporteur_links": [
+                    "https://www.europarl.europa.eu/meps/en/257727"
+                  ],
+                  "Appointed": "11/02/2026"
+                },
+                {
+                  "Joint committee responsible": "PECH Fisheries",
+                  "Joint committee responsible_links": [
+                    "http://www.europarl.europa.eu/committees/EN/pech/home.html"
+                  ],
+                  "Rapporteur": "CAMARA M\u00e9lissa (Greens/EFA)",
+                  "Rapporteur_links": [
+                    "https://www.europarl.europa.eu/meps/en/256915"
+                  ],
+                  "Appointed": "11/02/2026"
+                },
+                {
+                  "Joint committee responsible": "",
+                  "Rapporteur": "Shadow rapporteur KEMP Martine (EPP) LE CALLENNEC Isabelle (EPP) FRANQUEIRA RODRIGUES Andr\u00e9 (S&D) DELOGE Val\u00e9rie (PfE) WERBROUCK S\u00e9verine (PfE) JUNCO GARC\u00cdA Nora (ECR) YON-COURTIN St\u00e9phanie (Renew) CANFIN Pascal (Renew) TOUSSAINT Marie (Greens/EFA) EVERDING Sebastian (The Left)",
+                  "Rapporteur_links": [
+                    "https://www.europarl.europa.eu/meps/en/249603",
+                    "https://www.europarl.europa.eu/meps/en/256920",
+                    "https://www.europarl.europa.eu/meps/en/257066",
+                    "https://www.europarl.europa.eu/meps/en/256886",
+                    "https://www.europarl.europa.eu/meps/en/261796",
+                    "https://www.europarl.europa.eu/meps/en/257022",
+                    "https://www.europarl.europa.eu/meps/en/197581",
+                    "https://www.europarl.europa.eu/meps/en/96711",
+                    "https://www.europarl.europa.eu/meps/en/97236",
+                    "https://www.europarl.europa.eu/meps/en/256961"
+                  ],
+                  "Appointed": ""
+                }
+              ]
+            },
+            {
+              "institution": "Council of the European Union",
+              "rows": []
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Commission DG": "Maritime Affairs and Fisheries",
+                  "Commission DG_links": [
+                    "https://commission.europa.eu/about/departments-and-executive-agencies/maritime-affairs-and-fisheries_en"
+                  ],
+                  "Commissioner": "KADIS Costas"
+                }
+              ]
+            },
+            {
+              "institution": "European Economic and Social Committee",
+              "rows": []
+            }
+          ]
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "17/11/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0689",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0689/COM_COM(2025)0689_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0689"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "15/12/2025",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/04/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/04/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "16/04/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0095/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0095_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1897913"
+              ]
+            },
+            {
+              "Date": "27/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "29/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "10/09/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "PE791.046 GEDA/A/(2026)004659",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/envi/inag/2026/07-15/CJ59_AG(2026)791046_EN.pdf",
+                "https://www.europarl.europa.eu/RegData/commissions/envi/lcag/2026/07-15/CJ59_LA(2026)004659_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "07/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0329/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0329_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "07/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-07-VOT_EN.html?item=2"
+              ],
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "17/11/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0689",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0689/COM_COM(2025)0689_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0689"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "15/12/2025",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/04/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/04/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "16/04/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0095/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0095_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1897913"
+              ]
+            },
+            {
+              "Date": "27/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "29/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "10/09/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "PE791.046 GEDA/A/(2026)004659",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/envi/inag/2026/07-15/CJ59_AG(2026)791046_EN.pdf",
+                "https://www.europarl.europa.eu/RegData/commissions/envi/lcag/2026/07-15/CJ59_LA(2026)004659_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "07/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0329/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0329_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1918816"
+              ]
+            },
+            {
+              "Date": "07/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-07-VOT_EN.html?item=2"
+              ],
+              "Summary": ""
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE785.282",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/CJ59-AM-785282_EN.html"
+                  ],
+                  "Date": "05/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0095/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0095_EN.html"
+                  ],
+                  "Date": "16/04/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1897913"
+                  ]
+                },
+                {
+                  "Document type": "Text agreed during interinstitutional negotiations",
+                  "Committee": "",
+                  "Reference": "PE791.046",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/envi/inag/2026/07-15/CJ59_AG(2026)791046_EN.pdf"
+                  ],
+                  "Date": "15/07/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0329/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0329_EN.html"
+                  ],
+                  "Date": "07/10/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Council of the EU",
+              "rows": [
+                {
+                  "Document type": "Coreper letter confirming interinstitutional agreement",
+                  "Reference": "GEDA/A/(2026)004659",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/envi/lcag/2026/07-15/CJ59_LA(2026)004659_EN.pdf"
+                  ],
+                  "Date": "15/07/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0689",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0689/COM_COM(2025)0689_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0689"
+                  ],
+                  "Date": "17/11/2025",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Other institutions and bodies",
+              "rows": [
+                {
+                  "Institution/body": "EESC",
+                  "Document type": "Economic and Social Committee: opinion, report",
+                  "Reference": "CES3864/2025",
+                  "Reference_links": [
+                    "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:3864)(documentyear:2025)(documentlanguage:EN)"
+                  ],
+                  "Date": "21/01/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE785.282",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/CJ59-AM-785282_EN.html"
+                  ],
+                  "Date": "05/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0095/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0095_EN.html"
+                  ],
+                  "Date": "16/04/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1897913"
+                  ]
+                },
+                {
+                  "Document type": "Text agreed during interinstitutional negotiations",
+                  "Committee": "",
+                  "Reference": "PE791.046",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/envi/inag/2026/07-15/CJ59_AG(2026)791046_EN.pdf"
+                  ],
+                  "Date": "15/07/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0329/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0329_EN.html"
+                  ],
+                  "Date": "07/10/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1918816"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "Council of the EU",
+              "rows": [
+                {
+                  "Document type": "Coreper letter confirming interinstitutional agreement",
+                  "Reference": "GEDA/A/(2026)004659",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/envi/lcag/2026/07-15/CJ59_LA(2026)004659_EN.pdf"
+                  ],
+                  "Date": "15/07/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0689",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0689/COM_COM(2025)0689_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0689"
+                  ],
+                  "Date": "17/11/2025",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Other institutions and bodies",
+              "rows": [
+                {
+                  "Institution/body": "EESC",
+                  "Document type": "Economic and Social Committee: opinion, report",
+                  "Reference": "CES3864/2025",
+                  "Reference_links": [
+                    "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:3864)(documentyear:2025)(documentlanguage:EN)"
+                  ],
+                  "Date": "21/01/2026",
+                  "Summary": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2025/0312(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "787d36fa64c418071ae18d5d9a711d65",
+          "to": "60f170e41e09b8b9ecedc99646caffb8"
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "02/10/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0593",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0593/COM_COM(2025)0593_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0593"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1848402"
+              ]
+            },
+            {
+              "Date": "23/10/2025",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "14/04/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "14/04/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "17/04/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0097/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0097_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1897952"
+              ]
+            },
+            {
+              "Date": "27/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "29/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/07/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "GEDA/A/(2026)004092",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/econ/lcag/2026/06-24/ECON_LA(2026)004092_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0323/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0323_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-06-VOT_EN.html?item=5"
+              ],
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "02/10/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0593",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0593/COM_COM(2025)0593_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0593"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1848402"
+              ]
+            },
+            {
+              "Date": "23/10/2025",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "14/04/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "14/04/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "17/04/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0097/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0097_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1897952"
+              ]
+            },
+            {
+              "Date": "27/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "29/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/07/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "GEDA/A/(2026)004092",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/econ/lcag/2026/06-24/ECON_LA(2026)004092_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0323/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0323_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1918697"
+              ]
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-06-VOT_EN.html?item=5"
+              ],
+              "Summary": ""
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Committee draft report",
+                  "Committee": "",
+                  "Reference": "PE784.226",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ECON-PR-784226_EN.html"
+                  ],
+                  "Date": "03/02/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE785.222",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ECON-AM-785222_EN.html"
+                  ],
+                  "Date": "03/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0097/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0097_EN.html"
+                  ],
+                  "Date": "17/04/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1897952"
+                  ]
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0323/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0323_EN.html"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Council of the EU",
+              "rows": [
+                {
+                  "Document type": "Coreper letter confirming interinstitutional agreement",
+                  "Reference": "GEDA/A/(2026)004092",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/econ/lcag/2026/06-24/ECON_LA(2026)004092_EN.pdf"
+                  ],
+                  "Date": "24/06/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0593",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0593/COM_COM(2025)0593_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0593"
+                  ],
+                  "Date": "02/10/2025",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1848402"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "ES_PARLIAMENT",
+                  "Reference": "COM(2025)0593",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0593"
+                  ],
+                  "Date": "28/11/2025",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Committee draft report",
+                  "Committee": "",
+                  "Reference": "PE784.226",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ECON-PR-784226_EN.html"
+                  ],
+                  "Date": "03/02/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE785.222",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ECON-AM-785222_EN.html"
+                  ],
+                  "Date": "03/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0097/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0097_EN.html"
+                  ],
+                  "Date": "17/04/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1897952"
+                  ]
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0323/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0323_EN.html"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1918697"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "Council of the EU",
+              "rows": [
+                {
+                  "Document type": "Coreper letter confirming interinstitutional agreement",
+                  "Reference": "GEDA/A/(2026)004092",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/econ/lcag/2026/06-24/ECON_LA(2026)004092_EN.pdf"
+                  ],
+                  "Date": "24/06/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0593",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0593/COM_COM(2025)0593_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0593"
+                  ],
+                  "Date": "02/10/2025",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1848402"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "ES_PARLIAMENT",
+                  "Reference": "COM(2025)0593",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0593"
+                  ],
+                  "Date": "28/11/2025",
+                  "Summary": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2025/0311(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "01bb1d9e987cb6563d9ec7c3a4763c8e",
+          "to": "8cfe9c6cf2c67b64caa61c138137eab8"
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "02/10/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0591",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0591/COM_COM(2025)0591_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0591"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1848361"
+              ]
+            },
+            {
+              "Date": "23/10/2025",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "14/04/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "14/04/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "17/04/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0099/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0099_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1898008"
+              ]
+            },
+            {
+              "Date": "27/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "29/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/07/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "GEDA/A/(2026)004091",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/econ/lcag/2026/06-24/ECON_LA(2026)004091_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0322/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0322_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-06-VOT_EN.html?item=4"
+              ],
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "02/10/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0591",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0591/COM_COM(2025)0591_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0591"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1848361"
+              ]
+            },
+            {
+              "Date": "23/10/2025",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "14/04/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "14/04/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "17/04/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0099/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0099_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1898008"
+              ]
+            },
+            {
+              "Date": "27/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "29/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/07/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "GEDA/A/(2026)004091",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/econ/lcag/2026/06-24/ECON_LA(2026)004091_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0322/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0322_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1918691"
+              ]
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-06-VOT_EN.html?item=4"
+              ],
+              "Summary": ""
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Committee draft report",
+                  "Committee": "",
+                  "Reference": "PE784.159",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ECON-PR-784159_EN.html"
+                  ],
+                  "Date": "03/02/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE785.223",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ECON-AM-785223_EN.html"
+                  ],
+                  "Date": "02/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0099/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0099_EN.html"
+                  ],
+                  "Date": "17/04/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1898008"
+                  ]
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0322/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0322_EN.html"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Council of the EU",
+              "rows": [
+                {
+                  "Document type": "Coreper letter confirming interinstitutional agreement",
+                  "Reference": "GEDA/A/(2026)004091",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/econ/lcag/2026/06-24/ECON_LA(2026)004091_EN.pdf"
+                  ],
+                  "Date": "24/06/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0591",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0591/COM_COM(2025)0591_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0591"
+                  ],
+                  "Date": "02/10/2025",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1848361"
+                  ]
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2025)0286",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2025:0286:FIN:EN:PDF"
+                  ],
+                  "Date": "02/10/2025",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "ES_PARLIAMENT",
+                  "Reference": "COM(2025)0591",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0591"
+                  ],
+                  "Date": "28/11/2025",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Other institutions and bodies",
+              "rows": [
+                {
+                  "Institution/body": "ECB",
+                  "Document type": "European Central Bank: opinion, guideline, report",
+                  "Reference": "CON/2025/0037 OJ OJ C 18.11.2025",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:52025AB0037:EN:NOT",
+                    "https://eur-lex.europa.eu/oj/daily-view/C-series/default.html?&ojDate=18112025"
+                  ],
+                  "Date": "18/11/2025",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Committee draft report",
+                  "Committee": "",
+                  "Reference": "PE784.159",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ECON-PR-784159_EN.html"
+                  ],
+                  "Date": "03/02/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE785.223",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/ECON-AM-785223_EN.html"
+                  ],
+                  "Date": "02/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0099/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0099_EN.html"
+                  ],
+                  "Date": "17/04/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1898008"
+                  ]
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0322/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0322_EN.html"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1918691"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "Council of the EU",
+              "rows": [
+                {
+                  "Document type": "Coreper letter confirming interinstitutional agreement",
+                  "Reference": "GEDA/A/(2026)004091",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/econ/lcag/2026/06-24/ECON_LA(2026)004091_EN.pdf"
+                  ],
+                  "Date": "24/06/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0591",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0591/COM_COM(2025)0591_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0591"
+                  ],
+                  "Date": "02/10/2025",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1848361"
+                  ]
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2025)0286",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2025:0286:FIN:EN:PDF"
+                  ],
+                  "Date": "02/10/2025",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "ES_PARLIAMENT",
+                  "Reference": "COM(2025)0591",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0591"
+                  ],
+                  "Date": "28/11/2025",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Other institutions and bodies",
+              "rows": [
+                {
+                  "Institution/body": "ECB",
+                  "Document type": "European Central Bank: opinion, guideline, report",
+                  "Reference": "CON/2025/0037 OJ OJ C 18.11.2025",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:52025AB0037:EN:NOT",
+                    "https://eur-lex.europa.eu/oj/daily-view/C-series/default.html?&ojDate=18112025"
+                  ],
+                  "Date": "18/11/2025",
+                  "Summary": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2025/0232(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "fef6960c5765b33cedd1a17032bab457",
+          "to": "1f86eb83310b4a68524c5d8dee93347b"
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "18/07/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0418",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0418/COM_COM(2025)0418_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0418"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1831591"
+              ]
+            },
+            {
+              "Date": "06/10/2025",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/04/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/04/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "17/04/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0100/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0100_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1898011"
+              ]
+            },
+            {
+              "Date": "27/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "29/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "02/09/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "GEDA/A/(2026)004807 PE791.897",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/empl/lcag/2026/07-22/EMPL_LA(2026)004807_EN.pdf",
+                "https://www.europarl.europa.eu/RegData/commissions/empl/inag/2026/07-22/EMPL_AG(2026)791897_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0321/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0321_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-06-VOT_EN.html?item=3"
+              ],
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "18/07/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0418",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0418/COM_COM(2025)0418_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0418"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1831591"
+              ]
+            },
+            {
+              "Date": "06/10/2025",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/04/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "15/04/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "17/04/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0100/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0100_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1898011"
+              ]
+            },
+            {
+              "Date": "27/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "29/04/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "02/09/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "GEDA/A/(2026)004807 PE791.897",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/empl/lcag/2026/07-22/EMPL_LA(2026)004807_EN.pdf",
+                "https://www.europarl.europa.eu/RegData/commissions/empl/inag/2026/07-22/EMPL_AG(2026)791897_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0321/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0321_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1918685"
+              ]
+            },
+            {
+              "Date": "06/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-06-VOT_EN.html?item=3"
+              ],
+              "Summary": ""
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Committee draft report",
+                  "Committee": "",
+                  "Reference": "PE781.362",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/EMPL-PR-781362_EN.html"
+                  ],
+                  "Date": "11/12/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE782.282",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/EMPL-AM-782282_EN.html"
+                  ],
+                  "Date": "30/01/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0100/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0100_EN.html"
+                  ],
+                  "Date": "17/04/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1898011"
+                  ]
+                },
+                {
+                  "Document type": "Text agreed during interinstitutional negotiations",
+                  "Committee": "",
+                  "Reference": "PE791.897",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/empl/inag/2026/07-22/EMPL_AG(2026)791897_EN.pdf"
+                  ],
+                  "Date": "22/07/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0321/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0321_EN.html"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Council of the EU",
+              "rows": [
+                {
+                  "Document type": "Coreper letter confirming interinstitutional agreement",
+                  "Reference": "GEDA/A/(2026)004807",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/empl/lcag/2026/07-22/EMPL_LA(2026)004807_EN.pdf"
+                  ],
+                  "Date": "22/07/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0418",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0418/COM_COM(2025)0418_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0418"
+                  ],
+                  "Date": "18/07/2025",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1831591"
+                  ]
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SEC(2025)0217",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=SECfinal&an_doc=2025&nu_doc=0217"
+                  ],
+                  "Date": "18/07/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2025)0191",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2025:0191:FIN:EN:PDF"
+                  ],
+                  "Date": "18/07/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2025)0192",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2025:0192:FIN:EN:PDF"
+                  ],
+                  "Date": "18/07/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2025)0193",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2025:0193:FIN:EN:PDF"
+                  ],
+                  "Date": "18/07/2025",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "IT_CHAMBER",
+                  "Reference": "COM(2025)0418",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0418"
+                  ],
+                  "Date": "15/10/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "ES_PARLIAMENT",
+                  "Reference": "COM(2025)0418",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0418"
+                  ],
+                  "Date": "28/10/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "IT_SENATE",
+                  "Reference": "COM(2025)0418",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0418"
+                  ],
+                  "Date": "10/11/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "IT_SENATE",
+                  "Reference": "COM(2025)0418",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0418"
+                  ],
+                  "Date": "10/11/2025",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Committee draft report",
+                  "Committee": "",
+                  "Reference": "PE781.362",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/EMPL-PR-781362_EN.html"
+                  ],
+                  "Date": "11/12/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE782.282",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/EMPL-AM-782282_EN.html"
+                  ],
+                  "Date": "30/01/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0100/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0100_EN.html"
+                  ],
+                  "Date": "17/04/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1898011"
+                  ]
+                },
+                {
+                  "Document type": "Text agreed during interinstitutional negotiations",
+                  "Committee": "",
+                  "Reference": "PE791.897",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/empl/inag/2026/07-22/EMPL_AG(2026)791897_EN.pdf"
+                  ],
+                  "Date": "22/07/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0321/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0321_EN.html"
+                  ],
+                  "Date": "06/10/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1918685"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "Council of the EU",
+              "rows": [
+                {
+                  "Document type": "Coreper letter confirming interinstitutional agreement",
+                  "Reference": "GEDA/A/(2026)004807",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/empl/lcag/2026/07-22/EMPL_LA(2026)004807_EN.pdf"
+                  ],
+                  "Date": "22/07/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0418",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0418/COM_COM(2025)0418_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0418"
+                  ],
+                  "Date": "18/07/2025",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1831591"
+                  ]
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SEC(2025)0217",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=SECfinal&an_doc=2025&nu_doc=0217"
+                  ],
+                  "Date": "18/07/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2025)0191",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2025:0191:FIN:EN:PDF"
+                  ],
+                  "Date": "18/07/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2025)0192",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2025:0192:FIN:EN:PDF"
+                  ],
+                  "Date": "18/07/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Document attached to the procedure",
+                  "Reference": "SWD(2025)0193",
+                  "Reference_links": [
+                    "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2025:0193:FIN:EN:PDF"
+                  ],
+                  "Date": "18/07/2025",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "IT_CHAMBER",
+                  "Reference": "COM(2025)0418",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0418"
+                  ],
+                  "Date": "15/10/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "ES_PARLIAMENT",
+                  "Reference": "COM(2025)0418",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0418"
+                  ],
+                  "Date": "28/10/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "IT_SENATE",
+                  "Reference": "COM(2025)0418",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0418"
+                  ],
+                  "Date": "10/11/2025",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "IT_SENATE",
+                  "Reference": "COM(2025)0418",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0418"
+                  ],
+                  "Date": "10/11/2025",
+                  "Summary": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "reference": "2023/0134(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "6a159804b080914fd96e193aefc3dfe9",
+          "to": "9cf224b00b23b5bff78cc002d7911a03"
+        },
+        "timeline": {
+          "from": [
+            {
+              "Date": "04/05/2023",
+              "Event": "Initial legislative proposal published",
+              "Reference": "COM(2023)0189",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2023/0189/COM_COM(2023)0189_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2023&nu_doc=0189"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "08/05/2023",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "13/11/2024",
+              "Event": "Resumption of business from the previous parliamentary term",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "02/10/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0589",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0589/COM_COM(2025)0589_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0589"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "05/05/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "05/05/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "07/05/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0131/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0131_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1901135"
+              ]
+            },
+            {
+              "Date": "18/05/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "20/05/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "02/09/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "GEDA/A/(2026)004654 PE791.113",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/tran/lcag/2026/07-15/TRAN_LA(2026)004654_EN.pdf",
+                "https://www.europarl.europa.eu/RegData/commissions/tran/inag/2026/07-15/TRAN_AG(2026)791113_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "07/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0328/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0328_EN.html"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "07/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-07-VOT_EN.html?item=1"
+              ],
+              "Summary": ""
+            }
+          ],
+          "to": [
+            {
+              "Date": "04/05/2023",
+              "Event": "Initial legislative proposal published",
+              "Reference": "COM(2023)0189",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2023/0189/COM_COM(2023)0189_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2023&nu_doc=0189"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "08/05/2023",
+              "Event": "Committee referral announced in Parliament, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "13/11/2024",
+              "Event": "Resumption of business from the previous parliamentary term",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "02/10/2025",
+              "Event": "Legislative proposal published",
+              "Reference": "COM(2025)0589",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0589/COM_COM(2025)0589_EN.pdf",
+                "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0589"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "05/05/2026",
+              "Event": "Vote in committee, 1st reading",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "05/05/2026",
+              "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "07/05/2026",
+              "Event": "Committee report tabled for plenary, 1st reading",
+              "Reference": "A10-0131/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/A-10-2026-0131_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1901135"
+              ]
+            },
+            {
+              "Date": "18/05/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations announced in plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "20/05/2026",
+              "Event": "Committee decision to enter into interinstitutional negotiations confirmed by plenary (Rule 72)",
+              "Reference": "",
+              "Summary": ""
+            },
+            {
+              "Date": "02/09/2026",
+              "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+              "Reference": "GEDA/A/(2026)004654 PE791.113",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/RegData/commissions/tran/lcag/2026/07-15/TRAN_LA(2026)004654_EN.pdf",
+                "https://www.europarl.europa.eu/RegData/commissions/tran/inag/2026/07-15/TRAN_AG(2026)791113_EN.pdf"
+              ],
+              "Summary": ""
+            },
+            {
+              "Date": "07/10/2026",
+              "Event": "Decision by Parliament, 1st reading",
+              "Reference": "T10-0328/2026",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0328_EN.html"
+              ],
+              "Summary": "Summary",
+              "Summary_links": [
+                "/oeil/en/document-summary?id=1918812"
+              ]
+            },
+            {
+              "Date": "07/10/2026",
+              "Event": "Results of vote in Parliament",
+              "Reference": "",
+              "Reference_links": [
+                "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-07-VOT_EN.html?item=1"
+              ],
+              "Summary": ""
+            }
+          ]
+        },
+        "documents": {
+          "from": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Committee draft report",
+                  "Committee": "",
+                  "Reference": "PE784.241",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TRAN-PR-784241_EN.html"
+                  ],
+                  "Date": "26/02/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE786.740",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TRAN-AM-786740_EN.html"
+                  ],
+                  "Date": "26/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0131/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0131_EN.html"
+                  ],
+                  "Date": "07/05/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1901135"
+                  ]
+                },
+                {
+                  "Document type": "Text agreed during interinstitutional negotiations",
+                  "Committee": "",
+                  "Reference": "PE791.113",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/tran/inag/2026/07-15/TRAN_AG(2026)791113_EN.pdf"
+                  ],
+                  "Date": "15/07/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0328/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0328_EN.html"
+                  ],
+                  "Date": "07/10/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Council of the EU",
+              "rows": [
+                {
+                  "Document type": "Coreper letter confirming interinstitutional agreement",
+                  "Reference": "GEDA/A/(2026)004654",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/tran/lcag/2026/07-15/TRAN_LA(2026)004654_EN.pdf"
+                  ],
+                  "Date": "15/07/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Initial legislative proposal",
+                  "Reference": "COM(2023)0189",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2023/0189/COM_COM(2023)0189_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2023&nu_doc=0189"
+                  ],
+                  "Date": "04/05/2023",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1742993"
+                  ]
+                },
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0589",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0589/COM_COM(2025)0589_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0589"
+                  ],
+                  "Date": "02/10/2025",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1848416"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "ES_PARLIAMENT",
+                  "Reference": "COM(2025)0589",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0589"
+                  ],
+                  "Date": "28/11/2025",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Other institutions and bodies",
+              "rows": [
+                {
+                  "Institution/body": "EESC",
+                  "Document type": "Economic and Social Committee: opinion, report",
+                  "Reference": "CES3043/2023",
+                  "Reference_links": [
+                    "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:3043)(documentyear:2023)(documentlanguage:EN)"
+                  ],
+                  "Date": "20/09/2023",
+                  "Summary": ""
+                },
+                {
+                  "Institution/body": "EESC",
+                  "Document type": "Economic and Social Committee: opinion, report",
+                  "Reference": "CES3779/2025",
+                  "Reference_links": [
+                    "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:3779)(documentyear:2025)(documentlanguage:EN)"
+                  ],
+                  "Date": "03/12/2025",
+                  "Summary": ""
+                }
+              ]
+            }
+          ],
+          "to": [
+            {
+              "institution": "European Parliament",
+              "rows": [
+                {
+                  "Document type": "Committee draft report",
+                  "Committee": "",
+                  "Reference": "PE784.241",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TRAN-PR-784241_EN.html"
+                  ],
+                  "Date": "26/02/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Amendments tabled in committee",
+                  "Committee": "",
+                  "Reference": "PE786.740",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TRAN-AM-786740_EN.html"
+                  ],
+                  "Date": "26/03/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "A10-0131/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/A-10-2026-0131_EN.html"
+                  ],
+                  "Date": "07/05/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1901135"
+                  ]
+                },
+                {
+                  "Document type": "Text agreed during interinstitutional negotiations",
+                  "Committee": "",
+                  "Reference": "PE791.113",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/tran/inag/2026/07-15/TRAN_AG(2026)791113_EN.pdf"
+                  ],
+                  "Date": "15/07/2026",
+                  "Summary": ""
+                },
+                {
+                  "Document type": "Text adopted by Parliament, 1st reading/single reading",
+                  "Committee": "",
+                  "Reference": "T10-0328/2026",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/doceo/document/TA-10-2026-0328_EN.html"
+                  ],
+                  "Date": "07/10/2026",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1918812"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "Council of the EU",
+              "rows": [
+                {
+                  "Document type": "Coreper letter confirming interinstitutional agreement",
+                  "Reference": "GEDA/A/(2026)004654",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/commissions/tran/lcag/2026/07-15/TRAN_LA(2026)004654_EN.pdf"
+                  ],
+                  "Date": "15/07/2026",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "European Commission",
+              "rows": [
+                {
+                  "Document type": "Initial legislative proposal",
+                  "Reference": "COM(2023)0189",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2023/0189/COM_COM(2023)0189_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2023&nu_doc=0189"
+                  ],
+                  "Date": "04/05/2023",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1742993"
+                  ]
+                },
+                {
+                  "Document type": "Legislative proposal",
+                  "Reference": "COM(2025)0589",
+                  "Reference_links": [
+                    "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0589/COM_COM(2025)0589_EN.pdf",
+                    "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0589"
+                  ],
+                  "Date": "02/10/2025",
+                  "Summary": "Summary",
+                  "Summary_links": [
+                    "/oeil/en/document-summary?id=1848416"
+                  ]
+                }
+              ]
+            },
+            {
+              "institution": "National parliaments",
+              "rows": [
+                {
+                  "Document type": "Contribution",
+                  "Parliament/Chamber": "ES_PARLIAMENT",
+                  "Reference": "COM(2025)0589",
+                  "Reference_links": [
+                    "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2025)0589"
+                  ],
+                  "Date": "28/11/2025",
+                  "Summary": ""
+                }
+              ]
+            },
+            {
+              "institution": "Other institutions and bodies",
+              "rows": [
+                {
+                  "Institution/body": "EESC",
+                  "Document type": "Economic and Social Committee: opinion, report",
+                  "Reference": "CES3043/2023",
+                  "Reference_links": [
+                    "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:3043)(documentyear:2023)(documentlanguage:EN)"
+                  ],
+                  "Date": "20/09/2023",
+                  "Summary": ""
+                },
+                {
+                  "Institution/body": "EESC",
+                  "Document type": "Economic and Social Committee: opinion, report",
+                  "Reference": "CES3779/2025",
+                  "Reference_links": [
+                    "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:3779)(documentyear:2025)(documentlanguage:EN)"
+                  ],
+                  "Date": "03/12/2025",
+                  "Summary": ""
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
