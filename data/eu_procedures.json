@@ -55655,7 +55655,7 @@
     ]
   },
   {
-    "content_hash": "10e6b9abf2ed886cf767bde4ef9517e8",
+    "content_hash": "c9d2ff53c7f5ee120394c9f2eb246c45",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2020/0103(COD)",
     "reference": "2020/0103(COD)",
     "title": "Technical Support Instrument",
@@ -55670,7 +55670,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 197-p2",
+      "Legal basis": "Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 197-p2 Treaty on the Functioning of the European Union TFEU 175-p3",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -55710,16 +55710,16 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur FERNANDES Jos\u00e9 Manuel (EPP) GY\u0150RI Enik\u0151 (EPP) GARDIAZABAL RUBIAL Eider (S&D) MAVRIDES Costas (S&D) CHASTEL Olivier (Renew) PEKSA Mikul\u00e1\u0161 (Greens/EFA) Z\u012aLE Roberts (ECR) VAN OVERTVELDT Johan (ECR) LAPORTE H\u00e9l\u00e8ne (ID) RINALDI Antonio Maria (ID) PAPADIMOULIS Dimitrios (GUE/NGL)",
+            "Rapporteur": "Shadow rapporteur FERNANDES Jos\u00e9 Manuel (EPP) GY\u0150RI Enik\u0151 (EPP) MAVRIDES Costas (S&D) GARDIAZABAL RUBIAL Eider (S&D) CHASTEL Olivier (Renew) PEKSA Mikul\u00e1\u0161 (Greens/EFA) VAN OVERTVELDT Johan (ECR) Z\u012aLE Roberts (ECR) LAPORTE H\u00e9l\u00e8ne (ID) RINALDI Antonio Maria (ID) PAPADIMOULIS Dimitrios (GUE/NGL)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/96899",
               "https://www.europarl.europa.eu/meps/en/96830",
-              "https://www.europarl.europa.eu/meps/en/96991",
               "https://www.europarl.europa.eu/meps/en/124691",
+              "https://www.europarl.europa.eu/meps/en/96991",
               "https://www.europarl.europa.eu/meps/en/197463",
               "https://www.europarl.europa.eu/meps/en/197539",
-              "https://www.europarl.europa.eu/meps/en/28615",
               "https://www.europarl.europa.eu/meps/en/125106",
+              "https://www.europarl.europa.eu/meps/en/28615",
               "https://www.europarl.europa.eu/meps/en/197597",
               "https://www.europarl.europa.eu/meps/en/197787",
               "https://www.europarl.europa.eu/meps/en/28586"
@@ -56113,7 +56113,7 @@
     ],
     "additional_information": [
       {
-        "Source": "EP Research Service",
+        "Source": "European Parliament",
         "Document": "Briefing",
         "Document_links": [
           "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2020)659332"
@@ -175289,7 +175289,7 @@
     ]
   },
   {
-    "content_hash": "04c5ff8061c0acd5b563399c4dc9df6f",
+    "content_hash": "1462477b0be4b71befd4202fe87517c9",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0132(COD)",
     "reference": "2023/0132(COD)",
     "title": "Medicinal products for human use",
@@ -175310,7 +175310,7 @@
           "/oeil/en/procedure-file?reference=2008/0001(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 57_o Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 168-p4",
+      "Legal basis": "Rules of Procedure EP 57_o Treaty on the Functioning of the European Union TFEU 168-p4 Treaty on the Functioning of the European Union TFEU 114",
       "Other legal basis": "Rules of Procedure EP 165",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
@@ -175657,6 +175657,16 @@
               "https://www.europarl.europa.eu/RegData/commissions/sant/inag/2026/09-17/SANT_AG(2026)792228_EN.pdf"
             ],
             "Date": "17/09/2026",
+            "Summary": ""
+          },
+          {
+            "Document type": "Committee draft report",
+            "Committee": "",
+            "Reference": "PE796.189",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/doceo/document/SANT-PR-796189_EN.html"
+            ],
+            "Date": "12/10/2026",
             "Summary": ""
           }
         ]
@@ -181084,7 +181094,7 @@
     ]
   },
   {
-    "content_hash": "be992246f344da0f9bc3e2e534b93695",
+    "content_hash": "3f2bf78f25d8930f372657252d2c9453",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0167(COD)",
     "reference": "2023/0167(COD)",
     "title": "Retail investor protection rules",
@@ -181108,7 +181118,7 @@
           "/oeil/en/procedure-file?reference=2012/0175(COD)"
         ]
       },
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 062 Treaty on the Functioning of the European Union TFEU 053-p1",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 053-p1 Treaty on the Functioning of the European Union TFEU 062",
       "Stage reached in procedure": "Awaiting Parliament's position in 1st reading",
       "Committee dossier": "ECON/10/00224"
     },
@@ -181429,7 +181439,7 @@
     ],
     "additional_information": [
       {
-        "Source": "EP Research Service",
+        "Source": "European Parliament",
         "Document": "Briefing",
         "Document_links": [
           "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2023)749795"
@@ -236199,7 +236209,7 @@
     ]
   },
   {
-    "content_hash": "f723cff7f0c34d24207ed67aa8348cac",
+    "content_hash": "f2a5236ad291ec96dbff7545b143c2bf",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0227(COD)",
     "reference": "2025/0227(COD)",
     "title": "Global Europe",
@@ -236214,7 +236224,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 209-p2 Treaty on the Functioning of the European Union TFEU 209-p1 Treaty on the Functioning of the European Union TFEU 212",
+      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 209-p1 Treaty on the Functioning of the European Union TFEU 209-p2 Treaty on the Functioning of the European Union TFEU 212",
       "Mandatory consultation of other institutions": {
         "text": "European Court of Auditors",
         "links": [
@@ -236252,7 +236262,7 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur BENTELE Hildegard (EPP) SCHIEDER Andreas (S&D) H\u00d6LV\u00c9NYI Gy\u00f6rgy (PfE) MART\u00cdN FR\u00cdAS Jorge (PfE) KOLS Rihards (ECR) KAMI\u0143SKI Mariusz (ECR) GOERENS Charles (Renew) BARNA Dan (Renew) SATOURI Mounir (Greens/EFA) STRIK Tineke (Greens/EFA) DEMIREL \u00d6zlem (The Left) SERRA S\u00c1NCHEZ Isabel (The Left) JONGEN Marc (ESN) SELL Alexander (ESN)",
+            "Rapporteur": "Shadow rapporteur BENTELE Hildegard (EPP) SCHIEDER Andreas (S&D) H\u00d6LV\u00c9NYI Gy\u00f6rgy (PfE) MART\u00cdN FR\u00cdAS Jorge (PfE) KOLS Rihards (ECR) KAMI\u0143SKI Mariusz (ECR) GOERENS Charles (Renew) BARNA Dan (Renew) STRIK Tineke (Greens/EFA) SATOURI Mounir (Greens/EFA) SERRA S\u00c1NCHEZ Isabel (The Left) DEMIREL \u00d6zlem (The Left) JONGEN Marc (ESN) SELL Alexander (ESN)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/197408",
               "https://www.europarl.europa.eu/meps/en/197670",
@@ -236262,10 +236272,10 @@
               "https://www.europarl.europa.eu/meps/en/257056",
               "https://www.europarl.europa.eu/meps/en/840",
               "https://www.europarl.europa.eu/meps/en/257110",
-              "https://www.europarl.europa.eu/meps/en/197500",
               "https://www.europarl.europa.eu/meps/en/197772",
-              "https://www.europarl.europa.eu/meps/en/197468",
+              "https://www.europarl.europa.eu/meps/en/197500",
               "https://www.europarl.europa.eu/meps/en/257009",
+              "https://www.europarl.europa.eu/meps/en/197468",
               "https://www.europarl.europa.eu/meps/en/256942",
               "https://www.europarl.europa.eu/meps/en/256959"
             ],
@@ -236334,9 +236344,21 @@
         "Event": "Committee referral announced in Parliament, 1st reading",
         "Reference": "",
         "Summary": ""
+      },
+      {
+        "Date": "19/10/2026",
+        "Event": "Vote in committee, 1st reading",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "19/10/2026",
+        "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+        "Reference": "",
+        "Summary": ""
       }
     ],
-    "last_action": "23/10/2025 - Committee referral announced in Parliament, 1st reading",
+    "last_action": "19/10/2026 - Committee decision to open interinstitutional negotiations with report adopted in committee",
     "documents": [
       {
         "institution": "European Parliament",
@@ -236429,6 +236451,16 @@
               "https://www.europarl.europa.eu/doceo/document/PECH-AD-786710_EN.html"
             ],
             "Date": "09/07/2026",
+            "Summary": ""
+          },
+          {
+            "Document type": "Committee opinion",
+            "Committee": "BUDG",
+            "Reference": "PE785.475",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/doceo/document/BUDG-AD-785475_EN.html"
+            ],
+            "Date": "17/09/2026",
             "Summary": ""
           }
         ]
@@ -236538,7 +236570,7 @@
     ],
     "additional_information": [
       {
-        "Source": "EP Research Service",
+        "Source": "European Parliament",
         "Document": "Briefing",
         "Document_links": [
           "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2026)582596"
@@ -236556,11 +236588,11 @@
     ]
   },
   {
-    "content_hash": "1f86eb83310b4a68524c5d8dee93347b",
+    "content_hash": "22f6beca2adf86f86100bdbff0856957",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0232(COD)",
     "reference": "2025/0232(COD)",
     "title": "Protection of workers from the risks related to exposure to carcinogens or mutagens at work",
-    "status": "Awaiting Council's 1st reading position",
+    "status": "Awaiting signature of act",
     "subjects": [
       "4.15.15 Health and safety at work, occupational medicine"
     ],
@@ -236584,7 +236616,7 @@
           "http://www.cor.europa.eu/"
         ]
       },
-      "Stage reached in procedure": "Awaiting Council's 1st reading position",
+      "Stage reached in procedure": "Awaiting signature of act",
       "Committee dossier": "EMPL/10/03700"
     },
     "key_players": [
@@ -236728,9 +236760,15 @@
           "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-06-VOT_EN.html?item=3"
         ],
         "Summary": ""
+      },
+      {
+        "Date": "19/10/2026",
+        "Event": "Act adopted by Council after Parliament's 1st reading",
+        "Reference": "",
+        "Summary": ""
       }
     ],
-    "last_action": "06/10/2026 - Results of vote in Parliament",
+    "last_action": "19/10/2026 - Act adopted by Council after Parliament's 1st reading",
     "documents": [
       {
         "institution": "European Parliament",
@@ -236803,6 +236841,15 @@
               "https://www.europarl.europa.eu/RegData/commissions/empl/lcag/2026/07-22/EMPL_LA(2026)004807_EN.pdf"
             ],
             "Date": "22/07/2026",
+            "Summary": ""
+          },
+          {
+            "Document type": "Draft final act",
+            "Reference": "00054/2026/LEX",
+            "Reference_links": [
+              "https://www.consilium.europa.eu/EN/documents/public-register/public-register-search/?DocumentNumber=54%2F26&DocumentTypes=LEGISLATIVE+ACTS+AND+OTHER+INSTRUMENTS"
+            ],
+            "Date": "19/10/2026",
             "Summary": ""
           }
         ]
@@ -236919,7 +236966,7 @@
     ]
   },
   {
-    "content_hash": "e0d1770d7c46ed167124f0f50fc299b5",
+    "content_hash": "aa265f1cca0c710e8ef8e077ed40b17d",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0235(COD)",
     "reference": "2025/0235(COD)",
     "title": "Common Fisheries Policy 2028\u20132034",
@@ -236935,7 +236982,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 188 -a1 Treaty on the Functioning of the European Union TFEU 091-p1 Treaty on the Functioning of the European Union TFEU 195-p2 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 100-p2",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 188 -a1 Treaty on the Functioning of the European Union TFEU 091-p1 Treaty on the Functioning of the European Union TFEU 100-p2 Treaty on the Functioning of the European Union TFEU 195-p2 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -240223,7 +240270,7 @@
     ]
   },
   {
-    "content_hash": "12149edf7b12ff7a35b38fef55f58690",
+    "content_hash": "7bf6367314c902f5741c090497ee35d9",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0255(COD)",
     "reference": "2025/0255(COD)",
     "title": "Justice programme 2028-2034",
@@ -240275,19 +240322,19 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur WAWRYKIEWICZ Micha\u0142 (EPP) RADEV Emil (EPP) BARLEY Katarina (S&D) \u015aMISZEK Krzysztof (S&D) PIERA Pascale (PfE) BOCHE\u0143SKI Tobiasz (ECR) KANKO Assita (ECR) \u017dALIMAS Dainius (Renew) MINCHEV Nikola (Renew) STRIK Tineke (Greens/EFA) ASENS LLODR\u00c0 Jaume (Greens/EFA) FURORE Mario (The Left) ANTOCI Giuseppe (The Left) SYPNIEWSKI Marcin (ESN)",
+            "Rapporteur": "Shadow rapporteur WAWRYKIEWICZ Micha\u0142 (EPP) RADEV Emil (EPP) \u015aMISZEK Krzysztof (S&D) BARLEY Katarina (S&D) PIERA Pascale (PfE) BOCHE\u0143SKI Tobiasz (ECR) KANKO Assita (ECR) \u017dALIMAS Dainius (Renew) MINCHEV Nikola (Renew) ASENS LLODR\u00c0 Jaume (Greens/EFA) STRIK Tineke (Greens/EFA) FURORE Mario (The Left) ANTOCI Giuseppe (The Left) SYPNIEWSKI Marcin (ESN)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/257045",
               "https://www.europarl.europa.eu/meps/en/124850",
-              "https://www.europarl.europa.eu/meps/en/197433",
               "https://www.europarl.europa.eu/meps/en/257085",
+              "https://www.europarl.europa.eu/meps/en/197433",
               "https://www.europarl.europa.eu/meps/en/256877",
               "https://www.europarl.europa.eu/meps/en/257073",
               "https://www.europarl.europa.eu/meps/en/197469",
               "https://www.europarl.europa.eu/meps/en/256807",
               "https://www.europarl.europa.eu/meps/en/257259",
-              "https://www.europarl.europa.eu/meps/en/197772",
               "https://www.europarl.europa.eu/meps/en/257015",
+              "https://www.europarl.europa.eu/meps/en/197772",
               "https://www.europarl.europa.eu/meps/en/197795",
               "https://www.europarl.europa.eu/meps/en/257138",
               "https://www.europarl.europa.eu/meps/en/257070"
@@ -240332,9 +240379,21 @@
         "Event": "Committee referral announced in Parliament, 1st reading",
         "Reference": "",
         "Summary": ""
+      },
+      {
+        "Date": "19/10/2026",
+        "Event": "Vote in committee, 1st reading",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "19/10/2026",
+        "Event": "Committee decision to open interinstitutional negotiations with report adopted in committee",
+        "Reference": "",
+        "Summary": ""
       }
     ],
-    "last_action": "20/10/2025 - Committee referral announced in Parliament, 1st reading",
+    "last_action": "19/10/2026 - Committee decision to open interinstitutional negotiations with report adopted in committee",
     "documents": [
       {
         "institution": "European Parliament",
@@ -240450,7 +240509,7 @@
     ],
     "additional_information": [
       {
-        "Source": "EP Research Service",
+        "Source": "European Parliament",
         "Document": "Briefing",
         "Document_links": [
           "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2025)779257"
@@ -245106,7 +245165,7 @@
     ]
   },
   {
-    "content_hash": "0e1904da2ecb0e991122425dbad84552",
+    "content_hash": "db1ab332ffbcf9c545e3bedca5438acc",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0361(COD)",
     "reference": "2025/0361(COD)",
     "title": "Sustainability-related disclosures in the financial services sector (SFDR) and key information documents for packaged retail and insurance-based investment products (PRIIPs)",
@@ -245127,7 +245186,7 @@
           "/oeil/en/procedure-file?reference=2018/0179(COD)"
         ]
       },
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 114",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 294-p7-ac",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee",
         "links": [
@@ -248416,7 +248475,7 @@
     ]
   },
   {
-    "content_hash": "c37618e8cbec5d1b39b84fdd4b95b6bf",
+    "content_hash": "1ad0a430537657356aa8512c07e82062",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0395(COD)",
     "reference": "2025/0395(COD)",
     "title": "Suspending the application of the rules on extended producer responsibility for batteries and waste batteries and packaging and packaging waste (Omnibus VIII on environmental legislation)",
@@ -248432,7 +248491,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 294-p7-ac",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 192-p1",
       "Other legal basis": "Rules of Procedure EP 165",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
@@ -249114,7 +249173,7 @@
     ]
   },
   {
-    "content_hash": "b4c252b5d8de51973ef52fde1103b7a7",
+    "content_hash": "60b91ac0a731ccf93c636bf76545dd06",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0399(COD)",
     "reference": "2025/0399(COD)",
     "title": "Trans-European energy infrastructure: guidelines",
@@ -249136,7 +249195,7 @@
           "/oeil/en/procedure-file?reference=2021/0424(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 172 Treaty on the Functioning of the European Union TFEU 294-p7-ac",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 172",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -263007,7 +263066,7 @@
     ]
   },
   {
-    "content_hash": "406c823c4f975cbf2931a7102ef0e760",
+    "content_hash": "f72b55f7cea85a9e8209787d366dd508",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0113(COD)",
     "reference": "2026/0113(COD)",
     "title": "Multimodal booking",
@@ -263026,7 +263085,7 @@
           "/oeil/en/procedure-file?reference=2007/0243(COD)"
         ]
       },
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 091-p1 Treaty on the Functioning of the European Union TFEU 100-p2",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 100-p2 Treaty on the Functioning of the European Union TFEU 091-p1",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -263054,11 +263113,13 @@
           },
           {
             "Committee responsible": "",
-            "Rapporteur": "Shadow rapporteur KIRCHER Sophia (EPP) AGIRREGOITIA MART\u00cdNEZ Oihane (Renew) SCHILLING Lena (Greens/EFA)",
+            "Rapporteur": "Shadow rapporteur KIRCHER Sophia (EPP) GAMBINO Alberico (ECR) AGIRREGOITIA MART\u00cdNEZ Oihane (Renew) SCHILLING Lena (Greens/EFA) SAEIDI Arash (The Left)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/256831",
+              "https://www.europarl.europa.eu/meps/en/257097",
               "https://www.europarl.europa.eu/meps/en/256987",
-              "https://www.europarl.europa.eu/meps/en/256833"
+              "https://www.europarl.europa.eu/meps/en/256833",
+              "https://www.europarl.europa.eu/meps/en/256911"
             ],
             "Appointed": ""
           }
@@ -263168,6 +263229,16 @@
               "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2026)0231"
             ],
             "Date": "28/07/2026",
+            "Summary": ""
+          },
+          {
+            "Document type": "Contribution",
+            "Parliament/Chamber": "CZ_SENATE",
+            "Reference": "COM(2026)0231",
+            "Reference_links": [
+              "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2026)0231"
+            ],
+            "Date": "02/10/2026",
             "Summary": ""
           }
         ]
@@ -265481,11 +265552,11 @@
     ]
   },
   {
-    "content_hash": "0fdc278f1d758db855f8d9f947a1db21",
+    "content_hash": "e1e694b6f1f74f9203b49c5847aaa3cf",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0211(COD)",
     "reference": "2026/0211(COD)",
     "title": "EU Emissions Trading System: heat and fuel benchmark values for 2026\u20132030",
-    "status": "Awaiting committee decision",
+    "status": "Awaiting Parliament's position in 1st reading",
     "subjects": [
       "3.40 Industrial policy",
       "3.60 Energy policy",
@@ -265511,7 +265582,7 @@
           "http://www.cor.europa.eu/"
         ]
       },
-      "Stage reached in procedure": "Awaiting committee decision",
+      "Stage reached in procedure": "Awaiting Parliament's position in 1st reading",
       "Committee dossier": "ENVI/10/06436"
     },
     "key_players": [
@@ -265531,10 +265602,11 @@
           },
           {
             "Committee responsible": "",
-            "Rapporteur": "Shadow rapporteur CORRADO Annalisa (S&D) BUXAD\u00c9 VILLALBA Jorge (PfE) WIESNER Emma (Renew) BLOSS Michael (Greens/EFA) ANDERSSON Li (The Left) ARNDT Anja (ESN)",
+            "Rapporteur": "Shadow rapporteur CORRADO Annalisa (S&D) BUXAD\u00c9 VILLALBA Jorge (PfE) OZDOBA Jacek (ECR) YTTERELL Emma (Renew) BLOSS Michael (Greens/EFA) ANDERSSON Li (The Left) ARNDT Anja (ESN)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/257169",
               "https://www.europarl.europa.eu/meps/en/197829",
+              "https://www.europarl.europa.eu/meps/en/257086",
               "https://www.europarl.europa.eu/meps/en/214839",
               "https://www.europarl.europa.eu/meps/en/197449",
               "https://www.europarl.europa.eu/meps/en/256805",
@@ -265594,10 +265666,50 @@
         "Event": "Committee referral announced in Parliament, 1st reading",
         "Reference": "",
         "Summary": ""
+      },
+      {
+        "Date": "19/10/2026",
+        "Event": "Vote in committee, 1st reading",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "19/10/2026",
+        "Event": "Committee report tabled for plenary, 1st reading",
+        "Reference": "A10-0276/2026",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/A-10-2026-0276_EN.html"
+        ],
+        "Summary": ""
       }
     ],
-    "last_action": "14/09/2026 - Committee referral announced in Parliament, 1st reading",
+    "last_action": "19/10/2026 - Committee report tabled for plenary, 1st reading",
     "documents": [
+      {
+        "institution": "European Parliament",
+        "rows": [
+          {
+            "Document type": "Amendments tabled in committee",
+            "Committee": "",
+            "Reference": "PE792.188",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/doceo/document/ENVI-AM-792188_EN.html"
+            ],
+            "Date": "22/09/2026",
+            "Summary": ""
+          },
+          {
+            "Document type": "Committee report tabled for plenary, 1st reading/single reading",
+            "Committee": "",
+            "Reference": "A10-0276/2026",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/doceo/document/A-10-2026-0276_EN.html"
+            ],
+            "Date": "19/10/2026",
+            "Summary": ""
+          }
+        ]
+      },
       {
         "institution": "European Commission",
         "rows": [
@@ -266907,7 +267019,7 @@
     ]
   },
   {
-    "content_hash": "42d71304cd19461dbe00cfaf3f080cd2",
+    "content_hash": "f5adb16e9e3af5ef989ccc69a1d99eac",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0273(COD)",
     "reference": "2026/0273(COD)",
     "title": "Digitalisation of procedures for the recognition of professional qualifications",
@@ -266930,7 +267042,7 @@
           "/oeil/en/procedure-file?reference=2011/0226(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 062 Treaty on the Functioning of the European Union TFEU 053-p1 Treaty on the Functioning of the European Union TFEU 046",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 053-p1 Treaty on the Functioning of the European Union TFEU 046 Treaty on the Functioning of the European Union TFEU 062",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee",
         "links": [
@@ -266944,7 +267056,12 @@
         "institution": "European Parliament",
         "rows": [
           {
-            "Committee responsible": "Pending final decision on the referral"
+            "Committee responsible": "IMCO Internal Market and Consumer Protection",
+            "Committee responsible_links": [
+              "http://www.europarl.europa.eu/committees/EN/imco/home.html"
+            ],
+            "Rapporteur": "",
+            "Appointed": ""
           }
         ]
       },
@@ -267672,12 +267789,13 @@
     ]
   },
   {
-    "content_hash": "4b01c4b15f8a79df3637415af29aff3c",
+    "content_hash": "1eaef9e07e73138cbae8d29ba212efe0",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0294(COD)",
     "reference": "2026/0294(COD)",
     "title": "Non-road mobile machinery engines: inclusion of hydrogen as a reference fuel for the testing of an engine type or engine family",
     "status": "Preparatory phase in Parliament",
     "subjects": [
+      "2.10.03 Standardisation, EC/EU standards and trade mark, certification, compliance",
       "3.40.03 Motor industry, cycle and motorcycle, commercial and agricultural vehicles",
       "3.70.02 Atmospheric pollution, motor vehicle pollution"
     ],
@@ -267686,6 +267804,12 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
+      "Amendments and repeals": {
+        "text": "Amending Regulation (EU) 2016/1628 2014/0268(COD)",
+        "links": [
+          "/oeil/en/procedure-file?reference=2014/0268(COD)"
+        ]
+      },
       "Legal basis": "Treaty on the Functioning of the European Union TFEU 114",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee",
@@ -267700,7 +267824,12 @@
         "institution": "European Parliament",
         "rows": [
           {
-            "Committee responsible": "Pending final decision on the referral"
+            "Committee responsible": "ENVI Environment, Climate and Food Safety",
+            "Committee responsible_links": [
+              "http://www.europarl.europa.eu/committees/EN/envi/home.html"
+            ],
+            "Rapporteur": "",
+            "Appointed": ""
           }
         ]
       },
@@ -268252,7 +268381,7 @@
     ]
   },
   {
-    "content_hash": "a48d18f7b6dd54bd8a7d7b085055d621",
+    "content_hash": "1384e95db61563c557169f68eeaf53c5",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0325(COD)",
     "reference": "2026/0325(COD)",
     "title": "Reduction of methane emissions in the energy sector: postponement of certain obligations",
@@ -268265,6 +268394,12 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
+      "Amendments and repeals": {
+        "text": "Amending Regulation (EU) 2024/1787 2021/0423(COD)",
+        "links": [
+          "/oeil/en/procedure-file?reference=2021/0423(COD)"
+        ]
+      },
       "Legal basis": "Treaty on the Functioning of the European Union TFEU 192-p1",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
@@ -268280,7 +268415,20 @@
         "institution": "European Parliament",
         "rows": [
           {
-            "Joint committee responsible": "Pending final decision on the referral"
+            "Joint committee responsible": "ENVI Environment, Climate and Food Safety",
+            "Joint committee responsible_links": [
+              "http://www.europarl.europa.eu/committees/EN/envi/home.html"
+            ],
+            "Rapporteur": "",
+            "Appointed": ""
+          },
+          {
+            "Joint committee responsible": "ITRE Industry, Research and Energy",
+            "Joint committee responsible_links": [
+              "http://www.europarl.europa.eu/committees/EN/itre/home.html"
+            ],
+            "Rapporteur": "",
+            "Appointed": ""
           }
         ]
       },
@@ -268303,7 +268451,8 @@
         "Event": "Legislative proposal published",
         "Reference": "COM(2026)0569",
         "Reference_links": [
-          "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0569/COM_COM(2026)0569_EN.pdf"
+          "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0569/COM_COM(2026)0569_EN.pdf",
+          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0569"
         ],
         "Summary": ""
       },
@@ -268323,7 +268472,8 @@
             "Document type": "Legislative proposal",
             "Reference": "COM(2026)0569",
             "Reference_links": [
-              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0569/COM_COM(2026)0569_EN.pdf"
+              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0569/COM_COM(2026)0569_EN.pdf",
+              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0569"
             ],
             "Date": "14/10/2026",
             "Summary": ""
@@ -268331,6 +268481,15 @@
         ]
       }
     ],
-    "additional_information": []
+    "additional_information": [
+      {
+        "Source": "European Commission",
+        "Document": "EUR-Lex",
+        "Document_links": [
+          "https://eur-lex.europa.eu/search.html?LP_INTER_CODE_NUM=0325*&SUBDOM_INIT=LEGAL_PROCEDURE&DTS_SUBDOM=LEGAL_PROCEDURE&DTS_DOM=EU_LAW&lang=en&locale=en&type=advanced&LP_INTER_CODE_YEAR=2026"
+        ],
+        "Date": ""
+      }
+    ]
   }
 ]
