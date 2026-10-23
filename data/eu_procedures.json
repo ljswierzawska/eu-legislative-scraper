@@ -1264,403 +1264,6 @@
     ]
   },
   {
-    "content_hash": "581abf0c11f036b58ac20fc2a78d0c17",
-    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2018/0160(COD)",
-    "reference": "2018/0160(COD)",
-    "title": "Trade in certain goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment. Codification",
-    "status": "Procedure completed",
-    "subjects": [
-      "6.10.08 Fundamental freedoms, human rights, democracy in general",
-      "6.20.02 Export/import control, trade defence, trade barriers"
-    ],
-    "technical_information": {
-      "Procedure reference": "2018/0160(COD)",
-      "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
-      "Procedure subtype": "Codification",
-      "Legislative instrument": "Regulation",
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 207-p2",
-      "Other legal basis": "Rules of Procedure EP 165",
-      "Stage reached in procedure": "Procedure completed",
-      "Committee dossier": "JURI/8/13227"
-    },
-    "key_players": [
-      {
-        "institution": "European Parliament",
-        "rows": [
-          {
-            "Committee responsible": "JURI Legal Affairs",
-            "Rapporteur": "GERINGER DE OEDENBERG Lidia Joanna (S&D)",
-            "Rapporteur_links": [
-              "https://www.europarl.europa.eu/meps/en/28377"
-            ],
-            "Appointed": "03/09/2018"
-          }
-        ]
-      },
-      {
-        "institution": "Council of the European Union",
-        "rows": []
-      },
-      {
-        "institution": "European Commission",
-        "rows": [
-          {
-            "Commission DG": "European External Action Service",
-            "Commission DG_links": [
-              "https://www.eeas.europa.eu/_en"
-            ],
-            "Commissioner": "MOGHERINI Federica"
-          }
-        ]
-      }
-    ],
-    "timeline": [
-      {
-        "Date": "24/05/2018",
-        "Event": "Legislative proposal published",
-        "Reference": "COM(2018)0316",
-        "Reference_links": [
-          "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2018/0316/COM_COM(2018)0316_EN.pdf",
-          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2018&nu_doc=0316"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1535150"
-        ]
-      },
-      {
-        "Date": "31/05/2018",
-        "Event": "Committee referral announced in Parliament, 1st reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "20/11/2018",
-        "Event": "Vote in committee, 1st reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "23/11/2018",
-        "Event": "Committee report tabled for plenary, 1st reading",
-        "Reference": "A8-0387/2018",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/A-8-2018-0387_EN.html"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1562899"
-        ]
-      },
-      {
-        "Date": "29/11/2018",
-        "Event": "Decision by Parliament, 1st reading",
-        "Reference": "T8-0467/2018",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/TA-8-2018-0467_EN.html"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1563954"
-        ]
-      },
-      {
-        "Date": "29/11/2018",
-        "Event": "Results of vote in Parliament",
-        "Reference": "",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/PV-8-2018-11-29-VOT_EN.html?item=2"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "05/12/2018",
-        "Event": "Act adopted by Council after Parliament's 1st reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "16/01/2019",
-        "Event": "Final act signed",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "16/01/2019",
-        "Event": "End of procedure in Parliament",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "31/01/2019",
-        "Event": "Final act published in Official Journal",
-        "Reference": "",
-        "Summary": ""
-      }
-    ],
-    "last_action": "31/01/2019 - Final act published in Official Journal",
-    "documents": [
-      {
-        "institution": "European Parliament",
-        "rows": [
-          {
-            "Document type": "Committee draft report",
-            "Committee": "",
-            "Reference": "PE627.604",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/JURI-PR-627604_EN.html"
-            ],
-            "Date": "06/11/2018",
-            "Summary": ""
-          },
-          {
-            "Document type": "Committee report tabled for plenary, 1st reading/single reading",
-            "Committee": "",
-            "Reference": "A8-0387/2018",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/A-8-2018-0387_EN.html"
-            ],
-            "Date": "23/11/2018",
-            "Summary": "Summary",
-            "Summary_links": [
-              "/oeil/en/document-summary?id=1562899"
-            ]
-          },
-          {
-            "Document type": "Text adopted by Parliament, 1st reading/single reading",
-            "Committee": "",
-            "Reference": "T8-0467/2018",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/TA-8-2018-0467_EN.html"
-            ],
-            "Date": "29/11/2018",
-            "Summary": "Summary",
-            "Summary_links": [
-              "/oeil/en/document-summary?id=1563954"
-            ]
-          }
-        ]
-      },
-      {
-        "institution": "Council of the EU",
-        "rows": [
-          {
-            "Document type": "Draft final act",
-            "Reference": "00059/2018/LEX",
-            "Reference_links": [
-              "https://www.consilium.europa.eu/EN/documents/public-register/public-register-search/?DocumentNumber=59%2F18&DocumentTypes=LEGISLATIVE+ACTS+AND+OTHER+INSTRUMENTS"
-            ],
-            "Date": "16/01/2019",
-            "Summary": ""
-          }
-        ]
-      },
-      {
-        "institution": "European Commission",
-        "rows": [
-          {
-            "Document type": "Legislative proposal",
-            "Reference": "COM(2018)0316",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2018/0316/COM_COM(2018)0316_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2018&nu_doc=0316"
-            ],
-            "Date": "24/05/2018",
-            "Summary": "Summary",
-            "Summary_links": [
-              "/oeil/en/document-summary?id=1535150"
-            ]
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2019)0445",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2019/0445/COM_COM(2019)0445_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2019&nu_doc=0445"
-            ],
-            "Date": "01/10/2019",
-            "Summary": "Summary",
-            "Summary_links": [
-              "/oeil/en/document-summary?id=1593631"
-            ]
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2019)0449",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2019/0449/COM_COM(2019)0449_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2019&nu_doc=0449"
-            ],
-            "Date": "07/10/2019",
-            "Summary": "Summary",
-            "Summary_links": [
-              "/oeil/en/document-summary?id=1594363"
-            ]
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2020)0343",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2020/0343/COM_COM(2020)0343_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2020&nu_doc=0343"
-            ],
-            "Date": "30/07/2020",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2020)0799",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2020/0799/COM_COM(2020)0799_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2020&nu_doc=0799"
-            ],
-            "Date": "14/12/2020",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2020)0803",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2020/0803/COM_COM(2020)0803_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2020&nu_doc=0803"
-            ],
-            "Date": "14/12/2020",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2021)0075",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2021/0075/COM_COM(2021)0075_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2021&nu_doc=0075"
-            ],
-            "Date": "22/02/2021",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2021)0632",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2021/0632/COM_COM(2021)0632_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2021&nu_doc=0632"
-            ],
-            "Date": "14/10/2021",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2021)0633",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2021/0633/COM_COM(2021)0633_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2021&nu_doc=0633"
-            ],
-            "Date": "14/10/2021",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2022)0567",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2022/0567/COM_COM(2022)0567_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2022&nu_doc=0567"
-            ],
-            "Date": "31/10/2022",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2022)0568",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2022/0568/COM_COM(2022)0568_EN.pdf"
-            ],
-            "Date": "31/10/2022",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2023)0689",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2023/0689/COM_COM(2023)0689_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2023&nu_doc=0689"
-            ],
-            "Date": "08/11/2023",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2023)0694",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2023/0694/COM_COM(2023)0694_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2023&nu_doc=0694"
-            ],
-            "Date": "08/11/2023",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2024)0529",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2024/0529/COM_COM(2024)0529_EN.docx",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2024&nu_doc=0529"
-            ],
-            "Date": "19/11/2024",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2024)0530",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2024/0530/COM_COM(2024)0530_EN.docx",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2024&nu_doc=0530"
-            ],
-            "Date": "19/11/2024",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2025)0482",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0482/COM_COM(2025)0482_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0482"
-            ],
-            "Date": "12/09/2025",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2025)0704",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0704/COM_COM(2025)0704_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0704"
-            ],
-            "Date": "21/11/2025",
-            "Summary": ""
-          },
-          {
-            "Document type": "Follow-up document",
-            "Reference": "COM(2025)0748",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2025/0748/COM_COM(2025)0748_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2025&nu_doc=0748"
-            ],
-            "Date": "09/12/2025",
-            "Summary": ""
-          }
-        ]
-      }
-    ],
-    "additional_information": [
-      {
-        "Source": "European Commission",
-        "Document": "EUR-Lex",
-        "Document_links": [
-          "https://eur-lex.europa.eu/search.html?LP_INTER_CODE_NUM=0160*&SUBDOM_INIT=LEGAL_PROCEDURE&DTS_SUBDOM=LEGAL_PROCEDURE&DTS_DOM=EU_LAW&lang=en&locale=en&type=advanced&LP_INTER_CODE_YEAR=2018"
-        ],
-        "Date": ""
-      }
-    ]
-  },
-  {
     "content_hash": "8b97e4086a86779364f30d759cb840d1",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2018/0161(COD)",
     "reference": "2018/0161(COD)",
@@ -235620,7 +235223,7 @@
     ]
   },
   {
-    "content_hash": "4cf4750d757818e8b5a546e11c630308",
+    "content_hash": "42b1de69a32efe8232eaf52e1e588bcb",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0222(COD)",
     "reference": "2025/0222(COD)",
     "title": "Erasmus+ programme 2028\u20132034",
@@ -235743,9 +235346,18 @@
           "https://www.europarl.europa.eu/doceo/document/A-10-2026-0257_EN.html"
         ],
         "Summary": ""
+      },
+      {
+        "Date": "22/10/2026",
+        "Event": "Results of vote in Parliament",
+        "Reference": "",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-22-VOT_EN.html?item=2"
+        ],
+        "Summary": ""
       }
     ],
-    "last_action": "02/10/2026 - Committee report tabled for plenary, 1st reading",
+    "last_action": "22/10/2026 - Results of vote in Parliament",
     "documents": [
       {
         "institution": "European Parliament",
@@ -237151,7 +236763,7 @@
     ]
   },
   {
-    "content_hash": "e0d1770d7c46ed167124f0f50fc299b5",
+    "content_hash": "f62b1777ca9eafebca1146a3cb943777",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0235(COD)",
     "reference": "2025/0235(COD)",
     "title": "Common Fisheries Policy 2028\u20132034",
@@ -237167,7 +236779,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 188 -a1 Treaty on the Functioning of the European Union TFEU 091-p1 Treaty on the Functioning of the European Union TFEU 195-p2 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 100-p2",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 188 -a1 Treaty on the Functioning of the European Union TFEU 091-p1 Treaty on the Functioning of the European Union TFEU 100-p2 Treaty on the Functioning of the European Union TFEU 195-p2 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 173-p3",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -247451,7 +247063,7 @@
     ]
   },
   {
-    "content_hash": "ed679b7a35b5248583cd6f987efb187e",
+    "content_hash": "a4ea092e58f5d23b729a67778716fc41",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0385(COD)",
     "reference": "2025/0385(COD)",
     "title": "Amendments to the Critical Raw Materials Act",
@@ -247656,6 +247268,12 @@
       {
         "Date": "09/07/2026",
         "Event": "Report referred back to committee",
+        "Reference": "",
+        "Summary": ""
+      },
+      {
+        "Date": "09/07/2026",
+        "Event": "Matter referred back to the committee responsible for reconsideration",
         "Reference": "",
         "Summary": ""
       },
@@ -247939,7 +247557,7 @@
     ]
   },
   {
-    "content_hash": "451dafbfcfee1036836dff49885ac212",
+    "content_hash": "71877bed0c7163c8bd18cfe7a38a9dbc",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0391(COD)",
     "reference": "2025/0391(COD)",
     "title": "Speeding-up environmental assessments (Omnibus VIII on environmental legislation)",
@@ -247953,7 +247571,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 192-p1",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 294-p7-ac",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -255622,7 +255240,7 @@
     ]
   },
   {
-    "content_hash": "a0689098a8830680752d15c599150bc1",
+    "content_hash": "82045be7fad5b5a7a4246a7675f98e1b",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0531(COD)",
     "reference": "2025/0531(COD)",
     "title": "Simplification of certain requirements and procedures for chemical products (Omnibus VI)",
@@ -255682,11 +255300,11 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur DE MEO Salvatore (EPP) MENDIA Idoia (S&D) VIGENIN Kristian (S&D) FRIGOUT Anne-Sophie (PfE) FIOCCHI Pietro (ECR) HOJS\u00cdK Martin (Renew) MINCHEV Nikola (Renew) LANGENSIEPEN Katrin (Greens/EFA) SBAI Majdouline (Greens/EFA) CLAUSEN Per (The Left) SCHNURRBUSCH Volker (ESN)",
+            "Rapporteur": "Shadow rapporteur DE MEO Salvatore (EPP) VIGENIN Kristian (S&D) MENDIA Idoia (S&D) FRIGOUT Anne-Sophie (PfE) FIOCCHI Pietro (ECR) HOJS\u00cdK Martin (Renew) MINCHEV Nikola (Renew) LANGENSIEPEN Katrin (Greens/EFA) SBAI Majdouline (Greens/EFA) CLAUSEN Per (The Left) SCHNURRBUSCH Volker (ESN)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/204333",
-              "https://www.europarl.europa.eu/meps/en/256994",
               "https://www.europarl.europa.eu/meps/en/34232",
+              "https://www.europarl.europa.eu/meps/en/256994",
               "https://www.europarl.europa.eu/meps/en/256876",
               "https://www.europarl.europa.eu/meps/en/197607",
               "https://www.europarl.europa.eu/meps/en/197770",
@@ -255802,9 +255420,18 @@
           "https://www.europarl.europa.eu/RegData/commissions/envi/inag/2026/06-26/CJ45_AG(2026)790911_EN.pdf"
         ],
         "Summary": ""
+      },
+      {
+        "Date": "22/10/2026",
+        "Event": "Results of vote in Parliament",
+        "Reference": "",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-22-VOT_EN.html?item=3"
+        ],
+        "Summary": ""
       }
     ],
-    "last_action": "14/07/2026 - Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
+    "last_action": "22/10/2026 - Results of vote in Parliament",
     "documents": [
       {
         "institution": "European Parliament",
@@ -265905,7 +265532,7 @@
     ]
   },
   {
-    "content_hash": "e1e694b6f1f74f9203b49c5847aaa3cf",
+    "content_hash": "26d97fb54225b267dca2a06ddb6ca46e",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0211(COD)",
     "reference": "2026/0211(COD)",
     "title": "EU Emissions Trading System: heat and fuel benchmark values for 2026\u20132030",
@@ -266034,9 +265661,18 @@
           "https://www.europarl.europa.eu/doceo/document/A-10-2026-0276_EN.html"
         ],
         "Summary": ""
+      },
+      {
+        "Date": "22/10/2026",
+        "Event": "Results of vote in Parliament",
+        "Reference": "",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/doceo/document/PV-10-2026-10-22-VOT_EN.html?item=4"
+        ],
+        "Summary": ""
       }
     ],
-    "last_action": "19/10/2026 - Committee report tabled for plenary, 1st reading",
+    "last_action": "22/10/2026 - Results of vote in Parliament",
     "documents": [
       {
         "institution": "European Parliament",
@@ -266078,6 +265714,21 @@
             "Summary_links": [
               "/oeil/en/document-summary?id=1910288"
             ]
+          }
+        ]
+      },
+      {
+        "institution": "Other institutions and bodies",
+        "rows": [
+          {
+            "Institution/body": "EESC",
+            "Document type": "Economic and Social Committee: opinion, report",
+            "Reference": "CES2439/2026",
+            "Reference_links": [
+              "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:2439)(documentyear:2026)(documentlanguage:EN)"
+            ],
+            "Date": "23/09/2026",
+            "Summary": ""
           }
         ]
       }
@@ -268815,6 +268466,20 @@
         "Date": ""
       }
     ]
+  },
+  {
+    "content_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0324(COD)",
+    "reference": "2026/0324(COD)",
+    "title": "",
+    "status": "",
+    "subjects": [],
+    "technical_information": {},
+    "key_players": [],
+    "timeline": [],
+    "last_action": "",
+    "documents": [],
+    "additional_information": []
   },
   {
     "content_hash": "e0b23461cf30a141ffa258890fe1aad2",
