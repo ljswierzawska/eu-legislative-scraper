@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-03",
+  "additions": [],
+  "deletions": [],
+  "modifications": [
+    {
+      "reference": "2020/0100(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "ec51b2351456546f6899182f6a5c7de6",
+          "to": "478b3176aa55ba69b03d599d30af693b"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2020/0100(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 322-p1",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Procedure completed",
+            "Committee dossier": "CJ16/9/03566"
+          },
+          "to": {
+            "Procedure reference": "2020/0100(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Legal basis": "Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 175-p3",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee European Committee of the Regions",
+              "links": [
+                "http://www.eesc.europa.eu/",
+                "http://www.cor.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Procedure completed",
+            "Committee dossier": "CJ16/9/03566"
+          }
+        }
+      }
+    },
+    {
+      "reference": "2018/0216(COD)",
+      "changes": {
+        "content_hash": {
+          "from": "a25bfc8afa9fc6ab650302ace07b3636",
+          "to": "b8ed21f76b9dfec3633171ab056a997a"
+        },
+        "technical_information": {
+          "from": {
+            "Procedure reference": "2018/0216(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Repealing Regulation (EU) No 1307/2013 2011/0280(COD) Repealing Regulation (EU) No 1305/2013 2011/0282(COD) Amended by 2022/0164(COD) Amended by 2024/0073(COD) Amended by 2024/0319(COD) Amended by 2025/0071(COD) Amended by 2025/0236(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2011/0280(COD)",
+                "/oeil/en/procedure-file?reference=2011/0282(COD)",
+                "/oeil/en/procedure-file?reference=2022/0164(COD)",
+                "/oeil/en/procedure-file?reference=2024/0073(COD)",
+                "/oeil/en/procedure-file?reference=2024/0319(COD)",
+                "/oeil/en/procedure-file?reference=2025/0071(COD)",
+                "/oeil/en/procedure-file?reference=2025/0236(COD)"
+              ]
+            },
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 043-p2",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee",
+              "links": [
+                "http://www.eesc.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Procedure completed",
+            "Committee dossier": "AGRI/9/00350"
+          },
+          "to": {
+            "Procedure reference": "2018/0216(COD)",
+            "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+            "Procedure subtype": "Legislation",
+            "Legislative instrument": "Regulation",
+            "Amendments and repeals": {
+              "text": "Repealing Regulation (EU) No 1307/2013 2011/0280(COD) Repealing Regulation (EU) No 1305/2013 2011/0282(COD) Amended by 2022/0164(COD) Amended by 2024/0073(COD) Amended by 2024/0319(COD) Amended by 2025/0071(COD) Amended by 2025/0236(COD)",
+              "links": [
+                "/oeil/en/procedure-file?reference=2011/0280(COD)",
+                "/oeil/en/procedure-file?reference=2011/0282(COD)",
+                "/oeil/en/procedure-file?reference=2022/0164(COD)",
+                "/oeil/en/procedure-file?reference=2024/0073(COD)",
+                "/oeil/en/procedure-file?reference=2024/0319(COD)",
+                "/oeil/en/procedure-file?reference=2025/0071(COD)",
+                "/oeil/en/procedure-file?reference=2025/0236(COD)"
+              ]
+            },
+            "Legal basis": "Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 042-p1",
+            "Mandatory consultation of other institutions": {
+              "text": "European Economic and Social Committee",
+              "links": [
+                "http://www.eesc.europa.eu/"
+              ]
+            },
+            "Stage reached in procedure": "Procedure completed",
+            "Committee dossier": "AGRI/9/00350"
+          }
+        }
+      }
+    }
+  ]
+}
