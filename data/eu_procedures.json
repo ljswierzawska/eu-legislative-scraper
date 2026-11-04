@@ -28129,7 +28129,7 @@
     ]
   },
   {
-    "content_hash": "6a51e13ed2a00e291c080c9eff650471",
+    "content_hash": "b9269adaa2ae2d22830580b3379cc219",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2018/0254(COD)",
     "reference": "2018/0254(COD)",
     "title": "European Defence Fund 2021\u20132027",
@@ -28146,11 +28146,12 @@
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
       "Amendments and repeals": {
-        "text": "Repealing 2017/0125(COD) Amended by 2023/0199(COD) Amended by 2025/0103(COD)",
+        "text": "Repealing 2017/0125(COD) Amended by 2023/0199(COD) Amended by 2025/0103(COD) Amended by 2025/0176(COD)",
         "links": [
           "/oeil/en/procedure-file?reference=2017/0125(COD)",
           "/oeil/en/procedure-file?reference=2023/0199(COD)",
-          "/oeil/en/procedure-file?reference=2025/0103(COD)"
+          "/oeil/en/procedure-file?reference=2025/0103(COD)",
+          "/oeil/en/procedure-file?reference=2025/0176(COD)"
         ]
       },
       "Legal basis": "Rules of Procedure EP 61 Treaty on the Functioning of the European Union TFEU 182-p4 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 183",
@@ -28773,7 +28774,7 @@
     ],
     "additional_information": [
       {
-        "Source": "EP Research Service",
+        "Source": "European Parliament",
         "Document": "Briefing",
         "Document_links": [
           "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2018)630289"
@@ -162600,7 +162601,7 @@
     ]
   },
   {
-    "content_hash": "4d76ab87845843681027a6d20970c3e6",
+    "content_hash": "42941b7dbc594c9dda6632b7bc35848d",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023/0076(COD)",
     "reference": "2023/0076(COD)",
     "title": "Wholesale energy market: Union\u2019s protection against market manipulation",
@@ -162626,7 +162627,7 @@
           "/oeil/en/procedure-file?reference=2016/0378(COD)"
         ]
       },
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 194-p3",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 194-p3 Treaty on the Functioning of the European Union TFEU 194-p2",
       "Other legal basis": "Rules of Procedure EP 165",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
@@ -211466,7 +211467,7 @@
     ]
   },
   {
-    "content_hash": "f2ff5b564c03ce5c2b831d6717a95883",
+    "content_hash": "131bbb21e6c3b7f92b01250763f1411e",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2024/0035(COD)",
     "reference": "2024/0035(COD)",
     "title": "Combating the sexual abuse and sexual exploitation of children and child sexual abuse material. Recast",
@@ -211482,7 +211483,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Recast",
       "Legislative instrument": "Directive",
-      "Legal basis": "Rules of Procedure EP 57_o Rules of Procedure EP 113 Treaty on the Functioning of the European Union TFEU 083-p1-a1 Treaty on the Functioning of the European Union TFEU 082-p2",
+      "Legal basis": "Rules of Procedure EP 57_o Rules of Procedure EP 113 Treaty on the Functioning of the European Union TFEU 082-p2 Treaty on the Functioning of the European Union TFEU 083-p1-a1",
       "Other legal basis": "Rules of Procedure EP 165",
       "Stage reached in procedure": "Awaiting Parliament's position in 1st reading",
       "Committee dossier": "LIBE/10/00339"
@@ -211759,6 +211760,17 @@
         ]
       },
       {
+        "institution": "Council of the EU",
+        "rows": [
+          {
+            "Document type": "Coreper letter confirming interinstitutional agreement",
+            "Reference": "GEDA/A/(2026)006274",
+            "Date": "23/10/2026",
+            "Summary": ""
+          }
+        ]
+      },
+      {
         "institution": "European Commission",
         "rows": [
           {
@@ -211909,7 +211921,7 @@
     ],
     "additional_information": [
       {
-        "Source": "EP Research Service",
+        "Source": "European Parliament",
         "Document": "Briefing",
         "Document_links": [
           "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2024)762374"
@@ -231088,11 +231100,11 @@
     ]
   },
   {
-    "content_hash": "0e20721d9de543b4862592d01abbb0ff",
+    "content_hash": "a9454a1aa0e1b794b369211797a0a79e",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0172(COD)",
     "reference": "2025/0172(COD)",
     "title": "Acceleration of permit-granting for defence readiness projects (Omnibus V)",
-    "status": "Procedure completed, awaiting publication in Official Journal",
+    "status": "Procedure completed",
     "subjects": [
       "3.40.09 Defence and arms industry",
       "6.10.02 Common security and defence policy (CSDP); WEU, NATO"
@@ -231109,7 +231121,7 @@
           "http://www.eesc.europa.eu/"
         ]
       },
-      "Stage reached in procedure": "Procedure completed, awaiting publication in Official Journal",
+      "Stage reached in procedure": "Procedure completed",
       "Committee dossier": "CJ60/10/03171"
     },
     "key_players": [
@@ -231140,11 +231152,11 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur DE MEO Salvatore (EPP) VIGENIN Kristian (S&D) MENDIA Idoia (S&D) DOSTALOVA Klara (PfE) THIONNET Pierre-Romain (PfE) DWORCZYK Micha\u0142 (ECR) MINCHEV Nikola (Renew) VAN LANSCHOT Reinier (Greens/EFA) BOTENGA Marc (The Left) FLANAGAN Luke Ming (The Left)",
+            "Rapporteur": "Shadow rapporteur DE MEO Salvatore (EPP) MENDIA Idoia (S&D) VIGENIN Kristian (S&D) DOSTALOVA Klara (PfE) THIONNET Pierre-Romain (PfE) DWORCZYK Micha\u0142 (ECR) MINCHEV Nikola (Renew) VAN LANSCHOT Reinier (Greens/EFA) BOTENGA Marc (The Left) FLANAGAN Luke Ming (The Left)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/204333",
-              "https://www.europarl.europa.eu/meps/en/34232",
               "https://www.europarl.europa.eu/meps/en/256994",
+              "https://www.europarl.europa.eu/meps/en/34232",
               "https://www.europarl.europa.eu/meps/en/256853",
               "https://www.europarl.europa.eu/meps/en/200345",
               "https://www.europarl.europa.eu/meps/en/257076",
@@ -231285,9 +231297,15 @@
         "Event": "Final act signed",
         "Reference": "",
         "Summary": ""
+      },
+      {
+        "Date": "03/11/2026",
+        "Event": "Final act published in Official Journal",
+        "Reference": "",
+        "Summary": ""
       }
     ],
-    "last_action": "21/10/2026 - Final act signed",
+    "last_action": "03/11/2026 - Final act published in Official Journal",
     "documents": [
       {
         "institution": "European Parliament",
@@ -231454,11 +231472,11 @@
     ]
   },
   {
-    "content_hash": "f6b27c3b75cdf2a228045f5150dbd201",
+    "content_hash": "423d3036837e51e99a655406d56d8ff7",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0176(COD)",
     "reference": "2025/0176(COD)",
     "title": "Defence readiness and facilitating defence investments and conditions for the defence industry (Omnibus V)",
-    "status": "Procedure completed, awaiting publication in Official Journal",
+    "status": "Procedure completed",
     "subjects": [
       "3.40.09 Defence and arms industry",
       "6.10.02 Common security and defence policy (CSDP); WEU, NATO"
@@ -231486,7 +231504,7 @@
           "http://www.cor.europa.eu/"
         ]
       },
-      "Stage reached in procedure": "Procedure completed, awaiting publication in Official Journal",
+      "Stage reached in procedure": "Procedure completed",
       "Committee dossier": "CJ61/10/03169"
     },
     "key_players": [
@@ -231528,7 +231546,7 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur TONIN Matej (EPP) KANEV Radan (EPP) HEIN\u00c4LUOMA Eero (S&D) NIKOLIC Aleksandar (PfE) STEGER Petra (PfE) NAGYOV\u00c1 Jana (PfE) ZALEWSKA Anna (ECR) VONDRA Alexandr (ECR) BOSSE Stine (Renew) \u0160AREC Marjan (Renew) IJABS Ivars (Renew) STA\u0136IS M\u0101rti\u0146\u0161 (Greens/EFA) SINKEVI\u010cIUS Virginijus (Greens/EFA) TEGETHOFF Kai (Greens/EFA) BOTENGA Marc (The Left) SARAMO Jussi (The Left) BOYLAN Lynn (The Left) SYPNIEWSKI Marcin (ESN)",
+            "Rapporteur": "Shadow rapporteur TONIN Matej (EPP) KANEV Radan (EPP) HEIN\u00c4LUOMA Eero (S&D) NIKOLIC Aleksandar (PfE) STEGER Petra (PfE) NAGYOV\u00c1 Jana (PfE) ZALEWSKA Anna (ECR) VONDRA Alexandr (ECR) \u0160AREC Marjan (Renew) BOSSE Stine (Renew) IJABS Ivars (Renew) SINKEVI\u010cIUS Virginijus (Greens/EFA) TEGETHOFF Kai (Greens/EFA) STA\u0136IS M\u0101rti\u0146\u0161 (Greens/EFA) BOYLAN Lynn (The Left) SARAMO Jussi (The Left) BOTENGA Marc (The Left) SYPNIEWSKI Marcin (ESN)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/219652",
               "https://www.europarl.europa.eu/meps/en/197839",
@@ -231538,15 +231556,15 @@
               "https://www.europarl.europa.eu/meps/en/256843",
               "https://www.europarl.europa.eu/meps/en/197572",
               "https://www.europarl.europa.eu/meps/en/197537",
-              "https://www.europarl.europa.eu/meps/en/257020",
               "https://www.europarl.europa.eu/meps/en/256815",
+              "https://www.europarl.europa.eu/meps/en/257020",
               "https://www.europarl.europa.eu/meps/en/197624",
-              "https://www.europarl.europa.eu/meps/en/256916",
               "https://www.europarl.europa.eu/meps/en/201945",
               "https://www.europarl.europa.eu/meps/en/256965",
-              "https://www.europarl.europa.eu/meps/en/187917",
-              "https://www.europarl.europa.eu/meps/en/127766",
+              "https://www.europarl.europa.eu/meps/en/256916",
               "https://www.europarl.europa.eu/meps/en/124984",
+              "https://www.europarl.europa.eu/meps/en/127766",
+              "https://www.europarl.europa.eu/meps/en/187917",
               "https://www.europarl.europa.eu/meps/en/257070"
             ],
             "Appointed": ""
@@ -231684,9 +231702,15 @@
         "Event": "Final act signed",
         "Reference": "",
         "Summary": ""
+      },
+      {
+        "Date": "03/11/2026",
+        "Event": "Final act published in Official Journal",
+        "Reference": "",
+        "Summary": ""
       }
     ],
-    "last_action": "21/10/2026 - Final act signed",
+    "last_action": "03/11/2026 - Final act published in Official Journal",
     "documents": [
       {
         "institution": "European Parliament",
@@ -231850,7 +231874,7 @@
     ]
   },
   {
-    "content_hash": "dce801fce3d004fae2a17b356509752b",
+    "content_hash": "482d520e05d264e2eb5a5f11b9c9a772",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0177(COD)",
     "reference": "2025/0177(COD)",
     "title": "Simplification of intra-EU transfers of defence-related products and simplification of security and defence procurement (Omnibus V)",
@@ -231912,15 +231936,15 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur GASIUK-PIHOWICZ Kamila (EPP) MANIATIS Yannis (S&D) TRAMACERE Georgia (S&D) DOSTALOVA Klara (PfE) POKORN\u00c1 JERMANOV\u00c1 Jaroslava (PfE) POZ\u0145AKS Reinis (ECR) CAVEDAGNA Stefano (ECR) YAR Lucia (Renew) NEUMANN Hannah (Greens/EFA) VAN LANSCHOT Reinier (Greens/EFA) KYLL\u00d6NEN Merja (The Left) FLANAGAN Luke Ming (The Left)",
+            "Rapporteur": "Shadow rapporteur GASIUK-PIHOWICZ Kamila (EPP) MANIATIS Yannis (S&D) TRAMACERE Georgia (S&D) DOSTALOVA Klara (PfE) POKORN\u00c1 JERMANOV\u00c1 Jaroslava (PfE) CAVEDAGNA Stefano (ECR) POZ\u0145AKS Reinis (ECR) YAR Lucia (Renew) NEUMANN Hannah (Greens/EFA) VAN LANSCHOT Reinier (Greens/EFA) KYLL\u00d6NEN Merja (The Left) FLANAGAN Luke Ming (The Left)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/257032",
               "https://www.europarl.europa.eu/meps/en/256824",
               "https://www.europarl.europa.eu/meps/en/10005080",
               "https://www.europarl.europa.eu/meps/en/256853",
               "https://www.europarl.europa.eu/meps/en/256844",
-              "https://www.europarl.europa.eu/meps/en/256907",
               "https://www.europarl.europa.eu/meps/en/257096",
+              "https://www.europarl.europa.eu/meps/en/256907",
               "https://www.europarl.europa.eu/meps/en/257011",
               "https://www.europarl.europa.eu/meps/en/197464",
               "https://www.europarl.europa.eu/meps/en/256978",
@@ -232061,13 +232085,13 @@
         "Summary": ""
       },
       {
-        "Date": "28/10/2026",
+        "Date": "03/11/2026",
         "Event": "Final act published in Official Journal",
         "Reference": "",
         "Summary": ""
       }
     ],
-    "last_action": "28/10/2026 - Final act published in Official Journal",
+    "last_action": "03/11/2026 - Final act published in Official Journal",
     "documents": [
       {
         "institution": "European Parliament",
@@ -235370,7 +235394,7 @@
     ]
   },
   {
-    "content_hash": "e0d1770d7c46ed167124f0f50fc299b5",
+    "content_hash": "f0db893619186a3d863dfa2c190a9826",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0235(COD)",
     "reference": "2025/0235(COD)",
     "title": "Common Fisheries Policy 2028\u20132034",
@@ -235386,7 +235410,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 188 -a1 Treaty on the Functioning of the European Union TFEU 091-p1 Treaty on the Functioning of the European Union TFEU 195-p2 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 100-p2",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 188 -a1 Treaty on the Functioning of the European Union TFEU 091-p1 Treaty on the Functioning of the European Union TFEU 100-p2 Treaty on the Functioning of the European Union TFEU 195-p2 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -244305,11 +244329,11 @@
     ]
   },
   {
-    "content_hash": "fa8a38c5b3398ed8eae89bdfdb3cc09c",
+    "content_hash": "38de5439fe194aaf8200ae1612fecda6",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0380(COD)",
     "reference": "2025/0380(COD)",
     "title": "Market stability reserve for the buildings, road transport and additional sectors",
-    "status": "Procedure completed, awaiting publication in Official Journal",
+    "status": "Procedure completed",
     "subjects": [
       "3.60.08 Energy efficiency",
       "3.70.02 Atmospheric pollution, motor vehicle pollution",
@@ -244335,7 +244359,7 @@
           "http://www.cor.europa.eu/"
         ]
       },
-      "Stage reached in procedure": "Procedure completed, awaiting publication in Official Journal",
+      "Stage reached in procedure": "Procedure completed",
       "Committee dossier": "ENVI/10/04630"
     },
     "key_players": [
@@ -244500,9 +244524,15 @@
         "Event": "Final act signed",
         "Reference": "",
         "Summary": ""
+      },
+      {
+        "Date": "28/10/2026",
+        "Event": "Final act published in Official Journal",
+        "Reference": "",
+        "Summary": ""
       }
     ],
-    "last_action": "21/10/2026 - Final act signed",
+    "last_action": "28/10/2026 - Final act published in Official Journal",
     "documents": [
       {
         "institution": "European Parliament",
@@ -260674,11 +260704,11 @@
     ]
   },
   {
-    "content_hash": "bb5f440345dc574a7ed960b39cd13131",
+    "content_hash": "4e272c3e60fc668306cf07efa1b889b0",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0078(COD)",
     "reference": "2026/0078(COD)",
     "title": "Programme for agile and rapid defence innovation (AGILE)",
-    "status": "Procedure completed, awaiting publication in Official Journal",
+    "status": "Procedure completed",
     "subjects": [
       "3.40.09 Defence and arms industry",
       "3.45.02 Small and medium-sized enterprises (SME), craft industries",
@@ -260697,7 +260727,7 @@
           "http://www.eesc.europa.eu/"
         ]
       },
-      "Stage reached in procedure": "Procedure completed, awaiting publication in Official Journal",
+      "Stage reached in procedure": "Procedure completed",
       "Committee dossier": "CJ55/10/05509"
     },
     "key_players": [
@@ -260865,9 +260895,15 @@
         "Event": "Final act signed",
         "Reference": "",
         "Summary": ""
+      },
+      {
+        "Date": "03/11/2026",
+        "Event": "Final act published in Official Journal",
+        "Reference": "",
+        "Summary": ""
       }
     ],
-    "last_action": "21/10/2026 - Final act signed",
+    "last_action": "03/11/2026 - Final act published in Official Journal",
     "documents": [
       {
         "institution": "European Parliament",
