@@ -934,415 +934,6 @@
     "additional_information": []
   },
   {
-    "content_hash": "8c84009c6df78aacebd0b0c82cc85230",
-    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2018/0168(COD)",
-    "reference": "2018/0168(COD)",
-    "title": "Motor vehicles insurance",
-    "status": "Procedure completed",
-    "subjects": [
-      "2.40 Free movement of services, freedom to provide",
-      "4.60.08 Safety of products and services, product liability"
-    ],
-    "technical_information": {
-      "Procedure reference": "2018/0168(COD)",
-      "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
-      "Procedure subtype": "Legislation",
-      "Legislative instrument": "Directive",
-      "Amendments and repeals": {
-        "text": "Amending Directive 2009/103/EC 2008/0049(COD)",
-        "links": [
-          "/oeil/en/procedure-file?reference=2008/0049(COD)"
-        ]
-      },
-      "Legal basis": "Rules of Procedure EP 61 Treaty on the Functioning of the European Union TFEU 114",
-      "Other legal basis": "Rules of Procedure EP 165",
-      "Mandatory consultation of other institutions": {
-        "text": "European Economic and Social Committee",
-        "links": [
-          "http://www.eesc.europa.eu/"
-        ]
-      },
-      "Stage reached in procedure": "Procedure completed",
-      "Committee dossier": "IMCO/9/00321"
-    },
-    "key_players": [
-      {
-        "institution": "European Parliament",
-        "rows": [
-          {
-            "Committee responsible": "IMCO Internal Market and Consumer Protection",
-            "Rapporteur": "CHARANZOV\u00c1 Dita (Renew)",
-            "Rapporteur_links": [
-              "https://www.europarl.europa.eu/meps/en/124708"
-            ],
-            "Appointed": "18/07/2019"
-          },
-          {
-            "Committee responsible": "",
-            "Rapporteur": "Shadow rapporteur POSP\u00cd\u0160IL Ji\u0159\u00ed (EPP) PENKOVA Tsvetelina (S&D) KOLAJA Marcel (Greens/EFA) JURZYCA Eugen (ECR) BUCHHEIT Markus (ID)",
-            "Rapporteur_links": [
-              "https://www.europarl.europa.eu/meps/en/125706",
-              "https://www.europarl.europa.eu/meps/en/197845",
-              "https://www.europarl.europa.eu/meps/en/197546",
-              "https://www.europarl.europa.eu/meps/en/197767",
-              "https://www.europarl.europa.eu/meps/en/128483"
-            ],
-            "Appointed": ""
-          }
-        ]
-      },
-      {
-        "institution": "Former committee responsible",
-        "rows": [
-          {
-            "Former committee responsible": "IMCO Internal Market and Consumer Protection",
-            "Former rapporteur": "",
-            "Appointed": ""
-          }
-        ]
-      },
-      {
-        "institution": "Former committee for opinion",
-        "rows": [
-          {
-            "Former committee for opinion": "JURI Legal Affairs",
-            "Former rapporteur for opinion": "",
-            "Appointed": ""
-          }
-        ]
-      },
-      {
-        "institution": "Council of the European Union",
-        "rows": []
-      },
-      {
-        "institution": "European Commission",
-        "rows": [
-          {
-            "Commission DG": "Financial Stability, Financial Services and Capital Markets Union",
-            "Commission DG_links": [
-              "https://commission.europa.eu/about/departments-and-executive-agencies/financial-stability-financial-services-and-capital-markets-union_en"
-            ],
-            "Commissioner": "KATAINEN Jyrki"
-          }
-        ]
-      },
-      {
-        "institution": "European Economic and Social Committee",
-        "rows": []
-      }
-    ],
-    "timeline": [
-      {
-        "Date": "24/05/2018",
-        "Event": "Legislative proposal published",
-        "Reference": "COM(2018)0336",
-        "Reference_links": [
-          "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2018/0336/COM_COM(2018)0336_EN.pdf",
-          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2018&nu_doc=0336"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1535156"
-        ]
-      },
-      {
-        "Date": "11/06/2018",
-        "Event": "Committee referral announced in Parliament, 1st reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "28/01/2019",
-        "Event": "Committee report tabled for plenary, 1st reading",
-        "Reference": "A8-0035/2019",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/A-8-2019-0035_EN.html"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1571231"
-        ]
-      },
-      {
-        "Date": "13/02/2019",
-        "Event": "Decision by Parliament, 1st reading",
-        "Reference": "T8-0110/2019",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/TA-8-2019-0110_EN.html"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1573606"
-        ]
-      },
-      {
-        "Date": "13/02/2019",
-        "Event": "Results of vote in Parliament",
-        "Reference": "",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/PV-8-2019-02-13-VOT_EN.html?item=24"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "13/02/2019",
-        "Event": "Matter referred back to the committee responsible for interinstitutional negotiations",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "21/10/2019",
-        "Event": "Resumption of business from the previous parliamentary term",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "12/07/2021",
-        "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
-        "Reference": "PE695.145 GEDA/A/(2021)002949",
-        "Reference_links": [
-          "http://www.europarl.europa.eu/RegData/commissions/imco/inag/2021/07-08/IMCO_AG(2021)695145_EN.pdf",
-          "http://www.europarl.europa.eu/RegData/commissions/imco/lcag/2021/06-28/IMCO_LA(2021)002949_EN.pdf"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "21/10/2021",
-        "Event": "Decision by Parliament, 1st reading",
-        "Reference": "T9-0433/2021",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/TA-9-2021-0433_EN.html"
-        ],
-        "Summary": "Summary",
-        "Summary_links": [
-          "/oeil/en/document-summary?id=1680114"
-        ]
-      },
-      {
-        "Date": "21/10/2021",
-        "Event": "Results of vote in Parliament",
-        "Reference": "",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/PV-9-2021-10-21-VOT_EN.html?item=3"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "21/10/2021",
-        "Event": "Debate in Parliament",
-        "Reference": "",
-        "Reference_links": [
-          "https://www.europarl.europa.eu/doceo/document/CRE-9-2021-10-21-TOC_EN.html"
-        ],
-        "Summary": ""
-      },
-      {
-        "Date": "05/11/2021",
-        "Event": "Act adopted by Council after Parliament's 1st reading",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "24/11/2021",
-        "Event": "Final act signed",
-        "Reference": "",
-        "Summary": ""
-      },
-      {
-        "Date": "02/12/2021",
-        "Event": "Final act published in Official Journal",
-        "Reference": "",
-        "Summary": ""
-      }
-    ],
-    "last_action": "02/12/2021 - Final act published in Official Journal",
-    "documents": [
-      {
-        "institution": "European Parliament",
-        "rows": [
-          {
-            "Document type": "Committee draft report",
-            "Committee": "",
-            "Reference": "PE629.546",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/IMCO-PR-629546_EN.html"
-            ],
-            "Date": "26/10/2018",
-            "Summary": ""
-          },
-          {
-            "Document type": "Committee opinion",
-            "Committee": "JURI",
-            "Reference": "PE629.601",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/JURI-AD-629601_EN.html"
-            ],
-            "Date": "20/12/2018",
-            "Summary": ""
-          },
-          {
-            "Document type": "Committee report tabled for plenary, 1st reading/single reading",
-            "Committee": "",
-            "Reference": "A8-0035/2019",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/A-8-2019-0035_EN.html"
-            ],
-            "Date": "28/01/2019",
-            "Summary": "Summary",
-            "Summary_links": [
-              "/oeil/en/document-summary?id=1571231"
-            ]
-          },
-          {
-            "Document type": "Text adopted by Parliament, partial vote at 1st reading/single reading",
-            "Committee": "",
-            "Reference": "T8-0110/2019",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/TA-8-2019-0110_EN.html"
-            ],
-            "Date": "13/02/2019",
-            "Summary": "Summary",
-            "Summary_links": [
-              "/oeil/en/document-summary?id=1573606"
-            ]
-          },
-          {
-            "Document type": "Text agreed during interinstitutional negotiations",
-            "Committee": "",
-            "Reference": "PE695.145",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/commissions/imco/inag/2021/07-08/IMCO_AG(2021)695145_EN.pdf"
-            ],
-            "Date": "08/07/2021",
-            "Summary": ""
-          },
-          {
-            "Document type": "Text adopted by Parliament, 1st reading/single reading",
-            "Committee": "",
-            "Reference": "T9-0433/2021",
-            "Reference_links": [
-              "https://www.europarl.europa.eu/doceo/document/TA-9-2021-0433_EN.html"
-            ],
-            "Date": "21/10/2021",
-            "Summary": "Summary",
-            "Summary_links": [
-              "/oeil/en/document-summary?id=1680114"
-            ]
-          }
-        ]
-      },
-      {
-        "institution": "Council of the EU",
-        "rows": [
-          {
-            "Document type": "Coreper letter confirming interinstitutional agreement",
-            "Reference": "GEDA/A/(2021)002949",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/commissions/imco/lcag/2021/06-28/IMCO_LA(2021)002949_EN.pdf"
-            ],
-            "Date": "28/06/2021",
-            "Summary": ""
-          },
-          {
-            "Document type": "Draft final act",
-            "Reference": "00060/2021/LEX",
-            "Reference_links": [
-              "https://www.consilium.europa.eu/EN/documents/public-register/public-register-search/?DocumentNumber=60%2F21&DocumentTypes=LEGISLATIVE+ACTS+AND+OTHER+INSTRUMENTS"
-            ],
-            "Date": "24/11/2021",
-            "Summary": ""
-          }
-        ]
-      },
-      {
-        "institution": "European Commission",
-        "rows": [
-          {
-            "Document type": "Legislative proposal",
-            "Reference": "COM(2018)0336",
-            "Reference_links": [
-              "http://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2018/0336/COM_COM(2018)0336_EN.pdf",
-              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2018&nu_doc=0336"
-            ],
-            "Date": "24/05/2018",
-            "Summary": "Summary",
-            "Summary_links": [
-              "/oeil/en/document-summary?id=1535156"
-            ]
-          },
-          {
-            "Document type": "Document attached to the procedure",
-            "Reference": "SWD(2018)0247",
-            "Reference_links": [
-              "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2018:0247:FIN:EN:PDF"
-            ],
-            "Date": "24/05/2018",
-            "Summary": ""
-          },
-          {
-            "Document type": "Document attached to the procedure",
-            "Reference": "SWD(2018)0248",
-            "Reference_links": [
-              "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=SWD:2018:0248:FIN:EN:PDF"
-            ],
-            "Date": "24/05/2018",
-            "Summary": ""
-          },
-          {
-            "Document type": "Commission response to text adopted in plenary",
-            "Reference": "SP(2021)728",
-            "Reference_links": [
-              "https://data.europarl.europa.eu/distribution/doc/SP-2021-728-TA-8-2019-0110_en.docx"
-            ],
-            "Date": "10/12/2021",
-            "Summary": ""
-          }
-        ]
-      },
-      {
-        "institution": "National parliaments",
-        "rows": [
-          {
-            "Document type": "Contribution",
-            "Parliament/Chamber": "CZ_CHAMBER",
-            "Reference": "COM(2018)0336",
-            "Reference_links": [
-              "https://connectfolx.europarl.europa.eu/connefof/app/exp/COM(2018)0336"
-            ],
-            "Date": "11/09/2018",
-            "Summary": ""
-          }
-        ]
-      },
-      {
-        "institution": "Other institutions and bodies",
-        "rows": [
-          {
-            "Institution/body": "EESC",
-            "Document type": "Economic and Social Committee: opinion, report",
-            "Reference": "CES2875/2018",
-            "Reference_links": [
-              "https://dmsearch.eesc.europa.eu/search/public?k=(documenttype:AC)(documentnumber:2875)(documentyear:2018)(documentlanguage:EN)"
-            ],
-            "Date": "19/09/2018",
-            "Summary": ""
-          }
-        ]
-      }
-    ],
-    "additional_information": [
-      {
-        "Source": "European Commission",
-        "Document": "EUR-Lex",
-        "Document_links": [
-          "https://eur-lex.europa.eu/search.html?LP_INTER_CODE_NUM=0168*&SUBDOM_INIT=LEGAL_PROCEDURE&DTS_SUBDOM=LEGAL_PROCEDURE&DTS_DOM=EU_LAW&lang=en&locale=en&type=advanced&LP_INTER_CODE_YEAR=2018"
-        ],
-        "Date": ""
-      }
-    ]
-  },
-  {
     "content_hash": "62beb2a902515f2a58adf75e3b8d8223",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2018/0169(COD)",
     "reference": "2018/0169(COD)",
@@ -51186,7 +50777,7 @@
     ]
   },
   {
-    "content_hash": "ec51b2351456546f6899182f6a5c7de6",
+    "content_hash": "478b3176aa55ba69b03d599d30af693b",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2020/0100(COD)",
     "reference": "2020/0100(COD)",
     "title": "Public sector loan facility under the Just Transition Mechanism",
@@ -51201,7 +50792,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 322-p1",
+      "Legal basis": "Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 175-p3",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -51240,18 +50831,18 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur FERNANDES Jos\u00e9 Manuel (EPP) FITZGERALD Frances (EPP) HEIN\u00c4LUOMA Eero (S&D) BELKA Marek (S&D) ARMAND Clotilde (Renew) S\u00d8GAARD-LIDELL Linea (Renew) GEESE Alexandra (Greens/EFA) JURZYCA Eugen (ECR) LAPORTE H\u00e9l\u00e8ne (ID) BECK Gunnar (ID) KOKKALIS Petros (GUE/NGL)",
+            "Rapporteur": "Shadow rapporteur FITZGERALD Frances (EPP) FERNANDES Jos\u00e9 Manuel (EPP) BELKA Marek (S&D) HEIN\u00c4LUOMA Eero (S&D) S\u00d8GAARD-LIDELL Linea (Renew) ARMAND Clotilde (Renew) GEESE Alexandra (Greens/EFA) JURZYCA Eugen (ECR) BECK Gunnar (ID) LAPORTE H\u00e9l\u00e8ne (ID) KOKKALIS Petros (GUE/NGL)",
             "Rapporteur_links": [
-              "https://www.europarl.europa.eu/meps/en/96899",
               "https://www.europarl.europa.eu/meps/en/197720",
-              "https://www.europarl.europa.eu/meps/en/197800",
+              "https://www.europarl.europa.eu/meps/en/96899",
               "https://www.europarl.europa.eu/meps/en/197496",
-              "https://www.europarl.europa.eu/meps/en/197664",
+              "https://www.europarl.europa.eu/meps/en/197800",
               "https://www.europarl.europa.eu/meps/en/204331",
+              "https://www.europarl.europa.eu/meps/en/197664",
               "https://www.europarl.europa.eu/meps/en/183916",
               "https://www.europarl.europa.eu/meps/en/197767",
-              "https://www.europarl.europa.eu/meps/en/197597",
               "https://www.europarl.europa.eu/meps/en/132191",
+              "https://www.europarl.europa.eu/meps/en/197597",
               "https://www.europarl.europa.eu/meps/en/197743"
             ],
             "Appointed": ""
@@ -236267,7 +235858,7 @@
     ]
   },
   {
-    "content_hash": "4d8d619101e0b67ee31214ba1b26931c",
+    "content_hash": "a43076a95a9d60cd1a9b59a709822a77",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0240(COD)",
     "reference": "2025/0240(COD)",
     "title": "European Fund for economic, social and territorial cohesion, agriculture and rural, fisheries and maritime, prosperity and security 2028\u20132034",
@@ -236292,7 +235883,7 @@
           "/oeil/en/procedure-file?reference=2022/0162(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 59 Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 177-p1 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 212 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 164 Treaty on the Functioning of the European Union TFEU 178-p1 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 091-p1-ae Treaty on the Functioning of the European Union TFEU 046 Treaty on the Functioning of the European Union TFEU 153-p2-a1 Treaty on the Functioning of the European Union TFEU 209-p1 Treaty on the Functioning of the European Union TFEU 043-p3 Treaty on the Functioning of the European Union TFEU 149 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 194-p2",
+      "Legal basis": "Rules of Procedure EP 59 Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 177-p1 Treaty on the Functioning of the European Union TFEU 178-p1 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 212 Treaty on the Functioning of the European Union TFEU 349-p1sub1-as1 Treaty on the Functioning of the European Union TFEU 164 Treaty on the Functioning of the European Union TFEU 091-p1-ae Treaty on the Functioning of the European Union TFEU 046 Treaty on the Functioning of the European Union TFEU 153-p2-a1 Treaty on the Functioning of the European Union TFEU 209-p1 Treaty on the Functioning of the European Union TFEU 043-p3 Treaty on the Functioning of the European Union TFEU 149 Treaty on the Functioning of the European Union TFEU 042-p1 Treaty on the Functioning of the European Union TFEU 194-p2",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -236342,7 +235933,7 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur LINS Norbert (EPP) MAESTRE Cristina (S&D) REPP Sabrina (S&D) GERMAIN Jean-Marc (S&D) DEUTSCH Tam\u00e1s (PfE) DOSTALOVA Klara (PfE) RAZZA Ruggero (ECR) RUISSEN Bert-Jan (ECR) VENTOLA Francesco (ECR) KARVA\u0160OV\u00c1 \u013dubica (Renew) YAR Lucia (Renew) BOSANAC Gordan (Greens/EFA) CORMAND David (Greens/EFA) BOESELAGER Damian (Greens/EFA) OLIVEIRA Jo\u00e3o (The Left) FLANAGAN Luke Ming (The Left) PALMISANO Valentina (The Left) BOSSDORF Irmhild (ESN) JUNGBLUTH Alexander (ESN) BAUSEMER Arno (ESN)",
+            "Rapporteur": "Shadow rapporteur LINS Norbert (EPP) MAESTRE Cristina (S&D) REPP Sabrina (S&D) GERMAIN Jean-Marc (S&D) DEUTSCH Tam\u00e1s (PfE) DOSTALOVA Klara (PfE) RUISSEN Bert-Jan (ECR) RAZZA Ruggero (ECR) VENTOLA Francesco (ECR) KARVA\u0160OV\u00c1 \u013dubica (Renew) YAR Lucia (Renew) BOSANAC Gordan (Greens/EFA) CORMAND David (Greens/EFA) BOESELAGER Damian (Greens/EFA) OLIVEIRA Jo\u00e3o (The Left) FLANAGAN Luke Ming (The Left) PALMISANO Valentina (The Left) JUNGBLUTH Alexander (ESN) BOSSDORF Irmhild (ESN) BAUSEMER Arno (ESN)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/124808",
               "https://www.europarl.europa.eu/meps/en/197719",
@@ -236350,8 +235941,8 @@
               "https://www.europarl.europa.eu/meps/en/256901",
               "https://www.europarl.europa.eu/meps/en/96826",
               "https://www.europarl.europa.eu/meps/en/256853",
-              "https://www.europarl.europa.eu/meps/en/257104",
               "https://www.europarl.europa.eu/meps/en/197773",
+              "https://www.europarl.europa.eu/meps/en/257104",
               "https://www.europarl.europa.eu/meps/en/257099",
               "https://www.europarl.europa.eu/meps/en/257013",
               "https://www.europarl.europa.eu/meps/en/257011",
@@ -236361,8 +235952,8 @@
               "https://www.europarl.europa.eu/meps/en/257083",
               "https://www.europarl.europa.eu/meps/en/124985",
               "https://www.europarl.europa.eu/meps/en/257135",
-              "https://www.europarl.europa.eu/meps/en/256945",
               "https://www.europarl.europa.eu/meps/en/256941",
+              "https://www.europarl.europa.eu/meps/en/256945",
               "https://www.europarl.europa.eu/meps/en/256948"
             ],
             "Appointed": ""
@@ -240018,7 +239609,7 @@
     ]
   },
   {
-    "content_hash": "9caa9d8b2ccf3e7b63e921b335ff1ac6",
+    "content_hash": "d0c40bb96e19aaf19b05f085179d26ca",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0312(COD)",
     "reference": "2025/0312(COD)",
     "title": "Economic and budgetary surveillance of Member States in the euro area experiencing or threatened with serious difficulties with respect to their financial stability",
@@ -240031,7 +239622,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 121-p6 Treaty on the Functioning of the European Union TFEU 136",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 136 Treaty on the Functioning of the European Union TFEU 121-p6",
       "Mandatory consultation of other institutions": {
         "text": "European Central Bank",
         "links": [
@@ -240248,6 +239839,15 @@
               "https://www.europarl.europa.eu/RegData/commissions/econ/lcag/2026/06-24/ECON_LA(2026)004092_EN.pdf"
             ],
             "Date": "24/06/2026",
+            "Summary": ""
+          },
+          {
+            "Document type": "Draft final act",
+            "Reference": "00042/2026/LEX",
+            "Reference_links": [
+              "https://www.consilium.europa.eu/EN/documents/public-register/public-register-search/?DocumentNumber=42%2F26&DocumentTypes=LEGISLATIVE+ACTS+AND+OTHER+INSTRUMENTS"
+            ],
+            "Date": "17/11/2026",
             "Summary": ""
           }
         ]
@@ -247553,7 +247153,7 @@
     ]
   },
   {
-    "content_hash": "530ee6a2af18453ffa82dc767e58fd01",
+    "content_hash": "296c852431a4443eca8c5ad66913a586",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0400(COD)",
     "reference": "2025/0400(COD)",
     "title": "Acceleration of permit-granting procedures",
@@ -247576,7 +247176,7 @@
           "/oeil/en/procedure-file?reference=2021/0425(COD)"
         ]
       },
-      "Legal basis": "Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 294-p7-ac",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 294-p7-ac Treaty on the Functioning of the European Union TFEU 194-p2",
       "Other legal basis": "Rules of Procedure EP 165",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
@@ -247862,7 +247462,7 @@
     ],
     "additional_information": [
       {
-        "Source": "EP Research Service",
+        "Source": "European Parliament",
         "Document": "Briefing",
         "Document_links": [
           "https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2026)782623"
@@ -249618,7 +249218,7 @@
     ]
   },
   {
-    "content_hash": "6bc9db5beace9a38ce39845264cf853c",
+    "content_hash": "e94d008ef6b5345423388ee8454f2a49",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0410(COD)",
     "reference": "2025/0410(COD)",
     "title": "Amending certain Regulations as regards the simplification and strengthening of food and feed safety requirements (Omnibus X)",
@@ -249653,7 +249253,7 @@
           "/oeil/en/procedure-file?reference=2013/0140(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 168-p4 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 192-p1",
+      "Legal basis": "Rules of Procedure EP 58 Rules of Procedure EP 59 Treaty on the Functioning of the European Union TFEU 168-p4 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 114 Treaty on the Functioning of the European Union TFEU 192-p1",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -249692,11 +249292,11 @@
           },
           {
             "Joint committee responsible": "",
-            "Rapporteur": "Shadow rapporteur POLFJ\u00c4RD Jessica (EPP) BORZAN Biljana (S&D) C\u00c2RCIU Gheorghe (S&D) FRIGOUT Anne-Sophie (PfE) BORR\u00c1S PAB\u00d3N Mireia (PfE) FIDANZA Carlo (ECR) CASSART Benoit (Renew) STROLENBERG Anna (Greens/EFA) METZ Tilly (Greens/EFA) HAZEKAMP Anja (The Left) DAVID Ivan (ESN)",
+            "Rapporteur": "Shadow rapporteur POLFJ\u00c4RD Jessica (EPP) C\u00c2RCIU Gheorghe (S&D) BORZAN Biljana (S&D) FRIGOUT Anne-Sophie (PfE) BORR\u00c1S PAB\u00d3N Mireia (PfE) FIDANZA Carlo (ECR) CASSART Benoit (Renew) STROLENBERG Anna (Greens/EFA) METZ Tilly (Greens/EFA) HAZEKAMP Anja (The Left) DAVID Ivan (ESN)",
             "Rapporteur_links": [
               "https://www.europarl.europa.eu/meps/en/197404",
-              "https://www.europarl.europa.eu/meps/en/112748",
               "https://www.europarl.europa.eu/meps/en/257100",
+              "https://www.europarl.europa.eu/meps/en/112748",
               "https://www.europarl.europa.eu/meps/en/256876",
               "https://www.europarl.europa.eu/meps/en/257024",
               "https://www.europarl.europa.eu/meps/en/96810",
@@ -254335,7 +253935,7 @@
     ]
   },
   {
-    "content_hash": "62d8884f8b5c59d9aed90a6171ece319",
+    "content_hash": "634ba35900717a4dd9d65cd15ae68ed7",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0542(COD)",
     "reference": "2025/0542(COD)",
     "title": "Union support for internal security 2028\u20132034",
@@ -254349,7 +253949,7 @@
       "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
       "Procedure subtype": "Legislation",
       "Legislative instrument": "Regulation",
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 084 Treaty on the Functioning of the European Union TFEU 087-p2 Treaty on the Functioning of the European Union TFEU 082-p1",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 084 Treaty on the Functioning of the European Union TFEU 082-p1 Treaty on the Functioning of the European Union TFEU 087-p2",
       "Stage reached in procedure": "Awaiting Parliament's position in 1st reading",
       "Committee dossier": "LIBE/10/03656"
     },
@@ -255656,7 +255256,7 @@
     ]
   },
   {
-    "content_hash": "69fba16b30506a8067f08a62f81b1a02",
+    "content_hash": "894531dda0b02bcec60941ce19939882",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0555(COD)",
     "reference": "2025/0555(COD)",
     "title": "European Competitiveness Fund",
@@ -255685,7 +255285,7 @@
           "/oeil/en/procedure-file?reference=2022/0039(COD)"
         ]
       },
-      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 183 Treaty on the Functioning of the European Union TFEU 212 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 172 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 182-p4 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 168-p5 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 189",
+      "Legal basis": "Rules of Procedure EP 58 Treaty on the Functioning of the European Union TFEU 212 Treaty on the Functioning of the European Union TFEU 322-p1 Treaty on the Functioning of the European Union TFEU 173-p3 Treaty on the Functioning of the European Union TFEU 172 Treaty on the Functioning of the European Union TFEU 175-p3 Treaty on the Functioning of the European Union TFEU 182-p4 Treaty on the Functioning of the European Union TFEU 192-p1 Treaty on the Functioning of the European Union TFEU 043-p2 Treaty on the Functioning of the European Union TFEU 168-p5 Treaty on the Functioning of the European Union TFEU 194-p2 Treaty on the Functioning of the European Union TFEU 188-p2 Treaty on the Functioning of the European Union TFEU 183 Treaty on the Functioning of the European Union TFEU 189",
       "Mandatory consultation of other institutions": {
         "text": "European Economic and Social Committee European Committee of the Regions",
         "links": [
@@ -260807,7 +260407,7 @@
     ]
   },
   {
-    "content_hash": "395ec07b836cbfeff30fc8fcb811d0e4",
+    "content_hash": "c7e27ff0517f2592d0d1a0c6af9b1174",
     "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0085(COD)",
     "reference": "2026/0085(COD)",
     "title": "Market stability reserve for the EU Emissions Trading System (EU ETS): ceasing the invalidation of allowances",
@@ -260968,7 +260568,10 @@
       {
         "Date": "04/11/2026",
         "Event": "Approval in committee of the text agreed at 1st reading interinstitutional negotiations",
-        "Reference": "",
+        "Reference": "PE798.460 GEDA/A/(2026)006658",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/RegData/commissions/envi/inag/2026/11-17/ENVI_AG(2026)798460_EN.pdf"
+        ],
         "Summary": ""
       }
     ],
@@ -261019,6 +260622,27 @@
             "Summary_links": [
               "/oeil/en/document-summary?id=1914952"
             ]
+          },
+          {
+            "Document type": "Text agreed during interinstitutional negotiations",
+            "Committee": "",
+            "Reference": "PE798.460",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/RegData/commissions/envi/inag/2026/11-17/ENVI_AG(2026)798460_EN.pdf"
+            ],
+            "Date": "17/11/2026",
+            "Summary": ""
+          }
+        ]
+      },
+      {
+        "institution": "Council of the EU",
+        "rows": [
+          {
+            "Document type": "Coreper letter confirming interinstitutional agreement",
+            "Reference": "GEDA/A/(2026)006658",
+            "Date": "11/11/2026",
+            "Summary": ""
           }
         ]
       },
@@ -267829,6 +267453,88 @@
         "Document": "EUR-Lex",
         "Document_links": [
           "https://eur-lex.europa.eu/search.html?LP_INTER_CODE_NUM=0342*&SUBDOM_INIT=LEGAL_PROCEDURE&DTS_SUBDOM=LEGAL_PROCEDURE&DTS_DOM=EU_LAW&lang=en&locale=en&type=advanced&LP_INTER_CODE_YEAR=2026"
+        ],
+        "Date": ""
+      }
+    ]
+  },
+  {
+    "content_hash": "ec8df8d4ecf7ddc925671e8e4af325b6",
+    "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2026/0346(COD)",
+    "reference": "2026/0346(COD)",
+    "title": "Convention area of the South East Atlantic Fisheries Organisation (SEAFO): management, conservation and control measures",
+    "status": "Preparatory phase in Parliament",
+    "subjects": [
+      "3.15.01 Fish stocks, conservation of fishery resources"
+    ],
+    "technical_information": {
+      "Procedure reference": "2026/0346(COD)",
+      "Procedure type": "COD - Ordinary legislative procedure (ex-codecision procedure)",
+      "Procedure subtype": "Legislation",
+      "Legislative instrument": "Regulation",
+      "Legal basis": "Treaty on the Functioning of the European Union TFEU 043-p2",
+      "Mandatory consultation of other institutions": {
+        "text": "European Economic and Social Committee",
+        "links": [
+          "http://www.eesc.europa.eu/"
+        ]
+      },
+      "Stage reached in procedure": "Preparatory phase in Parliament"
+    },
+    "key_players": [
+      {
+        "institution": "European Parliament",
+        "rows": [
+          {
+            "Committee responsible": "Pending final decision on the referral"
+          }
+        ]
+      },
+      {
+        "institution": "Council of the European Union",
+        "rows": []
+      },
+      {
+        "institution": "European Economic and Social Committee",
+        "rows": []
+      }
+    ],
+    "timeline": [
+      {
+        "Date": "13/11/2026",
+        "Event": "Legislative proposal published",
+        "Reference": "COM(2026)0603",
+        "Reference_links": [
+          "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0603/COM_COM(2026)0603_EN.pdf",
+          "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0603"
+        ],
+        "Summary": ""
+      }
+    ],
+    "last_action": "13/11/2026 - Legislative proposal published",
+    "documents": [
+      {
+        "institution": "European Commission",
+        "rows": [
+          {
+            "Document type": "Legislative proposal",
+            "Reference": "COM(2026)0603",
+            "Reference_links": [
+              "https://www.europarl.europa.eu/RegData/docs_autres_institutions/commission_europeenne/com/2026/0603/COM_COM(2026)0603_EN.pdf",
+              "https://eur-lex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexplus!prod!DocNumber&lg=EN&type_doc=COMfinal&an_doc=2026&nu_doc=0603"
+            ],
+            "Date": "13/11/2026",
+            "Summary": ""
+          }
+        ]
+      }
+    ],
+    "additional_information": [
+      {
+        "Source": "European Commission",
+        "Document": "EUR-Lex",
+        "Document_links": [
+          "https://eur-lex.europa.eu/search.html?LP_INTER_CODE_NUM=0346*&SUBDOM_INIT=LEGAL_PROCEDURE&DTS_SUBDOM=LEGAL_PROCEDURE&DTS_DOM=EU_LAW&lang=en&locale=en&type=advanced&LP_INTER_CODE_YEAR=2026"
         ],
         "Date": ""
       }
